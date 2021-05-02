@@ -45,6 +45,7 @@ def xline(a, b):
         if b[0] + i <= 14 and b[1] - i >= 0:
             if [b[0] + i, b[1] - i] in lst:
                 match.append([b[0] + i, b[1] - i])
+    # Filter
     if a[0] == b[0]:
         i = 1
         while [min(a, b)[0], min(a, b)[1] + i] in match:
@@ -55,9 +56,10 @@ def xline(a, b):
         while [min(a, b)[0]+i, min(a, b)[1]] in match:
             match.remove([min(a, b)[0]+i, min(a, b)[1]])
             i += 1
+
     return match
 
 
-inp1 = (4, 9)
+inp1 = (4, 4)
 inp2 = (4, 5)
 print(xline(inp1, inp2))
