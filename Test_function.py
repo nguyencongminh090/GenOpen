@@ -1,5 +1,4 @@
 def xline(a, b):
-    x1, y1 = a
     lst = []
     match = []
     # Case 1
@@ -49,7 +48,7 @@ def xline(a, b):
     if a[0] == b[0]:
         i = 0
         while i <= len(match)-1:
-            if match[i][0] == min(a,b)[0] and abs(match[i][1] - min(a,b)[1]) <= 5:
+            if match[i][0] == min(a, b)[0] and abs(match[i][1] - min(a, b)[1]) <= 5:
                 match.pop(i)
             else:
                 i += 1
@@ -71,6 +70,16 @@ def xline(a, b):
     return match
 
 
-inp1 = (4, 6)
-inp2 = (8, 6)
-print(xline(inp1, inp2))
+def generate(n):
+    arr = []
+    for y in range(0, n-1):
+        for x in range(0, n + 1):
+            for y1 in range(y + 1, n):
+                for x1 in range(0, n+1):
+                    for y2 in range(y1 + 1, n + 1):
+                        for x2 in range(0, n+1):
+                            arr.append([[x, y], [x1, y1], [x2, y2]])
+    print(len(arr))
+
+
+print(generate(14))
