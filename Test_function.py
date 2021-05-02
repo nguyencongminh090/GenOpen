@@ -70,6 +70,14 @@ def xline(a, b):
     return match
 
 
+def check(a, b, c):
+    # a and c is black stone
+    # b is white stone.
+    chk = xline(a, c)
+    print(chk)
+    pass
+
+
 def generate(n):
     arr = []
     for y in range(0, n-1):
