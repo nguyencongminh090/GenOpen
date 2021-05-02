@@ -73,8 +73,16 @@ def xline(a, b):
 def check(a, b, c):
     # a and c is black stone
     # b is white stone.
+    print(a, c)
     chk = xline(a, c)
+    chk.append(a)
+    chk.append(c)
     print(chk)
+    for i in chk:
+        if i[1] == 0:
+            continue
+        # Solve
+        print(i)
     pass
 
 
@@ -90,4 +98,5 @@ def generate(n):
     print(len(arr))
 
 
-print(generate(14))
+# print(generate(14))
+print(check([7, 3], [6, 11], [2, 2]))
