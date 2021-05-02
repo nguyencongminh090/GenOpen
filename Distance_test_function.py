@@ -1,14 +1,3 @@
-from connect import *
-
-
-def generate():
-    pass
-
-
-def evaluate():
-    pass
-
-
 def xline(a, b):
     x1, y1 = a
     lst = [[x1, y1]]
@@ -69,6 +58,6 @@ def xline(a, b):
     return match
 
 
-def distance():
-    pass
-
+inp1 = (9, 4)
+inp2 = (4, 7)
+print(xline(inp1, inp2))
