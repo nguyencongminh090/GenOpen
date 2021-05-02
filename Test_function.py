@@ -47,12 +47,12 @@ def xline(a, b):
                 match.append([b[0] + i, b[1] - i])
     # Filter
     if a[0] == b[0]:
-        i = 1
+        i = 0
         while [min(a, b)[0], min(a, b)[1] + i] in match:
             match.remove([min(a, b)[0], min(a, b)[1] + i])
             i += 1
     elif a[1] == b[1]:
-        i = 1
+        i = 0
         while [min(a, b)[0]+i, min(a, b)[1]] in match:
             match.remove([min(a, b)[0]+i, min(a, b)[1]])
             i += 1
