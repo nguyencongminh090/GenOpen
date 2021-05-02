@@ -1,6 +1,6 @@
 def xline(a, b):
     x1, y1 = a
-    lst = [[x1, y1]]
+    lst = []
     match = []
     # Case 1
     for i in range(1, 5):
@@ -48,18 +48,27 @@ def xline(a, b):
     # Filter
     if a[0] == b[0]:
         i = 0
-        while [min(a, b)[0], min(a, b)[1] + i] in match:
-            match.remove([min(a, b)[0], min(a, b)[1] + i])
-            i += 1
+        print('Min:', min(a, b))
+        while i <= len(match)-1:
+            print('Current:', match[i])
+            if match[i][0] == min(a,b)[0] and abs(match[i][1] - min(a,b)[1]) <= 5:
+                print('--> Deleted')
+                match.pop(i)
+            else:
+                i += 1
     elif a[1] == b[1]:
         i = 0
-        while [min(a, b)[0]+i, min(a, b)[1]] in match:
-            match.remove([min(a, b)[0]+i, min(a, b)[1]])
-            i += 1
+        while i <= len(match)-1:
+            print('Current:', match[i])
+            if match[i][1] == min(a, b)[1] and abs(match[i][0] - min(a, b)[0]) <= 5:
+                print('--> Deleted')
+                match.pop(i)
+            else:
+                i += 1
 
     return match
 
 
-inp1 = (4, 4)
-inp2 = (4, 5)
+inp1 = (7, 2)
+inp2 = (12, 4)
 print(xline(inp1, inp2))
