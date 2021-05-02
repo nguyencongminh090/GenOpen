@@ -48,27 +48,29 @@ def xline(a, b):
     # Filter
     if a[0] == b[0]:
         i = 0
-        print('Min:', min(a, b))
         while i <= len(match)-1:
-            print('Current:', match[i])
             if match[i][0] == min(a,b)[0] and abs(match[i][1] - min(a,b)[1]) <= 5:
-                print('--> Deleted')
                 match.pop(i)
             else:
                 i += 1
     elif a[1] == b[1]:
         i = 0
         while i <= len(match)-1:
-            print('Current:', match[i])
             if match[i][1] == min(a, b)[1] and abs(match[i][0] - min(a, b)[0]) <= 5:
-                print('--> Deleted')
                 match.pop(i)
             else:
                 i += 1
-
+    i = 0
+    while i <= len(match)-1:
+        if abs(match[i][0] - a[0]) + 1 == 5 or abs(match[i][1] - a[1]) + 1 == 5:
+            match.remove(match[i])
+        elif abs(match[i][0] - b[0]) + 1 == 5 or abs(match[i][1] - b[1]) + 1 == 5:
+            match.remove(match[i])
+        else:
+            i += 1
     return match
 
 
-inp1 = (7, 2)
-inp2 = (12, 4)
+inp1 = (4, 6)
+inp2 = (8, 6)
 print(xline(inp1, inp2))

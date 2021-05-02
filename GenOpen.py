@@ -1,4 +1,4 @@
-#from connect import *
+# from connect import *
 
 
 def generate():
@@ -70,6 +70,15 @@ def xline(a, b):
                 match.pop(i)
             else:
                 i += 1
+    i = 0
+    while i <= len(match)-1:
+        if abs(match[i][0] - a[0]) + 1 == 5 or abs(match[i][1] - a[1]) + 1 == 5:
+            match.remove(match[i])
+        elif abs(match[i][0] - b[0]) + 1 == 5 or abs(match[i][1] - b[1]) + 1 == 5:
+            match.remove(match[i])
+        else:
+            i += 1
+    return match
 
 
 def distance():
