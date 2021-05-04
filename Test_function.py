@@ -79,10 +79,10 @@ def check(a, b, c, n):
     # 1. Ignore close stone
     # 1.1 Check a, b
     t1 = True
-    if abs(a[0] - b[0]) + 1 < 3 or abs(a[1] - b[1]) + 1 < 3:
+    if abs(a[0] - b[0]) + 1 < 4 or abs(a[1] - b[1]) + 1 < 4:
         t1 = False - 1
     t2 = True
-    if abs(b[0] - c[0]) + 1 < 3 or abs(b[1] - c[1]) + 1 < 3:
+    if abs(b[0] - c[0]) + 1 < 4 or abs(b[1] - c[1]) + 1 < 4:
         t2 = False - 1
     t3 = True
     if abs(a[0] - c[0]) + 1 <= 3 or abs(a[1] - c[1]) + 1 <= 3:
