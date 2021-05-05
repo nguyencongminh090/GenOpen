@@ -1,4 +1,6 @@
 def xline(a, b):
+    if abs(a[0] - b[0]) + 1 >= 7 or abs(a[1] - b[1]) + 1 >= 7:
+        return []
     lst = []
     match = []
     # Case 1
@@ -77,7 +79,6 @@ def check(a, b, c, n):
     chk = xline(a, c)
     # Filter
     # 1. Ignore close stone
-    # 1.1 Check a, b
     t1 = True
     if abs(a[0] - b[0]) + 1 < 4 or abs(a[1] - b[1]) + 1 < 4:
         t1 = False - 1
@@ -89,14 +90,22 @@ def check(a, b, c, n):
         t3 = False
     if t1 + t2 + t3 < 2:
         return False
+    # 2. Ignore bad opening
+    if 0 in b or 14 in b:
+        if a[0] in range(2, 12) or a[1] in range(2, 12) or b[0] in range(2, 12) or b[1] in range(2, 12):
+            return False
+
     if chk:
         chk.append(a)
         chk.append(c)
         for i in chk:
-            if i[1] == 0:
+            if i[1] == 0 or i[0] == 0:
                 continue
             # Solve
-            if abs(i[0] - b[0]) + 1 <= 6:
+            if i == a or i == c:
+                if abs(i[0] - b[0]) + 1 <= 5 and abs(i[1] - b[1]) + 1 <= 5:
+                    return True
+            if abs(i[0] - b[0]) + 1 <= 6 and abs(i[1] - b[1]) + 1 <= 6:
                 return True
         if len(chk) == 4:
             if a[0] == c[0] == 0 or a[1] == c[1] == 0 or a[0] == c[0] == n or a[1] == c[1] == n:
@@ -105,7 +114,6 @@ def check(a, b, c, n):
                         return True
     else:
         if b[0] == 0 or b[1] == 0 or b[0] == n or b[1] == n:
-            # if abs(a[0] - b[0])
             return True
         return False
 
