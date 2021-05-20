@@ -1,0 +1,82 @@
+Compiled on May 17 2021 at 21:00:40
+Launched in Engine\
+Received : INFO max_memory 4294967296
+Received : INFO timeout_match 900000
+Received : INFO timeout_turn 900000
+Received : INFO game_type 1
+Received : INFO rule 1
+Received : INFO time_left 900000
+Received : BOARD
+Received : 0,0,2
+Received : 4,4,1
+Received : 1,0,2
+Received : DONE
+BEST
+CROSS  ( 4, 5) : U : Q=0.004460 : 0.000676 : 0.994864 : P=0.112290 : Visits=198 : Children=30
+CROSS  ( 2, 0) : U : Q=0.012019 : 0.000835 : 0.987146 : P=0.049343 : Visits=114 : Children=30
+CROSS  ( 4, 0) : U : Q=0.009389 : 0.000599 : 0.990011 : P=0.041273 : Visits=87 : Children=30
+CROSS  ( 3, 0) : U : Q=0.014051 : 0.000814 : 0.985135 : P=0.030666 : Visits=79 : Children=30
+CROSS  ( 3, 2) : U : Q=0.003438 : 0.000473 : 0.996089 : P=0.039428 : Visits=67 : Children=30
+CROSS  ( 4, 2) : U : Q=0.003895 : 0.000563 : 0.995542 : P=0.037584 : Visits=65 : Children=30
+CROSS  ( 4, 1) : U : Q=0.002992 : 0.000403 : 0.996605 : P=0.037353 : Visits=62 : Children=30
+CROSS  ( 3, 1) : U : Q=0.003604 : 0.000420 : 0.995976 : P=0.033664 : Visits=57 : Children=30
+CROSS  ( 3, 3) : U : Q=0.003329 : 0.000504 : 0.996166 : P=0.033664 : Visits=57 : Children=30
+CROSS  ( 5, 1) : U : Q=0.004028 : 0.000498 : 0.995474 : P=0.032511 : Visits=56 : Children=30
+  X   23  _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  X   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  63  27  27  27  26  _   _   _   _   _   _   _   _   _   _ 
+  44  31  37  31  25  _   25  _   29  _   _   _   _   _   _ 
+  48  34  36  O   O  110  28  26  _   _   _   _   _   _   _ 
+  _   31  28  23  _   _   28  26  25  28  _   _   _   _   _ 
+  _   _   24  _   _   _   24  _   _   28  _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   24  _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+
+CIRCLE ( 0, 0) : U : Q=0.994230 : 0.000514 : 0.005256 : P=0.000000 : Visits=1795 : Children=30
+CROSS  ( 4, 5) : U : Q=0.004460 : 0.000676 : 0.994864 : P=0.112290 : Visits=198 : Children=30
+CIRCLE ( 5, 3) : U : Q=0.994734 : 0.000467 : 0.004799 : P=0.241069 : Visits=50 : Children=30
+CROSS  ( 3, 5) : U : Q=0.006001 : 0.000485 : 0.993514 : P=0.514150 : Visits=32 : Children=30
+CIRCLE ( 5, 5) : U : Q=0.993896 : 0.000393 : 0.005711 : P=0.350867 : Visits=13 : Children=30
+CROSS  ( 3, 3) : U : Q=0.005280 : 0.000381 : 0.994339 : P=0.745265 : Visits=12 : Children=30
+CIRCLE ( 5, 4) : U : Q=0.993940 : 0.000400 : 0.005659 : P=0.851956 : Visits=11 : Children=4
+CROSS  ( 5, 2) : U : Q=0.006410 : 0.000434 : 0.993156 : P=0.851296 : Visits=9 : Children=30
+CIRCLE ( 6, 5) : U : Q=0.996946 : 0.000378 : 0.002676 : P=0.385405 : Visits=4 : Children=6
+CROSS  ( 3, 2) : U : Q=0.001780 : 0.000382 : 0.997837 : P=0.860040 : Visits=3 : Children=7
+CIRCLE ( 3, 4) : U : Q=0.997845 : 0.000400 : 0.001755 : P=0.819674 : Visits=2 : Children=8
+CROSS  ( 6, 4) : U : Q=0.001603 : 0.000548 : 0.997849 : P=0.970543 : Visits=1 : Children=30
+CIRCLE ( 7, 6) : U : Q=0.000000 : 0.000000 : 0.000000 : P=0.226416 : Visits=0 : Children=0
+----EvaluationQueue----
+avg batch size = 7.994061
+network   = 400.410018s : 14143 : 28.311533 ms
+pack      = 0.109377s : 14143 : 7.733676 us
+unpack    = 0.015625s : 14143 : 1.104770 us
+
+----SearchStats----
+nb_duplicate_nodes = 1
+select     = 0.000000s : 1796 : 0.000000 us
+expand     = 0.015628s : 1795 : 8.706462 us
+vcf solver = 0.046876s : 1795 : 26.115003 us
+backup     = 0.000000s : 1795 : 0.000000 us
+evaluate   = 0.000000s : 361 : 0.000000 us
+game rules = 0.000000s : 1796 : 0.000000 us
+
+----TreeStats----
+used nodes      = 48609
+allocated nodes = 100000000
+proven nodes    = 0 : 0 : 1 (win:draw:loss)
+memory = 1MB
+----CacheStats----
+hit rate = 79.800000%
+time_seek    = 0.000000s : 1795 : 0.000000 us
+time_insert  = 0.000000s : 361 : 0.000000 us
+time_cleanup = 0.015624s : 1 : 15.624285 ms
+entries = 2586 : 8048 : 10634 (stored:buffered:allocated)
+memory = 33MB
+
+Answered : MESSAGE depth 1-13 ev 0.5 n 1795 n/s 57446 tm 31 pv Xe5 Of3 Xd5 Of5 Xd3 Of4 Xf2 Og5 Xd2 Od4 Xg4 Oh6

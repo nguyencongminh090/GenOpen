@@ -1,0 +1,6815 @@
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 0
+INFO rule 1
+INFO time_left 887136
+INFO folder C:\ProgramData
+BOARD
+7,2,2
+4,7,1
+12,4,2
+6,7,1
+10,2,2
+5,7,1
+7,7,2
+6,5,1
+9,2,2
+8,2,1
+9,1,2
+11,3,1
+9,4,2
+9,3,1
+8,3,2
+10,5,1
+10,1,2
+8,4,1
+7,5,2
+8,1,1
+10,4,2
+DONE
+MESSAGE depth 1-24 ev 31.3 n 6417 n/s 182 tm 35194 pv Od10 Xe7 Oa11 Xg8 Og9 Xd12 Oe13 Xi6 Of9 Xi7 Og7 Xi8 Oi9 Xh8 Oj8 Xh9 Oi10 Xk6 Oh3 Xh2 Oj7 Xk5 Ok4
+10,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 899604
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-12 ev 43.7 n 1349 n/s 36 tm 36670 pv Of10 Xe12 Oe9 Xc10 Oc12 Xd11 Of13 Xd8 Od9 Xb9 Oa8
+10,5
+INFO time_left 862922
+TURN 9,4
+MESSAGE depth 1-15 ev 54.0 n 1494 n/s 2897 tm 515 pv Xe12 Oe9 Xc10 Oc12 Xd11 Ob9 Xg11 Of11 Xf9 Oh10 Xi10 Oh11 Xh12 Og9
+MESSAGE depth 1-12 ev 51.3 n 1533 n/s 44 tm 34733 pv Oe8 Xf11 Of8 Xc11 Og8 Xh8 Od11 Xd10 Oa13 Xe12 Of9
+8,4
+INFO time_left 828122
+TURN 11,3
+MESSAGE depth 1-16 ev 42.0 n 2293 n/s 1155 tm 1984 pv Xf11 Og8 Xe11 Of8 Xd8 Of9 Xd11 Oc11 Xd9 Od7 Xg10 Of7 Xf6 Oe7 Xg7
+MESSAGE depth 1-20 ev 52.2 n 1286 n/s 37 tm 33889 pv Od10 Xe12 Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Oh9 Xd13 Oc14 Xe13 Of13 Xb10 Ob11 Xd9 Og12 Xd12 Oc11
+10,3
+INFO time_left 794179
+TURN 12,4
+MESSAGE depth 1-26 ev 57.8 n 2625 n/s 1647 tm 1593 pv Xe12 Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xi11 Oj12 Xj11 Og11 Xi13 Oc8 Xd8
+MESSAGE depth 1-24 ev 36.3 n 3388 n/s 102 tm 33061 pv Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og11 Xi11 Oj12 Xj10 Og13 Xf12 Oh12 Xi13 Oi10
+10,2
+INFO time_left 761054
+TURN 10,4
+MESSAGE depth 1-25 ev 62.7 n 3479 n/s 3226 tm 1078 pv Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og11 Xi11 Oj12 Xj10 Og13 Xf12 Oh12 Xi13 Oi10 Xh8 Oc8
+MESSAGE depth 1-30 ev 37.7 n 5102 n/s 161 tm 31514 pv Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og11 Xc8 Od9 Xi11 Oj12 Xj10 Og13 Xf12 Of13 Xe13 Oi13 Xj13 Oh12 Xj14 Ok10 Xk11 Oj11
+9,5
+INFO time_left 729482
+TURN 11,5
+MESSAGE depth 1-29 ev 61.0 n 5490 n/s 5955 tm 921 pv Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og11 Xc8 Od9 Xi11 Oj12 Xj10 Og13 Xf12 Of13 Xe13 Oi13 Xj13 Oh12 Xj14 Ok10 Xk11 Oj11
+MESSAGE depth 1-24 ev 37.4 n 5820 n/s 191 tm 30421 pv Oe11 Xg10 Od13 Xf7 Oi8 Xh10 Oc9 Xb8 Oc8 Xc7 Od6 Xg8 Og9 Xh8 Oh9 Xi9 Of12 Xg13 Oj10 Xg5 Oe7 Xf6 Of5
+11,4
+INFO time_left 698983
+TURN 10,6
+MESSAGE depth 1-23 ev 62.1 n 6574 n/s 30053 tm 218 pv Xg10 Od13 Xf7 Oi8 Xh10 Oc9 Xb8 Oc8 Xc7 Od6 Xg8 Og9 Xh8 Oh9 Xi9 Of12 Xg13 Oj10 Xg5 Oe7 Xf6 Of5
+MESSAGE depth 1-23 ev 37.8 n 7357 n/s 265 tm 27749 pv Od13 Xf7 Oi8 Xh8 Oc8 Xc9 Od6 Xd7 Oe7 Xf8 Oe5 Xf4 Og5 Xe6 Of5 Xh5 Oh4 Xf6 Oh9 Xj9 Og6 Xe4
+13,3
+INFO time_left 671180
+TURN 7,5
+MESSAGE depth 1-23 ev 62.2 n 7470 n/s 8537 tm 875 pv Xf7 Oi8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi9 Ok9 Xj10 Ok11 Xj11 Oj8
+MESSAGE depth 1-22 ev 36.5 n 9407 n/s 353 tm 26624 pv Oi8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Of5 Xj12 Og9 Xk11 Ol10
+8,8
+INFO time_left 644481
+TURN 12,6
+MESSAGE depth 1-21 ev 63.7 n 4840 n/s 4996 tm 968 pv Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Og9 Xk11 Ol10
+MESSAGE depth 1-19 ev 32.7 n 4449 n/s 173 tm 25577 pv Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Ok13 Xk11
+13,7
+INFO time_left 618843
+TURN 10,7
+MESSAGE depth 1-19 ev 68.0 n 5173 n/s 11824 tm 437 pv Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Og9 Xk11 Ol10
+MESSAGE depth 1-16 ev 29.0 n 4549 n/s 177 tm 25608 pv Og13 Xf12 Oh12 Xc8 Od9 Xh8 Oj10 Xi11 Oj11 Xj12 Og9 Xj9 Oh7 Xe6 Of5
+13,6
+INFO time_left 593171
+TURN 12,5
+MESSAGE depth 1-21 ev 68.4 n 3787 n/s 5636 tm 671 pv Xf12 Oh12 Xc8 Od9 Xh8 Oj11 Xh7 Oh9 Xg7 Oe7 Xi9 Oe13 Xf13 Oj10 Xi11 Oj12 Xj8 Og11 Xj13 Ok12
+MESSAGE depth 1-15 ev 31.9 n 3610 n/s 154 tm 23436 pv Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Ok13 Xk11
+12,7
+INFO time_left 569672
+TURN 8,2
+MESSAGE depth 1-15 ev 67.4 n 4033 n/s 6452 tm 625 pv Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Og9 Xk11 Ol10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 625 pv
+9,3
+INFO time_left 568985
+TURN 11,8
+MESSAGE depth 1-14 ev 69.1 n 2509 n/s 1316 tm 1906 pv Xh8 Oj11 Xi11 Oj12 Xj13 Oh7 Xk10 Oi10 Xg8 Oe13 Xf13 Oj8 Xe6
+MESSAGE depth 1-15 ev 29.7 n 1909 n/s 80 tm 23593 pv Oj12 Xh8 Oj11 Xj13 Oh7 Xk10 Oi10 Xg8 Og9 Xe6 Od5 Xf5 Od7 Xf6
+12,9
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 899578
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-19 ev 41.0 n 9126 n/s 254 tm 35873 pv Oe9 Xc10 Of10 Xe12 Oc12 Xd11 Of13 Xd8 Od9 Xf9 Oe7 Xe8 Oc8 Xg10 Oh11 Xb9 Oa8 Xf11
+9,4
+INFO time_left 863688
+TURN 10,5
+MESSAGE depth 1-26 ev 58.4 n 9825 n/s 69865 tm 140 pv Xc10 Of10 Xe12 Oc12 Xd11 Ob9 Xd8 Od9 Xc9 Oe7 Xf13 Og14 Xe11 Oe8 Xe6 Of11 Xe13 Od13 Xh10 Of12 Xf9 Og7 Xf7 Og8 Xh6
+MESSAGE depth 1-32 ev 48.7 n 7794 n/s 227 tm 34233 pv Og10 Xc10 Og9 Xc12 Oc11 Xe12 Od12 Xd11 Ob9 Xf13 Og14 Xe13 Od13 Xe10 Of9 Xh9 Oh11 Xe8 Of7 Xd10 Ob10 Xe11 Oe14 Xf12 Oi12 Xj13 Oc9 Xf11 Of14 Xh14 Og13
+10,6
+INFO time_left 829381
+TURN 11,4
+MESSAGE depth 1-25 ev 50.1 n 9406 n/s 120362 tm 78 pv Xf9 Oe11 Xe10 Od11 Xf11 Of12 Xf7 Of8 Xd10 Og12 Xg8 Oh12 Xi12 Oc10 Xe12 Oh7 Xe6 Oh9 Xg6 Og11 Xg13 Oh10 Xi9 Oi10
+MESSAGE depth 1-20 ev 52.5 n 7653 n/s 232 tm 32952 pv Od12 Xd9 Og8 Xf11 Of12 Xd11 Oc11 Xc10 Oe12 Xg12 Oe10 Xg7 Of7 Xe6 Oh8 Xi8 Oh11 Xh9 Oi6
+12,3
+INFO time_left 796352
+TURN 9,3
+MESSAGE depth 1-26 ev 46.6 n 24800 n/s 93358 tm 265 pv Xf11 Of12 Xg12 Oh11 Xf9 Og8 Xf7 Of8 Xd9 Oe10 Xg7 Oe7 Xe8 Og6 Xd6 Od7 Xe5 Of4 Xc7 Of6 Xb8 Oa9 Xc10 Ob11 Xg5
+MESSAGE depth 1-22 ev 56.0 n 11771 n/s 372 tm 31561 pv Of7 Xc10 Of11 Xd11 Ob10 Xh9 Oc11 Xe13 Oe12 Xg7 Oh8 Xf5 Oe6 Xd5 Og5 Xe4 Og6 Xc6 Ob7 Xd7 Od6
+7,5
+INFO time_left 764755
+TURN 11,5
+MESSAGE depth 1-25 ev 43.3 n 15041 n/s 962609 tm 15 pv Xc10 Of11 Xd11 Ob10 Xh9 Oc11 Xe13 Oe12 Xg7 Oh8 Xf5 Od13 Xc14 Oh11 Xd7 Og12 Xf12 Od8 Xe6 Og4 Xg11 Oh10 Xc6 Oi10
+MESSAGE depth 1-37 ev 50.3 n 6852 n/s 225 tm 30389 pv Of12 Xd11 Oc11 Xe10 Og12 Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xd7 Od10 Xg7 Oe6 Xg8 Oh7 Xg5 Og9 Xe13 Oe14 Xf6 Oe7 Xd6 Od5 Xe5 Oh8 Xh10 Of4 Xh5 Oi5 Xg4 Og6 Xf3
+12,5
+INFO time_left 734300
+TURN 11,3
+MESSAGE depth 1-35 ev 46.4 n 8257 n/s 35227 tm 234 pv Xd11 Oc11 Xe10 Og12 Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xd7 Od10 Xg7 Oe6 Xg8 Oh7 Xg5 Og9 Xe13 Oe14 Xe5 Od6 Xc5 Oh10 Xe7 Oj12 Xi11 Of6 Xg6 Og4 Xc6 Oc4
+MESSAGE depth 1-34 ev 47.2 n 13435 n/s 459 tm 29217 pv Oc11 Xe10 Og12 Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xf6 Od7 Xe7 Og7 Xd10 Oc9 Xe13 Oe14 Xi7 Oh7 Xi5 Oh4 Xh5 Oi8 Xg6 Oh8 Xg8 Og11 Xg13 Oh10 Xh9 Oi10
+11,2
+INFO time_left 705021
+TURN 10,4
+MESSAGE depth 1-37 ev 52.6 n 12989 n/s 39566 tm 328 pv Xe10 Og12 Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xf6 Od7 Xe7 Og7 Xd10 Oc9 Xe13 Oe14 Xi7 Oh7 Xi5 Oh4 Xh5 Oj5 Xi6 Oi8 Xg6 Oh6 Xh8 Og9 Xe5 Oe6 Xg3 Of3 Xk5 Oi4
+MESSAGE depth 1-34 ev 47.4 n 17897 n/s 643 tm 27827 pv Og12 Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xf6 Od7 Xe7 Og7 Xd10 Oc9 Xe13 Oe14 Xi7 Oh7 Xi5 Oh4 Xh5 Oj5 Xi6 Oi8 Xj8 Og6 Xf5 Oh6 Xg8 Og4 Xj9 Oi4
+12,6
+INFO time_left 677125
+TURN 12,4
+MESSAGE depth 1-33 ev 53.3 n 14730 n/s 62843 tm 234 pv Xe12 Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xf6 Od7 Xe7 Og7 Xd10 Oc9 Xe13 Oe14 Xi7 Oh7 Xi5 Oh4 Xh5 Oj5 Xi6 Oi8 Xj8 Og6 Xf5 Oh6 Xg8 Og4 Xj9 Oi4
+MESSAGE depth 1-31 ev 46.5 n 23863 n/s 891 tm 26764 pv Oc10 Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xf6 Oe7 Xd7 Od10 Xg7 Od6 Xe13 Oe14 Xg9 Oh8 Xc5 Of5 Xi8 Oh7 Xh5 Oe6 Xe5 Oc6 Xd5 Oi10 Xh11 Og11 Xj10
+10,2
+INFO time_left 650301
+TURN 8,2
+MESSAGE depth 1-24 ev 49.9 n 21088 n/s 224942 tm 93 pv Xf9 Oc12 Xc8 Ob7 Xd8 Of8 Xd7 Od10 Xg7 Oe6 Xf6 Og5 Xb10 Og11 Xe13 Oe14 Xg9 Oh8 Xb13 Og14 Xg13 Ob11 Xd5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 93 pv
+7,1
+INFO time_left 650173
+TURN 13,4
+MESSAGE depth 1-31 ev 51.4 n 16988 n/s 77655 tm 218 pv Xf9 Oc12 Xd8 Of8 Xf6 Oe7 Xd7 Od10 Xg7 Od6 Xe13 Oe14 Xg9 Oh8 Xc5 Oe6 Xg8 Oh7 Xe5 Oc6 Xe4 Og5 Xd4 Oc3 Xf4 Ob6 Xa6 Og4 Xf2 Oe3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+14,4
+INFO time_left 649904
+TURN 9,5
+MESSAGE depth 1-16 ev 26.0 n 2373 n/s 7231 tm 328 pv Xd7 Od8 Xf9 Oc12 Xh8 Oh7 Xg7 Of6 Xg5 Og9 Xg11 Oh11 Xf4 Oi10 Xf13
+MESSAGE depth 1-18 ev 51.0 n 6528 n/s 253 tm 25702 pv Oc12 Xb10 Ob11 Xe7 Od8 Xe6 Of5 Xd6 Of8 Xe5 Og7 Xd10 Oe4 Xf4 Oc7 Xg6 Oh6
+12,2
+INFO time_left 624149
+TURN 6,4
+MESSAGE depth 1-24 ev 52.5 n 14285 n/s 70319 tm 203 pv Xe7 Od8 Xe6 Of5 Xh8 Og9 Xg11 Oh11 Xf13 Od13 Xf4 Og6 Xg7 Oe5 Xh7 Og8 Xi4 Oh6 Xi6 Oi5 Xj7 Ok8 Xj5
+MESSAGE depth 1-19 ev 55.1 n 4832 n/s 194 tm 24796 pv Od7 Xe7 Of6 Xf4 Oe4 Xf3 Og8 Xg3 Og7 Xe5 Of8 Xd10 Og6 Xg9 Oh2 Xe3 Od3 Xf5
+7,3
+INFO time_left 599285
+TURN 7,4
+MESSAGE depth 1-21 ev 38.9 n 11308 n/s 30155 tm 374 pv Xe7 Of6 Xf4 Oe4 Xf3 Og3 Xb10 Ob11 Xh5 Oh7 Xf2 Of1 Xi7 Og5 Xg4 Oi6 Xj4 Oi4 Xj5 Oj6
+MESSAGE depth 1-25 ev 62.5 n 14448 n/s 605 tm 23843 pv Of6 Xf4 Oe4 Xf3 Og3 Xh5 Oh7 Xf2 Of1 Xi7 Oi6 Xj5 Og5 Xg4 Oh8 Xh2 Oi2 Xj4 Oh4 Xi3 Ok5 Xd4 Oe3 Xj6
+6,5
+INFO time_left 575373
+TURN 4,5
+MESSAGE depth 1-24 ev 37.3 n 25919 n/s 1659043 tm 15 pv Xf4 Oe4 Xf3 Og3 Xf13 Od13 Xh8 Oi7 Xh7 Og8 Xj9 Oh9 Xi10 Ok8 Xg11 Oh11 Xk10 Oi8 Xj10 Ol10 Xi13 Oi11 Xj11
+MESSAGE depth 1-21 ev 62.7 n 24632 n/s 1073 tm 22952 pv Oe4 Xf3 Og3 Xf13 Od13 Xh8 Oi7 Xh7 Og8 Xj9 Oh9 Xi10 Ok8 Xg11 Oh11 Xj10 Ok10 Xj12 Oj11 Xk11
+4,4
+INFO time_left 552342
+TURN 6,3
+MESSAGE depth 1-20 ev 37.7 n 31556 n/s 106287 tm 296 pv Xf3 Og3 Xf13 Od13 Xh8 Oi7 Xh7 Og8 Xj9 Oh9 Xi10 Ok8 Xg11 Oh11 Xj10 Ok10 Xj12 Oj11 Xk11
+MESSAGE depth 1-17 ev 70.4 n 3954 n/s 179 tm 21968 pv Of8 Xg7 Og3 Xi7 Oh7 Xj8 Oh8 Xh5 Og5 Xk9 Ol10 Xi8 Og2 Xg4 Oi6 Xh3
+8,5
+INFO time_left 530329
+TURN 5,4
+MESSAGE depth 1-16 ev 33.8 n 5250 n/s 30542 tm 171 pv Xg7 Og3 Xj9 Oh7 Xj8 Oh8 Xh5 Oj7 Xi8 Oi10 Xk10 Oj12 Xh11 Og11 Xg9
+MESSAGE depth 1-18 ev 77.0 n 4259 n/s 204 tm 20843 pv Og3 Xc5 Oc6 Xd5 Ob5 Xh8 Oi7 Xf13 Og13 Xg11 Oh11 Xh7 Og8 Xh6 Oh5 Xg5 Of5
+3,6
+INFO time_left 509424
+TURN 13,5
+MESSAGE depth 1-18 ev 22.9 n 8574 n/s 24941 tm 343 pv Xb10 Ob11 Xc5 Oc6 Xd5 Ob5 Xg5 Of5 Xe3 Od2 Xb4 Oa3 Xd13 Of13 Xi7 Oh6 Xh11
+MESSAGE depth 1-17 ev 78.8 n 3958 n/s 197 tm 19999 pv Og13 Xg11 Oh11 Xc5 Oc6 Xd5 Ob5 Xg5 Of5 Xe3 Od2 Xb4 Oa3 Xi7 Oh6 Xi5
+13,6
+INFO time_left 489359
+TURN 7,7
+MESSAGE depth 1-16 ev 21.4 n 2935 n/s 10435 tm 281 pv Xg11 Oh11 Xc5 Oc6 Xd5 Ob5 Xg5 Of5 Xe3 Od2 Xb4 Oa3 Xi7 Oh6 Xi5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 296 pv
+8,6
+INFO time_left 489011
+TURN 5,2
+MESSAGE depth 1-15 ev 25.1 n 5930 n/s 16501 tm 359 pv Xc5 Oc6 Xd5 Ob5 Xh8 Oi7 Xb11 Ob13 Xe3 Od2 Xj9 Oh9 Xb8 Oc7
+MESSAGE depth 1-15 ev 76.8 n 6743 n/s 347 tm 19390 pv Oc6 Xd5 Ob5 Xh8 Oi7 Xb10 Ob11 Xe3 Od2 Xj9 Oh9 Xd13 Ob13 Xi8
+6,2
+INFO time_left 469560
+TURN 5,3
+MESSAGE depth 1-16 ev 22.3 n 9498 n/s 50654 tm 187 pv Xd5 Ob5 Xh8 Oi7 Xb10 Ob11 Xb4 Oa3 Xe3 Od2 Xf2 Od4 Xj9 Oh9 Xi10
+MESSAGE depth 1-14 ev 78.5 n 7801 n/s 418 tm 18624 pv Ob5 Xh8 Oi7 Xb10 Ob11 Xe3 Od2 Xj9 Oh9 Xd13 Ob13 Xi8 Og6
+5,1
+INFO time_left 450862
+TURN 8,7
+MESSAGE depth 1-14 ev 20.4 n 6922 n/s 5151 tm 1343 pv Xh8 Oi7 Xb10 Ob11 Xb4 Oa3 Xe3 Od2 Xf2 Od4 Xj9 Oh9 Xi10
+MESSAGE depth 1-14 ev 79.4 n 6383 n/s 359 tm 17733 pv Oi7 Xb10 Ob11 Xb4 Oa3 Xe3 Od2 Xf2 Od4 Xj9 Oh9 Xi10 Ok8
+7,8
+INFO time_left 433079
+TURN 3,4
+MESSAGE depth 1-13 ev 19.5 n 5906 n/s 4499 tm 1312 pv Xb10 Ob11 Xb4 Oa3 Xe3 Od2 Xf2 Od4 Xj9 Oh9 Xi10 Ok8
+MESSAGE depth 1-16 ev 76.5 n 3241 n/s 188 tm 17187 pv Od2 Xf2 Od4 Xb4 Oa3 Xi4 Oi10 Xh6 Oh5 Xi2 Of5 Xi3 Oi5 Xh2 Og2
+2,3
+INFO time_left 415833
+TURN 10,1
+MESSAGE depth 1-12 ev 24.1 n 4332 n/s 11551 tm 375 pv Xf2 Og1 Xi4 Of5 Xj4 Og7 Xd10 Og4 Xg2 Oh6 Xi5
+MESSAGE depth 1-13 ev 78.9 n 2551 n/s 153 tm 16671 pv Ob11 Xf2 Od4 Xb4 Oa3 Xi4 Oi10 Xh9 Oh10 Xg11 Oh11 Xj10
+11,1
+INFO time_left 399119
+TURN 2,5
+MESSAGE depth 1-16 ev 26.0 n 5856 n/s 14991 tm 390 pv Xf2 Od4 Xb4 Oa3 Xi4 Oi10 Xh6 Oh5 Xi2 Of5 Xi3 Oi5 Xj4 Og11 Xg14
+MESSAGE depth 1-15 ev 72.5 n 5995 n/s 381 tm 15733 pv Od4 Xb4 Oa3 Xi4 Oi10 Xh6 Oh5 Xi2 Of5 Xi3 Oi5 Xj4 Og11 Xg14
+4,3
+INFO time_left 383308
+TURN 4,1
+MESSAGE depth 1-17 ev 29.8 n 5208 n/s 22219 tm 234 pv Xb4 Oa3 Xi4 Oi11 Xh6 Oh5 Xi2 Of5 Xi3 Oi5 Xh2 Og2 Xg1 Oj4 Xi1 Oi0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+3,0
+INFO time_left 383009
+TURN 5,5
+MESSAGE depth 1-15 ev 30.9 n 7863 n/s 41930 tm 187 pv Xi4 Oi10 Xh6 Oh5 Xj4 Og4 Xk4 Ol4 Xk3 Og7 Xd10 Oi9 Xf5 Og5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 203 pv
+5,6
+INFO time_left 382759
+TURN 13,3
+MESSAGE depth 1-14 ev 29.3 n 3309 n/s 211788 tm 15 pv Xj9 Og11 Xg14 Oi8 Xi9 Oh9 Xi4 Oj10 Xk9 Og4 Xg2 Oh3 Xk6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+13,1
+INFO time_left 382683
+TURN 6,7
+MESSAGE depth 1-11 ev 30.3 n 3354 n/s 8943 tm 375 pv Xi4 Og11 Xg14 Og4 Xg2 Oj5 Xj8 Oj9 Xi2 Oh2
+MESSAGE depth 1-13 ev 65.8 n 3419 n/s 224 tm 15249 pv Oh5 Xi4 Og11 Xg14 Oj5 Xj4 Og4 Xg2 Oi3 Xk5 Ok4 Xj9
+5,7
+INFO time_left 367378
+TURN 4,8
+MESSAGE depth 1-15 ev 33.4 n 2072 n/s 16571 tm 125 pv Xi4 Og11 Xg14 Oj4 Xj9 Oi8 Xi9 Oh9 Xk6 Oj5 Xj6 Oi6 Xj10 Ok11
+MESSAGE depth 1-15 ev 67.0 n 4517 n/s 313 tm 14421 pv Og11 Xg14 Oi9 Xj4 Og4 Xg2 Of3 Xi6 Oh10 Xj8 Oi11 Xb8 Oc7 Xh12
+11,6
+INFO time_left 352900
+TURN 14,6
+MESSAGE depth 1-14 ev 31.1 n 1097 n/s 1080 tm 1015 pv Xg14 Oi9 Xj4 Og4 Xg2 Of3 Xi6 Oh10 Xj8 Oi11 Xb8 Oc7 Xj12
+MESSAGE depth 1-16 ev 68.4 n 3525 n/s 255 tm 13796 pv Oi9 Xi2 Oh3 Xi3 Oi5 Xi8 Oj9 Xg1 Ok5 Xj5 Oi1 Xj4 Oj2 Xj6 Oj8
+9,8
+INFO time_left 339052
+TURN 8,8
+MESSAGE depth 1-19 ev 35.8 n 4575 n/s 17222 tm 265 pv Xi2 Oh3 Xi3 Oi5 Xi8 Od10 Xg7 Oj9 Xh2 Og2 Xg1 Ok5 Xj5 Og4 Xg6 Of3 Xi6 Oj4
+MESSAGE depth 1-23 ev 65.3 n 2638 n/s 196 tm 13421 pv Oj9 Xi2 Og2 Xg4 Oh3 Xi3 Oi5 Xg1 Ok5 Xj5 Oh1 Xf3 Of1 Xj4 Oh4 Xh2 Of0 Xj6 Oj7 Xl4 Oh10 Xj8
+9,9
+INFO time_left 325558
+TURN 2,8
+MESSAGE depth 1-23 ev 37.2 n 2254 n/s 12019 tm 187 pv Xi2 Og2 Xg4 Oh3 Xi3 Oi5 Xg1 Ok5 Xj5 Oh1 Xj4 Oh4 Xh2 Of0 Xj6 Oj7 Xf3 Of1 Xl4 Oh10 Xj8 Og7
+MESSAGE depth 1-21 ev 62.1 n 3912 n/s 0 tm 31060038 pv Og2 Xg4 Oh3 Xi3 Oi5 Xg1 Ok5 Xj5 Oh1 Xj4 Oh4 Xh2 Of0 Xj6 Oj7 Xk4 Od10 Xg7 Oi6 Xj2
+4,6
+TAKEBACK 4,6
+OK
+TAKEBACK 2,8
+MESSAGE depth 1-24 ev 36.5 n 8060 n/s 34387 tm 234 pv Xg2 Oe2 Xf3 Of1 Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xk5 Oa4 Xe8
+OK
+INFO time_left 325558
+TURN 2,8
+MESSAGE depth 1-25 ev 62.2 n 7832 n/s 586 tm 13344 pv Og4 Xg2 Oe2 Xf3 Of1 Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xk5 Oa4 Xe8
+4,6
+INFO time_left 311948
+TURN 2,6
+MESSAGE depth 1-24 ev 37.1 n 7328 n/s 3025 tm 2421 pv Xg2 Oe2 Xf3 Of1 Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xk5 Oa4 Xe8
+MESSAGE depth 1-24 ev 62.7 n 8974 n/s 741 tm 12109 pv Oe2 Xf3 Of1 Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xm6 Om2 Xl3 Om4
+2,4
+INFO time_left 299774
+TURN 3,5
+MESSAGE depth 1-23 ev 36.7 n 8164 n/s 65301 tm 125 pv Xf3 Of1 Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xm6 Om2 Xl3 Om4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 125 pv
+1,5
+INFO time_left 299590
+TURN 3,8
+MESSAGE depth 1-21 ev 37.2 n 8366 n/s 2116 tm 3953 pv Xh10 Oh9 Xk9 Ok8 Xi10 Oi3 Xj2 Oh2 Xj4 Oj5 Xj7 Ok3 Xj3 Ok4 Xk2 On5 Xm6 Om2 Xl3 Om4
+MESSAGE depth 1-13 ev 58.9 n 2622 n/s 224 tm 11687 pv Oi5 Xl4 Oj2 Xk4 Oj4 Xj3 Ol5 Xl3 Ok3 Xl1 Oj5 Xk2
+5,8
+INFO time_left 287856
+TURN 2,9
+MESSAGE depth 1-16 ev 42.6 n 4275 n/s 54704 tm 78 pv Xl4 Oj2 Xk4 Oj4 Xj5 Oi6 Xk6 Oh3 Xl5 Og7 Xd10 Oj7 Xk8 Oa4 Xe8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+2,7
+INFO time_left 287729
+TURN 8,1
+MESSAGE depth 1-15 ev 31.5 n 2140 n/s 22822 tm 93 pv Xl4 Oi1 Xk4 Oj5 Xk5 Oh4 Xm4 Oj4 Xh1 Oj3 Xj7 Ok6 Xk9 Oj11
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 93 pv
+7,2
+INFO time_left 287576
+TURN 1,8
+MESSAGE depth 1-13 ev 24.9 n 927 n/s 9885 tm 93 pv Xk3 Oi1 Xj3 Oh3 Xh1 Ok4 Xj5 Oj4 Xj8 Ok8 Xi10 Ok9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 93 pv
+0,8
+INFO time_left 287426
+TURN 3,10
+MESSAGE depth 1-9 ev 28.3 n 403 n/s 5157 tm 78 pv Xk3 Ol4 Xj3 Oa4 Xe8 Oh3 Xh1 Ok4
+MESSAGE depth 1-16 ev 77.0 n 3193 n/s 285 tm 11171 pv Ol4 Xj3 Oh3 Xh1 Oj5 Xk5 Ok4 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xl3 Om3
+4,11
+INFO time_left 276177
+TURN 3,9
+MESSAGE depth 1-18 ev 18.9 n 1760 n/s 3519 tm 500 pv Xj3 Oh3 Xh1 Ok4 Xj1 Oj5 Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11
+MESSAGE depth 1-19 ev 83.6 n 3955 n/s 363 tm 10890 pv Oh3 Xh1 Ok4 Xj1 Oj5 Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12
+3,7
+INFO time_left 265253
+TURN 1,7
+MESSAGE depth 1-19 ev 14.0 n 2361 n/s 6044 tm 390 pv Xh1 Ok4 Xj1 Oj5 Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11
+MESSAGE depth 1-17 ev 86.7 n 5106 n/s 499 tm 10218 pv Ok4 Xj1 Oj5 Xk5 Ok1 Xl6 Om7 Xj8 Ok8 Xh9 Oh10 Xj7 Oi10 Xh11 Oj10 Xk10
+4,10
+INFO time_left 254993
+TURN 1,9
+MESSAGE depth 1-17 ev 11.1 n 2760 n/s 22076 tm 125 pv Xj1 Oj5 Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11
+MESSAGE depth 1-19 ev 91.2 n 3482 n/s 354 tm 9812 pv Oj5 Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11 Xl9 Ok12 Xk10
+5,9
+INFO time_left 245121
+TURN 5,10
+MESSAGE depth 1-18 ev 7.3 n 3240 n/s 1068 tm 3031 pv Xk5 Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11 Xl9 Ok12 Xk10
+MESSAGE depth 1-17 ev 92.2 n 4226 n/s 442 tm 9546 pv Ok1 Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11 Xm9 Oj13 Xk12
+1,10
+INFO time_left 235537
+TURN 9,10
+MESSAGE depth 1-16 ev 7.5 n 3787 n/s 48461 tm 78 pv Xj8 Ok8 Xi10 Ok9 Xh9 Oh10 Xk7 Oj12 Xi11 Oi12 Xh12 Ok11 Xm9 Oj13 Xk12
+MESSAGE depth 1-15 ev 89.4 n 3268 n/s 356 tm 9155 pv Ok8 Xh10 Oh9 Xi10 Ol6 Xl7 Ol3 Xm2 Oj7 Xi6 Ol2 Xl5 On4 Xj0
+8,10
+INFO time_left 226335
+TURN 10,7
+MESSAGE depth 1-16 ev 9.4 n 2118 n/s 2151 tm 984 pv Xh10 Oh9 Xi10 Ol6 Xl3 Om3 Xj7 On4 Xj0 Oj4 Xm4 On5 Xm6 Oa2 Xa4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 984 pv
+9,7
+INFO time_left 225304
+TURN 10,8
+MESSAGE depth 1-14 ev 10.2 n 1912 n/s 2913 tm 656 pv Xi10 Ol6 Xl3 Om3 Xj7 On4 Xj0 Oj4 Xm4 On5 Xm6 Oa2 Xa4
+MESSAGE depth 1-14 ev 88.3 n 3315 n/s 372 tm 8890 pv Ol6 Xl3 Om3 Xj7 On4 Xj0 Oj4 Xm4 On5 Xm6 Ol8 Xm8 Ok7
+3,11
+INFO time_left 216360
+TURN 0,9
+MESSAGE depth 1-11 ev 11.4 n 664 n/s 2124 tm 312 pv Xm2 Oj7 Xi6 Ol7 Xk7 Ol6 Xl5 Om8 Xj6 Ol8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 312 pv
+4,9
+INFO time_left 215983
+TURN 2,12
+MESSAGE depth 1-6 ev 12.1 n 202 n/s 923 tm 218 pv Xm2 Ol7 Xl6 Om7 Xj7
+MESSAGE depth 1-10 ev 86.6 n 1851 n/s 223 tm 8265 pv Ol7 Xj7 Om6 Xn5 Om8 Xl6 On7 Xl5 Om4
+7,11
+INFO time_left 207676
+TURN 2,10
+MESSAGE depth 1-10 ev 13.9 n 684 n/s 4863 tm 140 pv Xj7 Om6 Xn5 Om8 Xl6 Om7 Xm5 On7 Xk7
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 140 pv
+2,11
+INFO time_left 207499
+TURN 1,11
+MESSAGE depth 1-10 ev 20.1 n 316 n/s 4043 tm 78 pv Xl1 Om0 Xj7 Om8 Xm6 Ol8 Xn8 Oj11 Xl9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+0,12
+INFO time_left 207383
+TURN 7,9
+MESSAGE depth 1-10 ev 23.4 n 826 n/s 4805 tm 171 pv Xj7 Om8 Xm6 Ol8 Xn8 Oj12 Xl10 Oj11 Xj10
+MESSAGE depth 1-10 ev 74.5 n 2319 n/s 291 tm 7952 pv Om8 Xm6 Ol8 Xn8 Oj12 Xl10 Oj11 Xj10 Ok10
+6,12
+INFO time_left 199354
+TURN 5,13
+MESSAGE depth 1-15 ev 22.7 n 675 n/s 785 tm 859 pv Xn5 Om8 Xk6 Ol8 Xn8 On7 Xm7 Ol9 Xl6 Oo9 Xk10 Oa4 Xe8 Oa2
+MESSAGE depth 1-15 ev 75.4 n 2242 n/s 294 tm 7624 pv Om8 Xl8 Om7 Xm5 On7 Xl5 Oo5 Xk6 Om4 Xn4 Oa4 Xe8 Oa2 Xa1
+8,12
+INFO time_left 191692
+TURN 6,10
+MESSAGE depth 1-14 ev 25.1 n 1042 n/s 2151 tm 484 pv Xl8 Om7 Xm5 On7 Xl5 Oo5 Xk6 Om4 Xn4 Oa4 Xe8 Oa2 Xa1
+MESSAGE depth 1-14 ev 73.5 n 2340 n/s 319 tm 7327 pv Ol8 Xn8 On7 Xm7 Ol9 Xl6 Oo9 Xk10 Ol10 Xl11 Oa4 Xe8 Oa2
+8,11
+INFO time_left 184298
+TURN 8,13
+MESSAGE depth 1-13 ev 27.7 n 807 n/s 2459 tm 328 pv Xn8 On7 Xm7 Ol9 Xl6 Oo9 Xk10 Ol10 Xl11 Oa4 Xe8 Oa2
+MESSAGE depth 1-14 ev 70.2 n 2415 n/s 341 tm 7077 pv On7 Xm7 Ol9 Xl6 Oo9 Xk10 Oa4 Xe8 Oa2 Xa1 Oc2 Xb2 Od3
+4,0
+INFO time_left 177141
+TURN 8,4
+MESSAGE depth 1-13 ev 25.3 n 494 n/s 854 tm 578 pv Xe8 On7 Xm7 Ol9 Xl6 Oo9 Xk10 Oa2 Xa1 Oc2 Xb2 Od3
+MESSAGE depth 1-14 ev 71.3 n 2060 n/s 306 tm 6718 pv On7 Xm7 Ol9 Xl6 Oo9 Xk10 Oa2 Xa1 Ol10 Xl11 Oc2 Xb2 Od3
+7,13
+INFO time_left 170385
+TURN 7,12
+MESSAGE depth 1-13 ev 29.9 n 958 n/s 3406 tm 281 pv Xm7 Ol9 Xl6 Oo9 Xk10 Oa2 Xa1 Ol10 Xl11 Oc2 Xb2 Od3
+MESSAGE depth 1-14 ev 65.5 n 2503 n/s 369 tm 6765 pv Oa2 Xa1 Ol9 Xl6 Oo9 Xk10 Ol10 Xl11 Od3 Xc4 Od1 Xd0 Oc2
+2,0
+INFO time_left 163576
+TURN 8,3
+MESSAGE depth 1-13 ev 33.1 n 801 n/s 5125 tm 156 pv Xa1 Ol9 Xl6 Oo9 Xk10 Ol10 Xl11 Od3 Xc4 Od1 Xd0 Oc2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 156 pv
+8,0
+INFO time_left 163370
+TURN 1,0
+MESSAGE depth 1-11 ev 28.4 n 276 n/s 4414 tm 62 pv Xa1 Ol9 Xl6 Oo9 Xk10 Od3 Xc4 Oc2 Xb2 Ol10
+MESSAGE depth 1-14 ev 61.9 n 1728 n/s 274 tm 6296 pv Ol9 Xl6 Oo9 Xk10 Ol10 Xl11 Oc2 Xb2 Od3 Xc4 Ob1 Xa0 Od1
+9,11
+INFO time_left 157026
+TURN 6,11
+MESSAGE depth 1-13 ev 41.8 n 686 n/s 1416 tm 484 pv Xl6 Oo9 Xk10 Od3 Xc4 Ol10 Xl11 Od1 Xd0 Oc2 Xb2 Ob1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 484 pv
+9,14
+INFO time_left 156496
+TURN 9,2
+MESSAGE depth 1-11 ev 44.3 n 990 n/s 7919 tm 125 pv Xk10 Od3 Xc4 Ol10 Xl11 Od1 Xd0 Oe1 Xc1 Oc2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 125 pv
+11,0
+INFO time_left 156320
+TURN 10,3
+MESSAGE depth 1-8 ev 41.2 n 279 n/s 1487 tm 187 pv Xk10 Od3 Xc4 Oc2 Xb2 Od1 Xd0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 187 pv
+7,0
+INFO time_left 156076
+TURN 10,10
+MESSAGE depth 1-8 ev 43.6 n 231 n/s 1055 tm 218 pv Xk10 Ol10 Xl11 Od3 Xc4 Od1 Xd0
+MESSAGE depth 1-9 ev 53.3 n 1567 n/s 259 tm 6031 pv Oj12 Xl10 Oj10 Xj11 Oi12 Xh12 Oc2 Xb2
+12,9
+INFO time_left 149967
+TURN 5,11
+MESSAGE depth 1-11 ev 46.9 n 426 n/s 6813 tm 62 pv Xl5 Om4 Xn4 Om5 Xl10 Oj10 Xj11 Od3 Xc4 Oi12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+4,12
+INFO time_left 149855
+TURN 4,13
+MESSAGE depth 1-9 ev 52.6 n 185 n/s 438 tm 421 pv Xn4 Om5 Xl10 Oj10 Xj11 Oc2 Xb2 Od3
+MESSAGE depth 1-11 ev 50.9 n 1369 n/s 235 tm 5812 pv Om5 Xl10 Oj10 Xj11 Od3 Xc4 Oi12 Xh12 Oc2 Xb2
+5,12
+INFO time_left 143989
+TURN 10,11
+MESSAGE depth 1-10 ev 48.0 n 846 n/s 3383 tm 250 pv Xl10 Oj10 Xj11 Od3 Xc4 Oi12 Xh12 Oc2 Xb2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 250 pv
+10,9
+INFO time_left 143685
+TURN 11,9
+MESSAGE depth 1-9 ev 47.7 n 371 n/s 1249 tm 296 pv Xj11 Od3 Xc4 Oi12 Xh12 Od1 Xd0 Om11
+MESSAGE depth 1-9 ev 51.6 n 1540 n/s 279 tm 5515 pv Od3 Xc4 Oi12 Xh12 Od1 Xd0 Oc2 Xb2
+3,3
+INFO time_left 138115
+TURN 4,2
+MESSAGE depth 1-8 ev 47.6 n 312 n/s 798 tm 390 pv Xc4 Oa13 Xa10 Od1 Xd0 Oi12 Xh12
+MESSAGE depth 1-9 ev 51.1 n 1427 n/s 271 tm 5249 pv Oa13 Xa10 Od1 Xd0 Oi12 Xh12 Oc2 Xb2
+13,0
+INFO time_left 132827
+TURN 12,8
+MESSAGE depth 1-8 ev 47.5 n 391 n/s 1787 tm 218 pv Xa10 Od1 Xd0 Oi12 Xh12 Oc2 Xb2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+13,7
+INFO time_left 132563
+TURN 10,0
+MESSAGE depth 1-6 ev 46.4 n 232 n/s 1484 tm 156 pv Xa10 Oc2 Xb2 Ob1 Xa0
+MESSAGE depth 1-8 ev 50.1 n 1293 n/s 260 tm 4968 pv Oc2 Xb2 Od1 Xd0 Om11 Xn3 On2
+2,2
+INFO time_left 127536
+TURN 2,1
+MESSAGE depth 1-8 ev 50.2 n 225 n/s 847 tm 265 pv Xb2 Od1 Xd0 Ob1 Xa0 Om11 Xn3
+MESSAGE depth 1-8 ev 49.8 n 1369 n/s 282 tm 4843 pv Om11 Xd1 Om10 Xm12 Ok13 Xl12 Ol11
+11,12
+INFO time_left 122655
+TURN 10,12
+MESSAGE depth 1-8 ev 49.8 n 929 n/s 3961 tm 234 pv Xd1 Om10 Xm12 Ok13 Xl12 Ol11 Xk12
+MESSAGE depth 1-7 ev 49.8 n 1086 n/s 236 tm 4593 pv Od1 Xd0 Ob1 Xa0 Oc1 Xe1
+1,3
+INFO time_left 118019
+TURN 0,3
+MESSAGE depth 1-7 ev 50.2 n 208 n/s 739 tm 281 pv Xd0 On10 Xn3 On2 Xl12 Ob1
+MESSAGE depth 1-8 ev 49.7 n 1179 n/s 266 tm 4421 pv Ob1 Xa0 On10 Xn3 On2 Xk13 Ok12
+1,1
+INFO time_left 113563
+TURN 0,0
+MESSAGE depth 1-6 ev 50.3 n 150 n/s 564 tm 265 pv Xa0 Oe0 Xb3 Oe1 Xc1
+MESSAGE depth 1-7 ev 49.7 n 1115 n/s 257 tm 4328 pv On10 Xk13 Ok12 Xn3 On2 Xe0
+10,13
+INFO time_left 109181
+TURN 6,8
+MESSAGE depth 1-7 ev 50.6 n 1355 n/s 5781 tm 234 pv Xn3 On2 Xk13 Ok12 Xj6 Oi6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+6,9
+INFO time_left 108895
+TURN 11,11
+MESSAGE depth 1-7 ev 50.9 n 808 n/s 4700 tm 171 pv Xn3 On2 Xk13 Ok11 Xk0 Oo4
+MESSAGE depth 1-7 ev 49.1 n 1018 n/s 243 tm 4187 pv Ok12 Xl12 Oe0 Xb3 Oe1 Xc1
+12,10
+INFO time_left 104669
+TURN 3,13
+MESSAGE depth 1-6 ev 50.2 n 515 n/s 10983 tm 46 pv Xl12 Oe0 Xb3 Oe1 Xc1
+MESSAGE depth 1-7 ev 49.5 n 952 n/s 249 tm 3812 pv On2 Xl12 Oe0 Xb3 Oe1 Xc1
+2,13
+INFO time_left 100815
+TURN 4,14
+MESSAGE depth 1-6 ev 50.0 n 1080 n/s 4319 tm 250 pv Xl12 Oe0 Xb3 Oe1 Xc1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 250 pv
+0,10
+INFO time_left 100504
+TURN 11,8
+MESSAGE depth 1-6 ev 49.9 n 190 n/s 2431 tm 78 pv Xl12 Oe0 Xb3 Oe1 Xc1
+MESSAGE depth 1-8 ev 49.9 n 885 n/s 242 tm 3656 pv Ol12 Xk13 Ok11 Xm13 On13 Xn12 Oe1
+12,11
+INFO time_left 96810
+TURN 13,10
+MESSAGE depth 1-7 ev 50.0 n 119 n/s 692 tm 171 pv Xk13 Ok11 Xm13 On13 Xn12 Oe1
+MESSAGE depth 1-7 ev 49.9 n 917 n/s 255 tm 3593 pv Ok11 Xm13 On13 Xn12 Oe1 Xc1
+11,10
+INFO time_left 93179
+TURN 13,12
+MESSAGE depth 1-6 ev 49.9 n 162 n/s 609 tm 265 pv Xm13 On13 Xn12 Oe1 Xc1
+MESSAGE depth 1-7 ev 49.9 n 950 n/s 273 tm 3468 pv On13 Xn12 Oe1 Xc1 Oe0 Xb3
+13,13
+INFO time_left 89672
+TURN 12,13
+MESSAGE depth 1-6 ev 45.7 n 269 n/s 2151 tm 125 pv Xn12 Oe0 Xb3 Oe1 Xc1
+MESSAGE depth 1-7 ev 49.9 n 899 n/s 273 tm 3281 pv Oe1 Xc1 Oe0 Xb3 Oi13 Xk7
+1,4
+INFO time_left 86336
+TURN 1,2
+MESSAGE depth 1-5 ev 50.0 n 109 n/s 465 tm 234 pv Xc1 Oi14 Xe0 Oc0
+MESSAGE depth 1-5 ev 49.9 n 812 n/s 261 tm 3109 pv Oi14 Xe0 Of0 Xc0
+14,8
+INFO time_left 83173
+TURN 0,4
+MESSAGE depth 1-5 ev 50.0 n 298 n/s 9534 tm 31 pv Xe0 Oc0 Xj13 Oi13
+MESSAGE depth 1-5 ev 49.8 n 789 n/s 252 tm 3124 pv Oc0 Xb3 Oo8 Xo10
+0,2
+INFO time_left 79978
+TURN 7,6
+MESSAGE depth 1-4 ev 50.0 n 659 n/s 14053 tm 46 pv Xj13 Od14 Xc14
+MESSAGE depth 1-5 ev 50.0 n 724 n/s 250 tm 2890 pv Ok7 Xm9 Oh4 Xb0
+7,10
+INFO time_left 77031
+TURN 9,6
+MESSAGE depth 1-4 ev 50.0 n 226 n/s 1205 tm 187 pv Xg6 Oa6 Xa5
+MESSAGE depth 1-5 ev 50.0 n 633 n/s 235 tm 2687 pv Oo8 Xo10 Oh4 Xb0
+8,14
+INFO time_left 74268
+TURN 10,14
+MESSAGE depth 1-4 ev 50.0 n 483 n/s 2809 tm 171 pv Xo7 Oh0 Xa6
+MESSAGE depth 1-4 ev 50.0 n 666 n/s 242 tm 2749 pv Oc14 Xj13 Od14
+14,2
+INFO time_left 71475
+TURN 6,6
+MESSAGE depth 1-4 ev 50.0 n 351 n/s 3743 tm 93 pv Xd14 Oh11 Xj13
+MESSAGE depth 1-6 ev 50.0 n 637 n/s 239 tm 2656 pv Ob14 Xd14 Of14 Xa12 Oh4
+14,1
+INFO time_left 68766
+TURN 14,3
+MESSAGE depth 1-5 ev 50.0 n 108 n/s 460 tm 234 pv Xd14 Oo7 Xa6 Oo5
+MESSAGE depth 1-5 ev 50.0 n 683 n/s 266 tm 2562 pv Oo7 Xo6 Oa12 Xh4
+7,14
+INFO time_left 66166
+TURN 4,7
+MESSAGE depth 1-4 ev 50.0 n 352 n/s 7508 tm 46 pv Xo6 Oa12 Xh4
+MESSAGE depth 1-5 ev 50.0 n 617 n/s 246 tm 2499 pv Oo5 Xo6 On6 Xa6
+5,14
+INFO time_left 63620
+TURN 6,14
+MESSAGE depth 1-5 ev 50.0 n 94 n/s 401 tm 234 pv Xo6 Oc3 Xa12 Om9
+MESSAGE depth 1-4 ev 50.0 n 605 n/s 263 tm 2296 pv Oc3 Xj8 Oa5
+3,2
+INFO time_left 61269
+TURN 8,9
+MESSAGE depth 1-4 ev 50.0 n 348 n/s 1310 tm 265 pv Xa12 Oa5 Xa6
+MESSAGE depth 1-4 ev 50.0 n 461 n/s 223 tm 2062 pv Ob0 Xf0 Og0
+0,1
+INFO time_left 59130
+TURN 14,10
+MESSAGE depth 1-4 ev 50.0 n 343 n/s 2194 tm 156 pv Xb9 Oa6 Xa5
+MESSAGE depth 1-4 ev 50.0 n 508 n/s 228 tm 2218 pv Om9 Xf0 Og0
+9,12
+INFO time_left 56847
+TURN 11,7
+MESSAGE depth 1-4 ev 50.0 n 220 n/s 1005 tm 218 pv Xj13 Ol13 Xa6
+MESSAGE depth 1-4 ev 50.0 n 439 n/s 219 tm 1999 pv On9 Xi13 Ol13
+9,13
+INFO time_left 54786
+TURN 12,7
+MESSAGE depth 1-4 ev 50.0 n 343 n/s 1829 tm 187 pv Xj13 Ol13 Xa6
+MESSAGE depth 1-4 ev 50.0 n 461 n/s 230 tm 1999 pv Oa12 Xl13 Oi13
+12,0
+INFO time_left 52726
+TURN 13,11
+MESSAGE depth 1-4 ev 50.0 n 407 n/s 2170 tm 187 pv Xn11 Oa5 Xl13
+MESSAGE depth 1-4 ev 49.9 n 397 n/s 219 tm 1812 pv Om12 Xi13 Oj13
+12,12
+INFO time_left 50857
+TURN 13,8
+MESSAGE depth 1-4 ev 50.0 n 242 n/s 1032 tm 234 pv Xf0 Oa9 Xg0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+13,9
+INFO time_left 50588
+TURN 14,11
+MESSAGE depth 1-4 ev 50.0 n 195 n/s 6235 tm 31 pv Xb9 Of14 Xa6
+MESSAGE depth 1-4 ev 49.9 n 451 n/s 250 tm 1796 pv Om14 Xh0 Og0
+14,12
+INFO time_left 48733
+TURN 1,6
+MESSAGE depth 1-4 ev 50.0 n 343 n/s 2743 tm 125 pv Xb9 Og1 Xg0
+MESSAGE depth 1-4 ev 50.0 n 333 n/s 206 tm 1609 pv Ol0 Xa6 On0
+0,11
+INFO time_left 47066
+TURN 6,1
+MESSAGE depth 1-4 ev 50.0 n 273 n/s 1343 tm 203 pv Xh14 Oo0 Xn0
+MESSAGE depth 1-6 ev 50.0 n 356 n/s 223 tm 1593 pv On0 Xo0 Of0 Xa5 Of14
+0,13
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 899495
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-12 ev 44.5 n 1934 n/s 53 tm 36248 pv Of10 Xe9 Od10 Xg10 Og8 Xf11 Oh9 Xe12 Oe11 Xc10 Oc12
+10,5
+INFO time_left 863235
+TURN 9,4
+MESSAGE depth 1-16 ev 55.0 n 1990 n/s 3442 tm 578 pv Xe12 Od11 Xe9 Od10 Xe10 Oe11 Xf12 Od9 Xd12 Oc12 Xd7 Oh9 Xe6 Oe7 Xf5
+MESSAGE depth 1-22 ev 51.6 n 1979 n/s 57 tm 34311 pv Oe8 Xe12 Of8 Xc12 Od12 Xc10 Oc11 Xd11 Of13 Xb9 Oa8 Xb10 Ob11 Xe10 Of9 Xf7 Od7 Xg10 Of11 Xh8 Od6
+8,4
+INFO timeout_turn 7200000
+INFO timeout_match 7200000
+INFO time_left 7128868
+INFO time_left 7128868
+TURN 11,3
+MESSAGE depth 1-24 ev 47.1 n 2881 n/s 3545 tm 812 pv Xe12 Of8 Xc12 Od12 Xc10 Oc11 Xd11 Of13 Xb9 Oa8 Xb10 Ob11 Xd7 Od9 Xe10 Og8 Xh8 Of7 Xf9 Ob13 Xg6 Oe6 Xh9
+MESSAGE depth 1-32 ev 38.5 n 15155 n/s 53 tm 285008 pv Od10 Xe12 Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xc8 Od9 Xh10 Og11 Xf5 Oi11 Xd7 Oe6 Xe7 Og7 Xc7 Ob7 Xc5 Oc9 Xf12 Oh12
+10,3
+INFO time_left 6843825
+TURN 12,4
+MESSAGE depth 1-25 ev 59.0 n 25483 n/s 19649 tm 1296 pv Xe12 Of11 Xf9 Oc12 Xh8 Oe10 Xc10 Of13 Xh10 Oh9 Xi10 Oi11 Xf12 Og11 Xh11 Oh12 Xj10 Ok10 Xd9 Oc9 Xi7 Oh13 Xg13 Ok11
+MESSAGE depth 1-40 ev 42.0 n 34335 n/s 124 tm 274835 pv Of11 Xf9 Oc12 Xh8 Og9 Xe10 Of13 Xh7 Og8 Xg7 Of12 Xf14 Oe11 Xg13 Of7 Xi9 Oj10 Xh6 Oh9 Xi10 Of8 Xd8 Oe5 Xe7 Oc9 Xb8 Oh4 Xg6 Of5 Xd5 Oi6 Xf4 Og5 Xi5 Oi11 Xj7 Ok7 Xj12 Oj4
+11,5
+INFO time_left 6568928
+TURN 9,5
+MESSAGE depth 1-23 ev 55.6 n 45868 n/s 36694 tm 1249 pv Xf9 Oc12 Xh8 Og9 Xh10 Oh7 Xi9 Og7 Xf7 Oj8 Xh12 Og10 Xg8 Oh9 Xe13 Oj7 Xi8 Og12 Xf13 Ok7 Xi7 Og13
+MESSAGE depth 1-34 ev 43.6 n 43287 n/s 164 tm 263758 pv Oc12 Xh8 Og9 Xh10 Oh7 Xi9 Og11 Xi8 Og7 Xg10 Oh11 Xj11 Oj8 Xi10 Oi11 Xe11 Ok10 Xj7 Ok6 Xk12 Ol13 Xl12 Oj10 Xl9 Oi6 Xk9 Oj9 Xm12 On12 Xm10 Og8 Xm9 Og6
+12,2
+INFO time_left 6305102
+TURN 10,2
+MESSAGE depth 1-37 ev 56.1 n 50936 n/s 62690 tm 812 pv Xh8 Og9 Xh10 Oh7 Xi9 Og11 Xi8 Og7 Xg10 Oh11 Xj11 Oj8 Xi10 Oi11 Xe11 Ok10 Xj7 Ok6 Xk12 Ol13 Xl12 Oj10 Xl9 Oi6 Xk9 Oj9 Xm12 On12 Xm10 Oj6 Xg8 Oh9 Xh6 Om9 Xl11 On9
+MESSAGE depth 1-27 ev 46.7 n 15998 n/s 63 tm 252070 pv Of13 Xh10 Oh9 Xg7 Og8 Xi10 Oh8 Xf8 Og9 Xe11 Oi8 Xj7 Oi7 Xj6 Oj8 Xk8 Oh6 Xk9 Oh5 Xh7 Oi5 Xb9 Oa8 Xd9 Oc9 Xe13
+13,5
+INFO time_left 6052963
+TURN 9,1
+MESSAGE depth 1-26 ev 51.4 n 24543 n/s 14959 tm 1640 pv Xh10 Og9 Xh8 Oh7 Xe6 Oc8 Xf6 Og7 Xf7 Of5 Xg6 Od6 Xd8 Oe7 Xc5 Oi6 Xe3 Od4 Xf3 Od5 Xd3 Og3 Xe2 Oc4 Xf4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 1640 pv
+8,0
+INFO time_left 6051261
+TURN 10,1
+MESSAGE depth 1-18 ev 43.2 n 16319 n/s 174075 tm 93 pv Xh10 Oh9 Xg7 Od9 Xb10 Ob11 Xe7 Of12 Xf14 Oe10 Xg12 Of7 Xe6 Oi8 Xc8 Og6 Xh5
+MESSAGE depth 1-17 ev 65.0 n 10824 n/s 44 tm 241852 pv Ob8 Xh10 Oh9 Xi8 Oc9 Xe11 Oe10 Xd9 Oe5 Xi9 Od6 Xc7 Oe7 Xb11 Ob13 Xi10
+8,1
+INFO time_left 5809356
+TURN 9,2
+MESSAGE depth 1-23 ev 34.5 n 19084 n/s 11744 tm 1624 pv Xh10 Oh9 Xf12 Og11 Xi11 Oi8 Xj7 Og8 Xh8 Of7 Xe6 Og6 Xd9 Oc9 Xg9 Oj12 Xe7 Of8 Xj9 Of5 Xj10 Oj8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 1624 pv
+9,3
+INFO time_left 5807694
+TURN 7,4
+MESSAGE depth 1-18 ev 29.3 n 7907 n/s 5500 tm 1437 pv Xe7 Od8 Xc8 Oc7 Xd6 Oh10 Xe6 Of5 Xe10 Oh7 Xc6 Ob6 Xd5 Oe4 Xg6 Of6 Xc4
+MESSAGE depth 1-28 ev 66.5 n 15466 n/s 66 tm 232962 pv Od8 Xc8 Oc7 Xe6 Of5 Xd7 Oa10 Xg8 Of7 Xg6 Of6 Xf4 Oh10 Xg10 Og9 Xg5 Og4 Xh7 Oe10 Xi7 Oh6 Xj7 Ok7 Xi8 Oi6 Xj8 Of12
+8,3
+INFO time_left 5574666
+TURN 8,2
+MESSAGE depth 1-27 ev 32.6 n 7701 n/s 1852 tm 4156 pv Xc8 Oc7 Xe6 Of5 Xd7 Oa10 Xg8 Of7 Xg6 Of6 Xf4 Oh10 Xg10 Og9 Xg5 Og4 Xh7 Oe10 Xi7 Oh6 Xj7 Ok7 Xi8 Oi6 Xj8 Of12
+MESSAGE depth 1-26 ev 67.6 n 18298 n/s 81 tm 223696 pv Oc7 Xe6 Od7 Xd6 Og9 Xe11 Oe13 Xh10 Oh13 Xg13 Og8 Xh8 Og12 Xe10 Oi10 Xh11 Oh9 Xj11 Og6 Xg10 Oh5 Xf7 Oi6 Xj10 Oj9
+7,2
+INFO time_left 5350903
+TURN 6,4
+MESSAGE depth 1-23 ev 31.2 n 28220 n/s 38427 tm 734 pv Xe6 Od7 Xd6 Og9 Xe11 Oe13 Xc5 Ob4 Xf6 Oc6 Xh10 Oh13 Xg13 Oe4 Xd5 Og8 Xg7 Og12 Xe10 Ob5 Xa4 Oi10
+MESSAGE depth 1-28 ev 70.3 n 31137 n/s 144 tm 214806 pv Od7 Xd6 Og9 Xe11 Oe13 Xc5 Ob4 Xf6 Oc6 Xh10 Oh13 Xg13 Og8 Xg7 Og12 Xe10 Oh8 Xf8 Oh6 Xe5 Ob5 Xa4 Oe4 Xf5 Of7 Xd4 Oc3
+7,3
+INFO time_left 5136018
+TURN 6,3
+MESSAGE depth 1-20 ev 34.8 n 7062 n/s 1699 tm 4156 pv Xd6 Og9 Xe11 Oe10 Xh10 Og6 Xg8 Oi10 Xj9 Oi11 Xg12 Oi9 Xi8 Oj11 Xi12 Ok12 Xl13 Oh11 Xg11
+MESSAGE depth 1-26 ev 74.4 n 34726 n/s 168 tm 205994 pv Og9 Xe11 Oe13 Xc5 Ob4 Xf6 Oc6 Xh10 Oh13 Xg13 Og12 Xe10 Og8 Xh8 Oi10 Xg6 Oh6 Xh11 Oh9 Xj11 Oe4 Xd5 Oi9 Xi8 Ob5
+9,6
+INFO time_left 4929928
+TURN 6,2
+MESSAGE depth 1-23 ev 22.9 n 69852 n/s 103964 tm 671 pv Xe10 Og8 Xh8 Og11 Xg10 Oi11 Xh11 Oh12 Xe13 Oe11 Xj12 Oj10 Xg13 Ok9 Xl8 Oj8 Xi9 Ol10 Xi7 Ok10 Xb13 Ob11
+MESSAGE depth 1-19 ev 83.0 n 21371 n/s 107 tm 198259 pv Of6 Xc5 Of8 Xh8 Og12 Xe10 Og11 Xg8 Oh7 Xh11 Oe13 Xb6 Oa6 Xb4 Oa3 Xb13 Ob11 Xh10
+6,5
+INFO time_left 4731592
+TURN 11,1
+MESSAGE depth 1-18 ev 14.5 n 64396 n/s 228955 tm 281 pv Xc5 Of8 Xh8 Og12 Xe10 Og11 Xg8 Oh7 Xh11 Oe13 Xb6 Oa6 Xb4 Oa3 Xb11 Ob13 Xe3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 296 pv
+13,1
+INFO time_left 4731260
+TURN 6,1
+MESSAGE depth 1-16 ev 13.9 n 15628 n/s 11496 tm 1359 pv Xc5 Of8 Xh8 Og12 Xe10 Og11 Xg8 Oh7 Xb4 Oa3 Xb6 Oa6 Xh11 Oe13 Xn4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 1374 pv
+6,0
+INFO time_left 4729840
+TURN 11,4
+MESSAGE depth 1-15 ev 12.6 n 6312 n/s 18354 tm 343 pv Xc5 Of8 Xe11 Oe10 Xh10 Oi10 Xb4 Oa3 Xg12 Oh8 Xg8 Oi9 Xc11 Oa11
+MESSAGE depth 1-17 ev 92.5 n 9977 n/s 52 tm 189994 pv Oe10 Xh10 Oh8 Xg7 Oi10 Xg12 Oh5 Xi7 Oh7 Xh6 Oi5 Xg5 Of4 Xf5 Of12 Xf14
+10,4
+INFO time_left 4539776
+TURN 10,6
+MESSAGE depth 1-14 ev 7.0 n 18505 n/s 11068 tm 1671 pv Xh10 Oh8 Xg7 Oi10 Xg12 Oa7 Xa5 Oi7 Xj6 Ok8 Xi8 Ok9 Xj9
+MESSAGE depth 1-15 ev 95.6 n 11000 n/s 60 tm 182807 pv Oh8 Xc5 Of8 Xg8 Oi10 Xh11 Oi9 Xb4 Oa3 Xa11 Oc11 Xj13 Oi12 Xj10
+8,7
+INFO time_left 4356887
+TURN 9,8
+MESSAGE depth 1-14 ev 3.6 n 5595 n/s 7956 tm 703 pv Xc5 Of8 Xg8 Oi10 Xh11 Oi9 Xa11 Oc11 Xb4 Oa3 Xj13 Oi12 Xh13
+MESSAGE depth 1-10 ev 97.4 n 7976 n/s 45 tm 174948 pv Oh5 Xg6 Oi10 Xg12 Oh7 Xh6 Oj7 Xi7 Oi6
+5,7
+INFO time_left 4181871
+TURN 11,2
+MESSAGE depth 1-9 ev 2.1 n 1631 n/s 673 tm 2421 pv Xg6 Oi10 Xg12 Oh7 Xh6 Oj7 Xi7 Oi6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 2421 pv
+11,0
+INFO time_left 4179403
+TURN 6,6
+MESSAGE depth 1-6 ev 0.9 n 146 n/s 87 tm 1671 pv Xg6 Oi10 Xg12 Of5 Xf4
+MESSAGE depth 1-14 ev 97.2 n 7673 n/s 45 tm 167947 pv Oi10 Xg12 Og5 Xi7 Oi5 Xf5 Oh7 Xh6 Oj5 Xk5 Oi6 Xk4 Oj7
+10,8
+INFO time_left 4011398
+TURN 11,7
+MESSAGE depth 1-9 ev 2.4 n 1817 n/s 1472 tm 1234 pv Xg12 Of5 Xf4 Oi5 Xg5 Oh6 Xh7 Og4
+MESSAGE depth 1-12 ev 96.2 n 8377 n/s 52 tm 160932 pv Oi5 Xc5 Of8 Xg8 Oh6 Xi12 Oj13 Xa3 Ob4 Xh4 Og5
+5,8
+INFO time_left 3850388
+TURN 13,4
+MESSAGE depth 1-12 ev 3.2 n 1611 n/s 1001 tm 1609 pv Xc5 Of8 Xg8 Oh6 Xi12 Oj13 Xa3 Ob4 Xh4 Og5 Xf5
+MESSAGE depth 1-13 ev 94.4 n 6696 n/s 43 tm 154526 pv Oa9 Xf12 Oh12 Xc5 Of8 Xg8 Oh6 Xb4 Oa3 Xh7 Oj5 Xg5
+9,0
+INFO time_left 3695793
+TURN 12,5
+MESSAGE depth 1-10 ev 5.9 n 8542 n/s 10933 tm 781 pv Xh10 Oh12 Xi7 Oi12 Xf12 Og11 Xc5 Oh13 Xg12
+MESSAGE depth 1-13 ev 96.1 n 7780 n/s 52 tm 148776 pv Oh12 Xc5 Of8 Xg8 Oh6 Xb4 Oa3 Xg11 Oh10 Xh7 Oi7 Xj6
+12,7
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 7200000
+INFO timeout_turn 7200000
+INFO game_type 1
+INFO rule 1
+INFO time_left 3546889
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+10,5,1
+9,4,2
+8,4,1
+11,3,2
+10,3,1
+12,4,2
+11,5,1
+9,5,2
+12,2,1
+10,2,2
+13,5,1
+9,1,2
+8,0,1
+10,1,2
+8,1,1
+9,2,2
+9,3,1
+7,4,2
+8,3,1
+8,2,2
+7,2,1
+6,4,2
+7,3,1
+6,3,2
+9,6,1
+6,2,2
+6,5,1
+11,1,2
+13,1,1
+6,1,2
+6,0,1
+11,4,2
+10,4,1
+10,6,2
+8,7,1
+9,8,2
+5,7,1
+11,2,2
+11,0,1
+6,6,2
+10,8,1
+11,7,2
+5,8,1
+13,4,2
+9,0,1
+12,5,2
+12,7,1
+7,8,2
+DONE
+MESSAGE depth 1-17 ev 95.3 n 32542 n/s 229 tm 141761 pv Of5 Xg5 Of4 Xf7 Oh4 Xf2 Og4 Xi12 Oj13 Xh7 Og7 Xd12 Of14 Xh10 Og11 Xg8
+5,5
+INFO time_left 3405091
+TURN 11,6
+MESSAGE depth 1-15 ev 4.1 n 7051 n/s 1285 tm 5484 pv Xg5 Of4 Xf7 Oh4 Xf2 Og4 Xi12 Oj13 Xh7 Og7 Xd12 Of14 Xg11 Oh10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 5499 pv
+10,7
+INFO time_left 3399524
+TURN 5,4
+MESSAGE depth 1-11 ev 2.9 n 466 n/s 764 tm 609 pv Xg5 Of4 Xf7 Og7 Xd5 Og8 Xf8 Oc5 Xf3 Oe4
+MESSAGE depth 1-15 ev 97.2 n 27229 n/s 200 tm 135855 pv Of4 Xf7 Oe3 Xg5 Og8 Xf8 Oj11 Xk12 Oh4 Xf3 Og3 Xj6 Oh2 Xh6
+4,5
+INFO time_left 3263596
+TURN 7,5
+MESSAGE depth 1-14 ev 2.5 n 9285 n/s 33011 tm 281 pv Xf7 Oe3 Xg5 Og8 Xf8 Oj11 Xk12 Oh4 Xf3 Og3 Xj6 Oh2 Xh6
+MESSAGE depth 1-15 ev 97.3 n 38922 n/s 298 tm 130277 pv Oe3 Xg5 Og8 Xf8 Oj11 Xk12 Oh4 Xf3 Og3 Xj6 Oh2 Xh6 Oi4 Xf14
+3,4
+INFO time_left 3133234
+TURN 7,7
+MESSAGE depth 1-14 ev 2.4 n 33777 n/s 144013 tm 234 pv Xg5 Og8 Xf8 Oj11 Xk12 Oh4 Xf3 Og3 Xj6 Oh2 Xh6 Oi4 Xf14
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+7,6
+INFO time_left 3132962
+TURN 14,5
+MESSAGE depth 1-10 ev 3.8 n 1626 n/s 6937 tm 234 pv Xj5 Og8 Xf8 Oh4 Xf3 Oa5 Xa7 Of2 Xg3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+12,3
+INFO time_left 3132688
+TURN 8,6
+MESSAGE depth 1-11 ev 3.3 n 3265 n/s 11608 tm 281 pv Xj5 Og8 Xf8 Oh4 Xf3 Oa5 Xa7 Of2 Xg3 Oh2
+MESSAGE depth 1-15 ev 98.4 n 28223 n/s 225 tm 125058 pv Od5 Xj5 Oi6 Xf3 Ok10 Xj7 Oj12 Xi11 Oi12 Xj11 Ok11 Xl7 Ok7 Xa10
+5,3
+INFO time_left 3007587
+TURN 5,9
+MESSAGE depth 1-13 ev 1.3 n 33998 n/s 75028 tm 453 pv Xj5 Oi6 Xf3 Oh4 Xj4 Oj12 Xi11 Oi12 Xk12 Og5 Xh6 Of2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 453 pv
+6,8
+INFO time_left 3007087
+TURN 2,5
+MESSAGE depth 1-11 ev 1.4 n 22575 n/s 2078 tm 10859 pv Xf3 Oh4 Xj4 Oj12 Xi11 Oi12 Xk12 Og5 Xh6 Of2
+MESSAGE depth 1-11 ev 98.7 n 24350 n/s 202 tm 120074 pv Og4 Xf3 Oj4 Xh6 Ok9 Xk10 Oi3 Xi4 Ok5 Xl6
+4,6
+INFO time_left 2886938
+TURN 3,5
+MESSAGE depth 1-10 ev 1.4 n 4230 n/s 1353 tm 3124 pv Xf3 Oj4 Xh6 Ok9 Xk10 Oi3 Xi4 Ok5 Xl6
+MESSAGE depth 1-13 ev 98.3 n 26554 n/s 230 tm 115246 pv Ok10 Xj10 Oi12 Xg12 Oj4 Xh6 Oj11 Xl9 Ok12 Xg14 Og13 Xl13
+10,10
+INFO time_left 2771633
+TURN 4,1
+MESSAGE depth 1-12 ev 1.0 n 4659 n/s 1343 tm 3468 pv Xj10 Oi12 Xg12 Oj4 Xh6 Oj11 Xl9 Ok12 Xg14 Og13 Xl13
+MESSAGE depth 1-10 ev 99.0 n 20601 n/s 186 tm 110528 pv Of8 Xj12 Oj4 Xh6 Ok7 Xc5 Oa3 Xj13 Oi12
+8,5
+INFO time_left 2661033
+TURN 12,8
+MESSAGE depth 1-9 ev 0.9 n 9254 n/s 1078 tm 8577 pv Xj12 Oj4 Xh6 Ok7 Xc5 Oa3 Xj13 Oi12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 8577 pv
+13,9
+INFO time_left 2652396
+TURN 3,0
+MESSAGE depth 1-10 ev 0.7 n 1766 n/s 825 tm 2140 pv Xj10 Oj4 Xh6 Oh13 Xg12 Oi4 Xh4 Ok12 Xk11
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 2140 pv
+5,2
+INFO time_left 2650208
+TURN 11,8
+MESSAGE depth 1-6 ev 0.3 n 137 n/s 292 tm 468 pv Xj10 Oh4 Xi4 Ok7 Xl8
+MESSAGE depth 1-10 ev W n 5325 n/s 198 tm 26764 pv Oh4 Xi4 Ok7 Xk11 Oj11 Xg3 Oj10 Xl10 Oj12
+4,7
+INFO time_left 2623396
+TURN 4,8
+MESSAGE depth 1-9 ev L n 284 n/s 2019 tm 140 pv Xi4 Ok7 Xk11 Oj11 Xg3 Oj10 Xl10 Oj12
+MESSAGE depth 1-8 ev W n 220 n/s 639 tm 343 pv Ok7 Xk11 Oj11 Xg3 Oj10 Xl10 Oj12
+7,10
+INFO time_left 2622983
+TURN 11,10
+MESSAGE depth 1-7 ev L n 77 n/s 4932 tm 15 pv Xk11 Oj11 Xg3 Oj10 Xl10 Oj12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+11,9
+INFO time_left 2622916
+TURN 6,9
+MESSAGE depth 1-5 ev L n 34 n/s -2147483648 tm 0 pv Xg3 Oj10 Xl10 Oj12
+MESSAGE depth 1-4 ev W n 5 n/s 159 tm 31 pv Oj10 Xl10 Oj12
+10,9
+INFO time_left 2622844
+TURN 10,11
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Xl10 Oj12
+MESSAGE depth 1-2 ev W n 1 n/s 64 tm 15 pv Oj12
+12,9
+INFO time_left 2622812
+TURN 9,9
+MESSAGE depth 1-2 ev L n 1 n/s 31 tm 31 pv Xj9
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Oj14
+14,9
+INFO timeout_turn 60000
+INFO timeout_match 60000
+INFO time_left -4517254
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59160
+INFO folder C:\ProgramData
+BOARD
+14,7,2
+14,6,1
+11,2,2
+DONE
+MESSAGE depth 1-6 ev 36.1 n 325 n/s 145 tm 2234 pv Oe9 Xf10 Og10 Xe11 Og9
+9,4
+INFO time_left 56893
+TURN 10,5
+MESSAGE depth 1-11 ev 56.3 n 669 n/s 4281 tm 156 pv Xf10 Og10 Xe11 Og9 Xg8 Of9 Xh9 Oe8 Xd7 Oe7
+MESSAGE depth 1-10 ev 39.6 n 708 n/s 348 tm 2031 pv Og10 Xe8 Of7 Xf11 Oe11 Xg8 Of8 Xf6 Oi9
+10,6
+INFO time_left 54803
+TURN 11,5
+MESSAGE depth 1-12 ev 53.0 n 1356 n/s 86789 tm 15 pv Xe8 Of7 Xf11 Oe11 Xg8 Of8 Xf6 Oh10 Xh6 Og9 Xi11
+MESSAGE depth 1-12 ev 51.8 n 558 n/s 274 tm 2031 pv Oe11 Xe8 Of7 Xg8 Of8 Xf6 Oh10 Xh6 Og9 Xi11 Oh7
+11,4
+INFO time_left 52713
+TURN 8,6
+MESSAGE depth 1-11 ev 48.0 n 569 n/s 3310 tm 171 pv Xe8 Of7 Xg8 Of8 Xf6 Oi9 Xh6 Oh7 Xg5 Og6
+MESSAGE depth 1-8 ev 55.2 n 373 n/s 211 tm 1765 pv Of8 Xe7 Oh7 Xh6 Og5 Xd9 Oe10
+8,5
+INFO time_left 50875
+TURN 9,3
+MESSAGE depth 1-10 ev 42.3 n 877 n/s 2551 tm 343 pv Xe7 Og12 Xg7 Of9 Xf7 Od7 Xe8 Og6 Xc9
+MESSAGE depth 1-8 ev 56.6 n 272 n/s 162 tm 1671 pv Oe10 Xe8 Of7 Xf6 Oh10 Xe7 Og5
+10,4
+INFO time_left 49151
+TURN 8,4
+MESSAGE depth 1-9 ev 33.2 n 278 n/s 1779 tm 156 pv Xe8 Of7 Xf6 Oh10 Xe7 Og5 Xe5 Oe6
+MESSAGE depth 1-9 ev 65.4 n 540 n/s 342 tm 1578 pv Of7 Xf6 Oh10 Xe7 Og5 Xd7 Oh6 Xg7
+7,5
+INFO time_left 47530
+TURN 6,5
+MESSAGE depth 1-12 ev 35.6 n 1217 n/s 6490 tm 187 pv Xf6 Oh10 Xd6 Of12 Xe13 Oi11 Xg9 Og7 Xh6 Og13 Xd7
+MESSAGE depth 1-12 ev 61.4 n 990 n/s 597 tm 1656 pv Oh10 Xd6 Of12 Xe13 Oi11 Xg9 Oe6 Xg5 Og7 Xh6 Oi7
+10,7
+INFO time_left 45820
+TURN 7,4
+MESSAGE depth 1-12 ev 35.8 n 897 n/s 4415 tm 203 pv Xd6 Og12 Xg11 Oh12 Xf12 Of13 Xd7 Od8 Xc6 Oe12 Xe13
+MESSAGE depth 1-11 ev 62.7 n 549 n/s 341 tm 1609 pv Og5 Xd7 Od6 Xe4 Oe5 Xc6 Ob5 Xh6 Oi6 Xg4
+5,6
+INFO time_left 44163
+TURN 5,4
+MESSAGE depth 1-11 ev 34.3 n 956 n/s 2780 tm 343 pv Xe5 Oe6 Xd5 Od4 Xd7 Oc6 Xi9 Oh8 Xh6 Oh11
+MESSAGE depth 1-11 ev 61.5 n 725 n/s 400 tm 1812 pv Oe6 Xd5 Od4 Xd7 Oc6 Xi9 Oh8 Xh6 Oh11 Xh9
+6,4
+INFO time_left 42308
+TURN 9,2
+MESSAGE depth 1-11 ev 31.9 n 667 n/s 2845 tm 234 pv Xd5 Od4 Xd7 Oc6 Xi9 Oh8 Xh6 Oh11 Xh9 Oj9
+MESSAGE depth 1-9 ev 59.7 n 209 n/s 143 tm 1453 pv Od8 Xd4 Og7 Xh6 Oi9 Xc10 Oc8 Xf12
+8,3
+INFO time_left 40790
+TURN 13,4
+MESSAGE depth 1-10 ev 28.8 n 478 n/s 30592 tm 15 pv Xd4 Og7 Xh6 Oi9 Xc10 Oc8 Xf12 Of13 Xe12
+MESSAGE depth 1-9 ev 58.8 n 268 n/s 157 tm 1703 pv Oc10 Xd4 Oc3 Xf4 Og3 Xg4 Oe4 Xi6
+10,2
+INFO time_left 39009
+TURN 6,7
+MESSAGE depth 1-7 ev 35.9 n 352 n/s 1251 tm 281 pv Xd4 Oc3 Xh6 Oh8 Xg3 Oh11
+MESSAGE depth 1-9 ev 65.0 n 270 n/s 230 tm 1171 pv Oi9 Xd4 Og7 Xc5 Oj8 Xg11 Oj10 Xc6
+9,8
+INFO time_left 37769
+TURN 4,3
+MESSAGE depth 1-10 ev 44.0 n 343 n/s 731 tm 468 pv Xd4 Og7 Xc5 Oj8 Xg11 Oj10 Xc6 Oc7 Xb5
+MESSAGE depth 1-9 ev 47.8 n 375 n/s 289 tm 1296 pv Og7 Xc5 Oj8 Xg11 Oj10 Xc6 Oc3 Xb5
+7,6
+INFO time_left 36422
+TURN 3,3
+MESSAGE depth 1-8 ev 55.4 n 290 n/s 1160 tm 249 pv Xc5 Oj8 Xg11 Oj10 Xc6 Oc3 Xb5
+MESSAGE depth 1-7 ev 28.1 n 153 n/s 115 tm 1328 pv Oj8 Xg11 Oj10 Xd5 Od6 Xc5
+12,6
+INFO time_left 35059
+TURN 12,5
+MESSAGE depth 1-4 ev 10.7 n 69 n/s 245 tm 281 pv Xf12 Og13 Xg11
+MESSAGE depth 1-7 ev 31.4 n 126 n/s 124 tm 1015 pv Of13 Xd5 Od6 Xc5 Ob5 Xe3
+9,5
+INFO time_left 33985
+TURN 3,4
+MESSAGE depth 1-7 ev 65.6 n 90 n/s 443 tm 203 pv Xd5 Od6 Xc5 Ob5 Xe3 Oh9
+MESSAGE depth 1-7 ev 16.1 n 153 n/s 153 tm 999 pv Oc3 Xd5 Od6 Xc5 Oh9 Xg9
+3,2
+INFO time_left 32933
+TURN 5,3
+MESSAGE depth 1-7 ev 72.9 n 79 n/s 1010 tm 78 pv Xd5 Od6 Xc5 Og9 Xh9 Oi11
+MESSAGE depth 1-8 ev 16.3 n 188 n/s 197 tm 953 pv Od6 Xc5 Og9 Xh9 Oj12 Xi11 Oa7
+6,3
+INFO time_left 31911
+TURN 5,2
+MESSAGE depth 1-7 ev 95.7 n 103 n/s 3296 tm 31 pv Xc5 Oh9 Xg9 Og13 Xg11 Of2
+MESSAGE depth 1-9 ev 0.1 n 382 n/s 400 tm 953 pv Og11 Xg13 Og9 Xh9 Oj8 Xk7 Oj12 Xi11
+11,6
+INFO time_left 30868
+TURN 13,6
+MESSAGE depth 1-9 ev 99.8 n 225 n/s 7199 tm 31 pv Xg13 Og9 Xh9 Oj8 Xk7 Oj12 Xi11 Og1
+MESSAGE depth 1-9 ev L n 350 n/s 1493 tm 234 pv Og9 Xh9 Oi11 Xj12 Oj8 Xk7 Of13 Xb5
+9,6
+INFO time_left 30583
+TURN 9,7
+MESSAGE depth 1-8 ev W n 169 n/s 5408 tm 31 pv Xh9 Oi11 Xj12 Oj8 Xk7 Of13 Xb5
+MESSAGE depth 1-7 ev L n 168 n/s 5376 tm 31 pv Oi11 Xj12 Oj8 Xk7 Of13 Xb5
+8,9
+INFO time_left 30518
+TURN 7,10
+MESSAGE depth 1-6 ev W n 39 n/s 1247 tm 31 pv Xk7 Oi11 Xj12 Of13 Xb5
+MESSAGE depth 1-5 ev L n 38 n/s 1215 tm 31 pv Oi11 Xj12 Of13 Xb5
+11,8
+INFO time_left 30461
+TURN 12,9
+MESSAGE depth 1-4 ev W n 13 n/s 416 tm 31 pv Xj12 Of13 Xb5
+MESSAGE depth 1-3 ev L n 12 n/s 768 tm 15 pv Of13 Xb5
+13,5
+INFO time_left 30428
+TURN 6,1
+MESSAGE depth 1-2 ev W n 1 n/s 63 tm 15 pv Xb5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+7,0
+TAKEBACK 7,0
+MESSAGE depth 1-2 ev W n 1 n/s 64 tm 15 pv Xf2
+OK
+TAKEBACK 6,1
+OK
+TAKEBACK 13,5
+OK
+TAKEBACK 12,9
+OK
+TAKEBACK 11,8
+OK
+TAKEBACK 7,10
+OK
+TAKEBACK 8,9
+OK
+TAKEBACK 9,7
+OK
+TAKEBACK 9,6
+OK
+TAKEBACK 13,6
+OK
+TAKEBACK 11,6
+OK
+TAKEBACK 5,2
+OK
+TAKEBACK 6,3
+OK
+TAKEBACK 5,3
+OK
+TAKEBACK 3,2
+OK
+TAKEBACK 3,4
+OK
+TAKEBACK 9,5
+OK
+TAKEBACK 12,5
+OK
+TAKEBACK 12,6
+OK
+TAKEBACK 3,3
+OK
+TAKEBACK 7,6
+OK
+TAKEBACK 4,3
+OK
+TAKEBACK 9,8
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 13,4
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 6,4
+OK
+TAKEBACK 5,4
+OK
+TAKEBACK 5,6
+OK
+TAKEBACK 7,4
+OK
+TAKEBACK 10,7
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 7,5
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 8,5
+OK
+TAKEBACK 8,6
+OK
+TAKEBACK 11,4
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 10,6
+OK
+TAKEBACK 10,5
+OK
+INFO time_left 56893
+TURN 10,5
+MESSAGE depth 1-11 ev 43.6 n 533 n/s 250 tm 2124 pv Og10 Xe11 Og9 Xg8 Of9 Xh9 Oe8 Xd7 Oe7 Xe6
+10,6
+INFO time_left 54691
+TURN 8,6
+MESSAGE depth 1-10 ev 52.8 n 1054 n/s 5189 tm 203 pv Xe8 Og9 Xg8 Of8 Xh9 Of7 Xg7 Og5 Xf6
+MESSAGE depth 1-9 ev 42.4 n 586 n/s 323 tm 1812 pv Of11 Xh9 Oh11 Xe11 Oi12 Xj13 Og12 Xi10
+11,5
+INFO time_left 52839
+TURN 8,7
+MESSAGE depth 1-12 ev 50.1 n 615 n/s 2460 tm 249 pv Xh9 Oh11 Xf9 Og12 Xg11 Oe10 Xh13 Of7 Xe8 Oi9 Xi10
+MESSAGE depth 1-9 ev 61.6 n 406 n/s 214 tm 1890 pv Oe8 Xe11 Og9 Xf9 Oh7 Xd10 Oi8 Xf12
+8,4
+INFO time_left 50911
+TURN 9,5
+MESSAGE depth 1-10 ev 36.7 n 377 n/s 1419 tm 265 pv Xf9 Oe10 Xe11 Og9 Xe7 Og12 Xh13 Oe12 Xd13
+MESSAGE depth 1-13 ev 43.3 n 595 n/s 312 tm 1906 pv Oe10 Xe11 Og9 Xe7 Og12 Xh13 Oe12 Xd13 Oi11 Xi8 Oj8 Xh10
+10,4
+INFO time_left 48948
+TURN 11,4
+MESSAGE depth 1-12 ev 52.3 n 533 n/s 1795 tm 296 pv Xe11 Og9 Xe7 Og12 Xh13 Oe12 Xd13 Oi11 Xi8 Oj8 Xh10
+MESSAGE depth 1-14 ev 50.2 n 891 n/s 518 tm 1718 pv Og9 Xe7 Oe12 Xd13 Od9 Xc8 Oc10 Xf7 Od11 Xf13 Ob10 Xf6 Of8
+9,6
+INFO time_left 47164
+TURN 7,5
+MESSAGE depth 1-15 ev 47.0 n 870 n/s 3712 tm 234 pv Xe7 Oe12 Xd13 Od9 Xc8 Oc10 Xb11 Oi10 Xd11 Oa11 Xi8 Oj8 Xd12 Oj9
+MESSAGE depth 1-9 ev 32.6 n 426 n/s 247 tm 1718 pv Oh9 Xi8 Of8 Xe7 Og12 Xh13 Oe12 Xd13
+6,5
+INFO time_left 45353
+TURN 8,8
+MESSAGE depth 1-9 ev 54.2 n 566 n/s 12075 tm 46 pv Xe7 Oh7 Xi8 Oj8 Xd12 Oe6 Xd10 Od9
+MESSAGE depth 1-15 ev 41.8 n 616 n/s 375 tm 1640 pv Oj8 Xe6 Oh9 Xf5 Og12 Xh13 Oc8 Xd9 Od8 Xb8 Og5 Xe7 Oe4 Xg4
+8,9
+INFO time_left 43634
+TURN 6,4
+MESSAGE depth 1-12 ev 61.3 n 730 n/s 2595 tm 281 pv Xe6 Oh9 Xf5 Og12 Xh13 Of12 Xh12 Oh10 Xi9 Oc8 Xd9
+MESSAGE depth 1-13 ev 25.9 n 804 n/s 553 tm 1453 pv Oh9 Xf5 Og12 Xh13 Of12 Xh12 Oh10 Xi9 Oi11 Xj12 Oc8 Xd9
+9,7
+INFO time_left 42118
+TURN 5,6
+MESSAGE depth 1-13 ev 72.2 n 969 n/s 4770 tm 203 pv Xf5 Og12 Xh13 Of12 Xh12 Oh10 Xi9 Oi11 Xj12 Oc8 Xd9 Od8
+MESSAGE depth 1-10 ev 23.6 n 437 n/s 294 tm 1484 pv Og12 Xh13 Oh12 Xf12 Oj9 Xf5 Oc8 Xd9 Oe5
+5,5
+INFO time_left 40562
+TURN 4,4
+MESSAGE depth 1-10 ev 70.3 n 528 n/s 16898 tm 31 pv Xi6 Og12 Xh13 Oi9 Xh10 Oh12 Xf12 Oj9 Xk9
+MESSAGE depth 1-8 ev 20.9 n 364 n/s 247 tm 1468 pv Og12 Xh13 Oh12 Xf12 Of4 Xf3 Od5
+12,6
+INFO time_left 39027
+TURN 13,7
+MESSAGE depth 1-10 ev 81.4 n 394 n/s 12608 tm 31 pv Xh13 Oh12 Xf12 Of4 Xf3 Od5 Xi6 Od6 Xe5
+MESSAGE depth 1-9 ev 15.9 n 606 n/s 426 tm 1421 pv Od5 Xg4 Of4 Xi6 Oh7 Xi5 Oi7 Xf3
+5,3
+INFO time_left 37541
+TURN 3,4
+MESSAGE depth 1-9 ev 82.3 n 631 n/s 2243 tm 281 pv Xg4 Od6 Xf4 Od4 Xd7 Og7 Xe5 Oe3
+MESSAGE depth 1-13 ev 31.9 n 287 n/s 226 tm 1265 pv Oe5 Xf4 Oh6 Xd4 Oc5 Xb5 Og4 Xe2 Oc4 Xe1 Oe0 Xd2
+5,4
+INFO time_left 36232
+TURN 4,5
+MESSAGE depth 1-17 ev 69.8 n 611 n/s 13034 tm 46 pv Xf4 Oh6 Xd4 Oc5 Xb5 Og4 Xe2 Oc4 Xd2 Oc1 Xe1 Oe0 Xc3 Ob4 Xf2 Og2
+MESSAGE depth 1-15 ev 22.5 n 765 n/s 652 tm 1171 pv Oh6 Xd4 Oc5 Xb5 Og4 Xe2 Oc4 Xd2 Oc1 Xe1 Oe0 Xc3 Oc8 Xd9
+6,7
+INFO time_left 34998
+TURN 4,6
+MESSAGE depth 1-12 ev 77.8 n 792 n/s 16871 tm 46 pv Xg4 Od4 Xg7 Og6 Xi6 Oi7 Xf3 Oh5 Xh3 Ok9 Xl10
+MESSAGE depth 1-12 ev 16.4 n 616 n/s 486 tm 1265 pv Od4 Xg7 Og6 Xi6 Oi7 Xf3 Oh5 Xh3 Ok9 Xl10 Og3
+4,3
+INFO time_left 33676
+TURN 7,6
+MESSAGE depth 1-11 ev 82.7 n 544 n/s 1740 tm 312 pv Xg7 Og6 Xi6 Oi7 Xf3 Oh5 Xh3 Ok9 Xl10 Og3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 312 pv
+6,6
+INFO time_left 33321
+TURN 6,8
+MESSAGE depth 1-9 ev 85.4 n 541 n/s 844 tm 640 pv Xi6 Oi7 Xf3 Oh5 Xh3 Ok9 Xl10 Oc8
+MESSAGE depth 1-9 ev 11.5 n 542 n/s 408 tm 1328 pv Oi7 Xf3 Oh5 Xh3 Ok9 Xl10 Oc8 Xd9
+7,8
+INFO time_left 31933
+TURN 5,9
+MESSAGE depth 1-8 ev 85.5 n 426 n/s 1603 tm 265 pv Xf3 Oh5 Xh3 Ok9 Xl10 Oc8 Xd9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 265 pv
+7,7
+INFO time_left 31604
+TURN 3,6
+MESSAGE depth 1-6 ev 56.3 n 123 n/s 302 tm 406 pv Xg2 Oc8 Xd9 Ok9 Xl10
+MESSAGE depth 1-5 ev 3.4 n 95 n/s 104 tm 906 pv Oc8 Xd9 Ok9 Xl10
+5,2
+INFO time_left 30619
+TURN 5,1
+MESSAGE depth 1-4 ev 97.8 n 46 n/s 327 tm 140 pv Xb5 Oi4 Xf3
+MESSAGE depth 1-7 ev 3.2 n 243 n/s 243 tm 999 pv Oc8 Xd9 Ok9 Xl10 Oi4 Xf3
+8,2
+INFO time_left 29476
+TURN 9,3
+MESSAGE depth 1-6 ev 97.9 n 127 n/s 507 tm 250 pv Xd9 Ok9 Xl10 Og2 Xf3
+MESSAGE depth 1-7 ev 5.1 n 302 n/s 311 tm 968 pv Ok9 Xl10 Oe12 Xd13 Oi9 Xj9
+4,8
+INFO time_left 28439
+TURN 3,5
+MESSAGE depth 1-8 ev 83.6 n 116 n/s 464 tm 249 pv Xf3 Ok9 Xl10 Oc3 Xb2 Oe12 Xd13
+MESSAGE depth 1-10 ev 0.6 n 314 n/s 318 tm 984 pv Ok9 Xl10 Oc3 Xb2 Oe12 Xd13 Oi9 Xj9 Oh3
+9,10
+INFO time_left 27361
+TURN 10,11
+MESSAGE depth 1-9 ev 99.5 n 237 n/s 1166 tm 203 pv Xl10 Oc3 Xb2 Oe12 Xd13 Oj9 Xi9 Oi3
+MESSAGE depth 1-7 ev 0.1 n 542 n/s 738 tm 734 pv Oi9 Xj9 Od13 Xe12 Ob2 Xc3
+9,8
+INFO time_left 26591
+TURN 9,9
+MESSAGE depth 1-8 ev W n 105 n/s -2147483648 tm 0 pv Xj9 Oc3 Xb2 Oe12 Xd13 Oh5 Xh3
+MESSAGE depth 1-7 ev L n 104 n/s 3328 tm 31 pv Oc3 Xb2 Oe12 Xd13 Oh5 Xh3
+3,2
+INFO time_left 26521
+TURN 2,1
+MESSAGE depth 1-6 ev W n 36 n/s 2303 tm 15 pv Xb2 Oe12 Xd13 Oh5 Xh3
+MESSAGE depth 1-5 ev L n 35 n/s 2239 tm 15 pv Oe12 Xd13 Oh5 Xh3
+13,3
+INFO time_left 26487
+TURN 12,4
+MESSAGE depth 1-4 ev W n 12 n/s 768 tm 15 pv Xe12 Od3 Xh5
+MESSAGE depth 1-3 ev L n 11 n/s 352 tm 31 pv Oh5 Xh3
+5,7
+INFO time_left 26449
+TURN 3,7
+MESSAGE depth 1-2 ev W n 1 n/s 64 tm 15 pv Xh3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+3,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 170039
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+DONE
+MESSAGE depth 1-13 ev 18.3 n 1527 n/s 228 tm 6687 pv Og10 Xh10 Of9 Xh2 Oi1 Xh3 Oh1 Xf3 Oe3 Xf1 Of2 Xk4
+10,6
+INFO time_left 163323
+TURN 10,7
+MESSAGE depth 1-21 ev 85.1 n 10203 n/s 652036 tm 15 pv Xh10 Of9 Xh2 Oi1 Xj3 Oh3 Xk4 Of8 Xf7 Of11 Xf12 Oh9 Xe12 Od6 Xc5 Ol11 Xl12 Od9 Xe9 Oi2
+MESSAGE depth 1-20 ev 12.9 n 7246 n/s 1159 tm 6249 pv Of9 Xh2 Oi1 Xj3 Oh3 Xk4 Of8 Xf7 Od6 Xc5 Of11 Xf12 Oh9 Xe12 Ol11 Xl12 Od9 Xe9 Oe11
+9,5
+INFO time_left 157035
+TURN 11,6
+MESSAGE depth 1-23 ev 89.5 n 22574 n/s 131327 tm 171 pv Xh2 Oi1 Xj3 Oh1 Xk4 Ok3 Xm6 Of8 Xf7 Oj4 Xl2 Of11 Xf12 Oh9 Xe12 Od6 Xc5 Ol11 Xl12 Od9 Xe9 On7
+MESSAGE depth 1-17 ev 59.5 n 1508 n/s 249 tm 6046 pv Oh9 Xf12 Oe13 Xd9 Oe12 Xf11 Oe10 Xe11 Od11 Xh11 Oi11 Xk12 Ok13 Xm7 On7 Xf8
+9,7
+INFO time_left 150920
+TURN 12,5
+MESSAGE depth 1-18 ev 50.3 n 6508 n/s 208201 tm 31 pv Xf12 Oe13 Xc10 Oe8 Xd7 Ok12 Xh11 Oe11 Xe10 Od12 Xc13 Oc11 Xb10 Od10 Xd9 Od6 Xf8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 31 pv
+13,4
+INFO time_left 150834
+TURN 10,3
+MESSAGE depth 1-17 ev 62.8 n 11233 n/s 59905 tm 187 pv Xc10 Oe8 Xd7 Oe10 Xe9 Ok12 Xi12 Oe11 Xf11 Od6 Xc5 Od11 Xc12 Od12 Xc13 Oc11
+MESSAGE depth 1-8 ev W n 319 n/s 255 tm 1249 pv Oe8 Xk12 Ok13 Xm7 On7 Xd7 Od9
+8,4
+INFO time_left 149504
+TURN 7,3
+MESSAGE depth 1-7 ev L n 181 n/s 5794 tm 31 pv Xk12 Ok13 Xm7 On7 Xd7 Od9
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Od9
+9,3
+INFO time_left 149436
+TURN 9,4
+MESSAGE depth 1-3 ev L n 2 n/s 32 tm 62 pv Xe9 Oe12
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Oe12
+12,4
+INFO time_left 149374
+TURN 11,5
+MESSAGE depth 1-3 ev L n 2 n/s 42 tm 46 pv Xf11 Of7
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Of7
+7,5
+TAKEBACK 7,5
+MESSAGE depth 1-2 ev L n 1 n/s 31 tm 31 pv Xc10
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 12,4
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 7,3
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,3
+OK
+INFO time_left 150834
+TURN 9,4
+MESSAGE depth 1-12 ev 71.4 n 1356 n/s 239 tm 5656 pv Oc10 Xf8 Oe8 Xh11 Od9 Xf7 Oc11 Xi11 Oj11 Xf11 Oe11
+10,2
+INFO time_left 145139
+TURN 10,3
+MESSAGE depth 1-11 ev 14.8 n 3540 n/s 28316 tm 125 pv Xf8 Oe8 Xh11 Oe11 Xm7 On7 Xk12 Ok13 Xd10 Oc11
+MESSAGE depth 1-10 ev W n 690 n/s 1522 tm 453 pv Oe8 Xf8 Oc11 Xm7 On7 Xk12 Ok13 Xd7 Od9
+8,4
+TAKEBACK 8,4
+MESSAGE depth 1-9 ev L n 590 n/s 12586 tm 46 pv Xf8 Oc11 Xm7 On7 Xk12 Ok13 Xh11 Oc6
+OK
+TAKEBACK 10,3
+OK
+INFO time_left 145139
+TURN 8,5
+MESSAGE depth 1-11 ev 81.9 n 1569 n/s 278 tm 5624 pv Oe8 Xh11 Oc11 Xm7 On7 Xi11 Oj11 Xf11 Oe11 Xc13
+8,4
+INFO time_left 139487
+TURN 11,7
+MESSAGE depth 1-12 ev 10.6 n 1858 n/s 59412 tm 31 pv Xd7 Od9 Xf7 Oc11 Xf11 Od12 Xm7 On7 Xk12 Ok13 Xf14
+MESSAGE depth 1-11 ev 95.0 n 2556 n/s 483 tm 5281 pv Oc11 Xi11 Oj11 Xm7 On7 Xf11 Oe11 Xk12 Ok13 Xl11
+11,2
+INFO time_left 134127
+TURN 11,8
+MESSAGE depth 1-10 ev 0.5 n 3783 n/s 18622 tm 203 pv Xi11 Oj11 Xk12 Ok13 Xf11 Oe11 Xm7 On7 Xn9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 203 pv
+11,9
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 46616
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+DONE
+MESSAGE depth 1-8 ev 1.3 n 267 n/s 174 tm 1531 pv Xm7 On7 Xk12 Ok13 Xf11 Oe11 Xc13
+7,12
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 133815
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+7,13
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 44943
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+DONE
+MESSAGE depth 1-6 ev 0.6 n 223 n/s 158 tm 1406 pv Xf11 Oe11 Xk12 Ok13 Xc9
+11,5
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 133703
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+11,4
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 43421
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+DONE
+MESSAGE depth 1-5 ev L n 168 n/s 147 tm 1140 pv Xk12 Ok13 Xd12 Oc6
+12,10
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 133604
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+13,10
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 42188
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+DONE
+MESSAGE depth 1-3 ev L n 61 n/s 83 tm 734 pv Xd12 Oc6
+12,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 133469
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 531 pv Oc6
+6,2
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 41363
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+7,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 132826
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 515 pv Od9
+9,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 41266
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+7,3,1
+9,3,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+7,5
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 132168
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+9,3,1
+7,5,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 515 pv Ob11
+11,1
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 41172
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+7,3,1
+9,3,2
+7,5,1
+11,1,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+12,0
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 131517
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+9,3,1
+7,5,2
+11,1,1
+12,0,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 515 pv Od11
+11,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 41076
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+7,3,1
+9,3,2
+7,5,1
+11,1,2
+12,0,1
+11,3,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+11,0
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 130871
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+9,3,1
+7,5,2
+11,1,1
+12,0,2
+11,3,1
+11,0,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 515 pv Oe10
+10,4
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 40971
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+7,3,1
+9,3,2
+7,5,1
+11,1,2
+12,0,1
+11,3,2
+11,0,1
+10,4,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+10,3
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 130189
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+9,3,1
+7,5,2
+11,1,1
+12,0,2
+11,3,1
+11,0,2
+10,4,1
+10,3,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 531 pv Oc12
+12,2
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 40879
+INFO folder C:\ProgramData
+BOARD
+7,7,1
+6,8,2
+6,9,1
+7,4,2
+9,10,1
+5,6,2
+7,10,1
+7,8,2
+10,10,1
+8,10,2
+9,9,1
+8,8,2
+9,8,1
+9,11,2
+7,9,1
+8,9,2
+8,7,1
+6,7,2
+4,5,1
+6,5,2
+4,7,1
+5,8,2
+4,8,1
+6,6,2
+6,4,1
+4,6,2
+7,6,1
+8,11,2
+8,12,1
+10,11,2
+11,10,1
+10,9,2
+7,11,1
+5,9,2
+5,7,1
+9,6,2
+8,3,1
+10,5,2
+3,6,1
+10,6,2
+10,7,1
+9,5,2
+11,6,1
+9,7,2
+12,5,1
+13,4,2
+9,4,1
+10,2,2
+8,5,1
+8,4,2
+11,7,1
+11,2,2
+11,8,1
+11,9,2
+7,12,1
+7,13,2
+11,5,1
+11,4,2
+12,10,1
+13,10,2
+12,3,1
+6,2,2
+7,3,1
+9,3,2
+7,5,1
+11,1,2
+12,0,1
+11,3,2
+11,0,1
+10,4,2
+10,3,1
+12,2,2
+DONE
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+13,1
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 129542
+INFO folder C:\ProgramData
+BOARD
+7,7,2
+6,8,1
+6,9,2
+7,4,1
+9,10,2
+5,6,1
+7,10,2
+7,8,1
+10,10,2
+8,10,1
+9,9,2
+8,8,1
+9,8,2
+9,11,1
+7,9,2
+8,9,1
+8,7,2
+6,7,1
+4,5,2
+6,5,1
+4,7,2
+5,8,1
+4,8,2
+6,6,1
+6,4,2
+4,6,1
+7,6,2
+8,11,1
+8,12,2
+10,11,1
+11,10,2
+10,9,1
+7,11,2
+5,9,1
+5,7,2
+9,6,1
+8,3,2
+10,5,1
+3,6,2
+10,6,1
+10,7,2
+9,5,1
+11,6,2
+9,7,1
+12,5,2
+13,4,1
+9,4,2
+10,2,1
+8,5,2
+8,4,1
+11,7,2
+11,2,1
+11,8,2
+11,9,1
+7,12,2
+7,13,1
+11,5,2
+11,4,1
+12,10,2
+13,10,1
+12,3,2
+6,2,1
+7,3,2
+9,3,1
+7,5,2
+11,1,1
+12,0,2
+11,3,1
+11,0,2
+10,4,1
+10,3,2
+12,2,1
+13,1,2
+DONE
+MESSAGE depth 1-2 ev W n 1 n/s 1 tm 531 pv Og8
+8,6
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 178228
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-15 ev 43.0 n 1620 n/s 240 tm 6749 pv Oe9 Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xd9 Of11 Xg11 Oe8 Xf8 Of6 Xe7
+9,4
+INFO time_left 171449
+TURN 10,5
+MESSAGE depth 1-20 ev 58.3 n 2225 n/s 14241 tm 156 pv Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xc9 Og10 Xc11 Oc12 Xc8 Oc7 Xd9 Of11 Xe8 Of7 Xb10 Ob9 Xd8
+MESSAGE depth 1-17 ev 50.1 n 1623 n/s 248 tm 6531 pv Og10 Xc10 Og9 Xf9 Of8 Xc12 Oc11 Xd10 Og8 Xe10 Ob10 Xd11 Ob13 Xg11 Oe7 Xh10
+10,6
+INFO time_left 164857
+TURN 11,3
+MESSAGE depth 1-18 ev 50.3 n 5228 n/s 66902 tm 78 pv Xe11 Od12 Xd9 Og8 Xf11 Of12 Xg9 Og12 Xe12 Od11 Xf7 Oe8 Xh11 Of8 Xh8 Oi7 Xi9
+MESSAGE depth 1-20 ev 53.4 n 1452 n/s 225 tm 6437 pv Oe11 Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Of7 Xb11 Oa12 Xb10 Ob9 Xe13 Od13 Xf11 Oc8 Xc11 Og12
+11,4
+INFO time_left 158380
+TURN 10,2
+MESSAGE depth 1-16 ev 51.8 n 1119 n/s 35809 tm 31 pv Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xe7 Oc9 Xf12
+MESSAGE depth 1-24 ev 38.0 n 1980 n/s 329 tm 6015 pv Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Og9 Xg7 Of6 Xe4 Of5
+12,4
+INFO time_left 152276
+TURN 10,4
+MESSAGE depth 1-25 ev 61.6 n 2325 n/s 148679 tm 15 pv Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Og9 Xg7 Of6 Xg12 Of11 Xe4 Oe5
+MESSAGE depth 1-24 ev 37.5 n 3892 n/s 653 tm 5952 pv Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Oc7 Xb6 Oe6 Xg7 Og12
+9,5
+INFO time_left 146267
+TURN 9,3
+MESSAGE depth 1-26 ev 61.5 n 4153 n/s 22146 tm 187 pv Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Oc7 Xb6 Oe6 Xg12 Of11 Xg7 Oh10 Xh6
+MESSAGE depth 1-25 ev 37.2 n 5262 n/s 954 tm 5515 pv Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Oc7 Xb6 Oe6 Xg12 Of11 Xg7 Oh8 Xi6
+10,3
+INFO time_left 140715
+TURN 8,4
+MESSAGE depth 1-19 ev 61.6 n 3354 n/s 35770 tm 93 pv Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Oc7
+MESSAGE depth 1-20 ev 37.8 n 5135 n/s 981 tm 5234 pv Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xc8 Ob7 Xi10 Oj9 Xj7 Ok7
+11,1
+INFO time_left 135445
+TURN 9,7
+MESSAGE depth 1-22 ev 62.1 n 7647 n/s 34954 tm 218 pv Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Oc7 Xb6 Oe6 Xg12 Of11 Xg7 Oh8 Xi6
+MESSAGE depth 1-25 ev 37.0 n 7771 n/s 1539 tm 5046 pv Of7 Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xd4 Og7 Xg6
+7,5
+INFO time_left 130358
+TURN 8,5
+MESSAGE depth 1-28 ev 61.7 n 7187 n/s 51100 tm 140 pv Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xd6 Od8 Xe7 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xd4 Od5 Xc6 Of6 Xi6 Og4 Xh3
+MESSAGE depth 1-27 ev 35.8 n 7588 n/s 1561 tm 4859 pv Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xd4 Od5 Xc6 Of6 Xi6 Og4 Xh3
+8,6
+INFO time_left 125419
+TURN 8,2
+MESSAGE depth 1-20 ev 62.5 n 6515 n/s 18952 tm 343 pv Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xh10 Oi11 Xh11 Oh8 Xd6 Og9 Xg7 Oe5 Xj8 Ok7 Xj9 Oi10 Xk10
+MESSAGE depth 1-25 ev 35.7 n 7551 n/s 1534 tm 4921 pv Ob7 Xg12 Of11 Xe7 Od8 Xd6 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xd4 Od5 Xc6 Of6 Xi6 Og4 Xh3
+7,1
+INFO time_left 120414
+TURN 7,4
+MESSAGE depth 1-22 ev 63.0 n 7276 n/s 22174 tm 328 pv Xg12 Of11 Xe7 Od8 Xh10 Og9 Xg7 Oe5 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10 Ol9 Xj12
+MESSAGE depth 1-24 ev 36.0 n 4717 n/s 1033 tm 4562 pv Od8 Xg12 Of11 Xd6 Oc5 Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xd4 Od5 Xc6 Of6 Xi6 Og4 Xh3 Of3
+8,3
+INFO time_left 115794
+TURN 12,6
+MESSAGE depth 1-17 ev 63.8 n 5820 n/s 28649 tm 203 pv Xg12 Of11 Xh10 Og9 Xg7 Oe5 Xd6 Oh11 Xh6 Oh7 Xg5 Oi11 Xg11 Oi9 Xi12 Oi5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 203 pv
+11,5
+INFO time_left 115532
+TURN 6,3
+MESSAGE depth 1-21 ev 62.5 n 5870 n/s 17075 tm 343 pv Xh10 Og9 Xg7 Oe5 Xd6 Of5 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10 Ol9 Xj12 Oi8
+MESSAGE depth 1-19 ev 38.7 n 2337 n/s 541 tm 4312 pv Oc5 Xh10 Og9 Xg7 Oe5 Xd5 Ob6 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10
+5,2
+INFO time_left 111168
+TURN 10,7
+MESSAGE depth 1-20 ev 60.8 n 2992 n/s 38287 tm 78 pv Xe5 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oe4 Xf4 Og3 Xf3 Oh6 Xi6 Of5 Xg6 Oh10 Xj5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+9,6
+INFO time_left 111054
+TURN 7,6
+MESSAGE depth 1-16 ev 61.2 n 1192 n/s 15253 tm 78 pv Xg7 Oe5 Xd5 Ob6 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10
+MESSAGE depth 1-16 ev 37.7 n 1954 n/s 475 tm 4109 pv Oe5 Xd5 Ob6 Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3
+5,4
+INFO time_left 106884
+TURN 5,3
+MESSAGE depth 1-22 ev 61.9 n 3754 n/s 40032 tm 93 pv Xd5 Oe3 Xd4 Od3 Xf3 Ob5 Xe4 Og2 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10 Ol9 Xl10
+MESSAGE depth 1-17 ev 35.8 n 2584 n/s 628 tm 4109 pv Ob6 Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3 Xf5 Oe3 Xd4
+6,1
+INFO time_left 102738
+TURN 11,7
+MESSAGE depth 1-17 ev 62.1 n 2403 n/s 10984 tm 218 pv Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3 Xf5 Oe3 Xd4 Od3
+MESSAGE depth 1-16 ev 52.9 n 1111 n/s 285 tm 3890 pv Oh8 Xd4 Od3 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10 Ol9 Xi9 Oi8
+8,7
+INFO time_left 98806
+TURN 4,3
+MESSAGE depth 1-14 ev 49.3 n 2400 n/s 51202 tm 46 pv Xd4 Od3 Xb5 Oj9 Xk10 Oj8 Xj11 Oi12 Xj6 Ok9 Xl10 Oj10 Xl9
+MESSAGE depth 1-14 ev 45.6 n 1881 n/s 491 tm 3828 pv Od3 Xb5 Oj9 Xk10 Oj8 Xj11 Oi12 Xj6 Oi6 Xk11 Oi11 Xk8 Ok9
+3,3
+INFO time_left 94923
+TURN 12,5
+MESSAGE depth 1-14 ev 49.2 n 2467 n/s 7176 tm 343 pv Xb5 Oj9 Xk10 Ok9 Xl10 Oj10 Xl9 Ol8 Xi11 Oj11 Xj12 Oh12 Xj7
+MESSAGE depth 1-11 ev 43.7 n 611 n/s 179 tm 3406 pv Ob5 Xb4 Oi10 Xk9 Oe2 Xc4 Oe4 Xe3 Of5 Xg6
+10,8
+INFO time_left 91446
+TURN 6,6
+MESSAGE depth 1-10 ev 56.0 n 728 n/s 5824 tm 124 pv Xk9 Ob5 Xb4 Oj8 Xk11 Oc4 Xe2 Oi11 Xi8
+MESSAGE depth 1-8 ev 59.5 n 611 n/s 182 tm 3343 pv Ob5 Xb4 Oh6 Xj8 Oi9 Xh4 Og4
+3,5
+INFO time_left 88051
+TURN 12,7
+MESSAGE depth 1-12 ev 36.0 n 1713 n/s 9966 tm 171 pv Xe3 Og4 Xh5 Ob5 Xb4 Oh3 Xf5 Oj5 Xi4 Oj3 Xi3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 171 pv
+13,7
+INFO time_left 87820
+TURN 13,4
+MESSAGE depth 1-11 ev 33.5 n 1159 n/s 8240 tm 140 pv Xe3 Og4 Xh5 Oh3 Xf5 Oj5 Xi4 Oj3 Xi3 Oi2
+MESSAGE depth 1-9 ev 84.3 n 635 n/s 185 tm 3421 pv Og11 Xe3 Og4 Xh5 Oj5 Xj6 Oi4 Xh3
+11,6
+INFO time_left 84332
+TURN 3,4
+MESSAGE depth 1-10 ev 13.6 n 1762 n/s 8054 tm 218 pv Xe3 Og4 Xh5 Oj5 Xj6 Oi4 Xh3 Oh4 Xf4
+MESSAGE depth 1-11 ev 85.1 n 1709 n/s 515 tm 3312 pv Oh6 Xh4 Og4 Xh5 Oj5 Xi6 Oi3 Xk7 Ob5 Xb4
+6,7
+INFO time_left 80957
+TURN 4,6
+MESSAGE depth 1-12 ev 15.1 n 1180 n/s 3596 tm 328 pv Xh4 Og4 Xh5 Oj5 Xi3 Oi7 Xj8 Oi6 Xh7 Oi8 Xi9
+MESSAGE depth 1-10 ev 85.4 n 666 n/s 223 tm 2984 pv Oh4 Xh5 Oj5 Xi6 Oj7 Xj6 Ol7 Xk7 Ok6
+4,7
+INFO time_left 77917
+TURN 13,3
+MESSAGE depth 1-10 ev 12.4 n 953 n/s 3049 tm 312 pv Xh5 Oj5 Xi6 Oj7 Xj6 Ol7 Xk7 Ok6 Xi4
+MESSAGE depth 1-10 ev 87.5 n 703 n/s 233 tm 3015 pv Of13 Xh5 Oj5 Xi6 Oj7 Xj6 Ol7 Xk7 Ok6
+13,5
+INFO time_left 74842
+TURN 5,5
+MESSAGE depth 1-10 ev 11.0 n 1661 n/s 8857 tm 187 pv Xh5 Oj5 Xi6 Oj7 Xj6 Ol7 Xk7 Ok6 Xi4
+MESSAGE depth 1-11 ev 90.0 n 503 n/s 171 tm 2937 pv Oi7 Xi8 Oh7 Xh5 Oj6 Xk5 Ok7 Xe6 Od7 Xg3
+7,8
+INFO time_left 71845
+TURN 6,4
+MESSAGE depth 1-11 ev 12.7 n 422 n/s 1125 tm 375 pv Xi8 Oh7 Xh5 Oj6 Xk5 Ok7 Xe6 Od7 Xh3 Oi2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 375 pv
+7,3
+INFO time_left 71410
+TURN 2,8
+MESSAGE depth 1-10 ev 11.4 n 197 n/s 12611 tm 15 pv Xi8 Oh7 Xh5 Oj6 Xk5 Ok7 Xg3 Og5 Xj8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+3,7
+INFO time_left 71353
+TURN 8,8
+MESSAGE depth 1-10 ev 23.1 n 368 n/s 1308 tm 281 pv Xi8 Oh7 Xj6 Oj5 Xi6 Ok5 Xk6 Ol5 Xm5
+MESSAGE depth 1-11 ev 76.5 n 649 n/s 247 tm 2624 pv Oh7 Xj6 Oj5 Xi6 Ok5 Xk6 Ol5 Xm5 Oi3 Xl6
+7,7
+INFO time_left 68656
+TURN 6,9
+MESSAGE depth 1-11 ev 23.6 n 617 n/s 3589 tm 171 pv Xj6 Oj5 Xi6 Ok5 Xk6 Ol5 Xm5 Oi3 Xl6 Om6
+MESSAGE depth 1-10 ev 76.4 n 738 n/s 293 tm 2515 pv Oj5 Xi6 Ok5 Xk6 Ol5 Xm5 Oi3 Xj3 Ol6
+5,9
+INFO time_left 66063
+TURN 6,8
+MESSAGE depth 1-10 ev 24.0 n 400 n/s 711 tm 562 pv Xi6 Ok5 Xk6 Ol5 Xm5 Oi3 Xl6 Om6 Xj3
+MESSAGE depth 1-9 ev 76.0 n 678 n/s 262 tm 2578 pv Ok5 Xk6 Ol5 Xm5 Ol6 Xi3 Ol7 Xl8
+5,10
+INFO time_left 63450
+TURN 13,0
+MESSAGE depth 1-10 ev 24.2 n 779 n/s 3560 tm 218 pv Xk6 Ol5 Xm5 Ol6 Xi3 Ok9 Xg5 Og3 Xl8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+13,1
+INFO time_left 63168
+TURN 5,11
+MESSAGE depth 1-7 ev 28.5 n 167 n/s 2137 tm 78 pv Xk6 Ol5 Xm5 Ol6 Xj4 Ok9
+MESSAGE depth 1-12 ev 73.0 n 399 n/s 182 tm 2187 pv Ok6 Xi4 Og5 Xj8 Oi3 Xf6 Oc6 Xj3 Oh5 Xi5 Ok4
+6,10
+INFO time_left 60895
+TURN 5,6
+MESSAGE depth 1-13 ev 25.9 n 384 n/s 1535 tm 250 pv Xi4 Og5 Xj8 Oi3 Xf6 Oc6 Xj3 Ok4 Xh5 Ok2 Xk3 Oc4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 250 pv
+3,6
+INFO time_left 60597
+TURN 4,8
+MESSAGE depth 1-11 ev 39.4 n 116 n/s 3712 tm 31 pv Xi4 Oi3 Xj3 Ok4 Xk2 Oh5 Xk7 Ob5 Xb4 Oh2
+MESSAGE depth 1-13 ev 59.8 n 507 n/s 245 tm 2062 pv Oi3 Xj3 Ok4 Xk2 Oh5 Xk7 Oh2 Xj4 Ob5 Xb4 Ol8 Xl2
+4,10
+INFO time_left 58466
+TURN 3,8
+MESSAGE depth 1-10 ev 41.3 n 210 n/s 1679 tm 125 pv Xi3 Oi5 Xk7 Ob5 Xb4 Oi1 Xh2 Oc4 Xe2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 125 pv
+5,8
+INFO time_left 58285
+TURN 3,10
+MESSAGE depth 1-8 ev 44.4 n 284 n/s 865 tm 328 pv Xk7 Ob5 Xb4 Oi1 Xh2 Oc4 Xe2
+MESSAGE depth 1-7 ev 54.3 n 357 n/s 177 tm 2015 pv Ob5 Xb4 Oi1 Xh2 Oc4 Xe2
+5,1
+INFO time_left 56198
+TURN 8,1
+MESSAGE depth 1-7 ev 39.4 n 183 n/s 975 tm 187 pv Xb4 Oi1 Xh2 Ol10 Xk8 Ol9
+MESSAGE depth 1-9 ev 55.8 n 354 n/s 156 tm 2265 pv Oc4 Xc6 Of6 Xe2 Oi1 Xk8 Oh2 Xf4
+4,2
+INFO time_left 53873
+TURN 6,2
+MESSAGE depth 1-9 ev 48.1 n 282 n/s 3609 tm 78 pv Xc6 Of6 Xe2 Oi1 Xh2 Ol7 Xk8 Ol10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+6,5
+INFO time_left 53742
+TURN 2,4
+MESSAGE depth 1-8 ev 54.0 n 311 n/s 642 tm 484 pv Xe2 Oi1 Xh2 Ol7 Xk8 Ol10 Xj7
+MESSAGE depth 1-7 ev 41.7 n 445 n/s 204 tm 2171 pv Oi1 Xh2 Ol10 Xk8 Ok2 Xk9
+1,8
+INFO time_left 51517
+TURN 2,7
+MESSAGE depth 1-7 ev 56.4 n 426 n/s 2478 tm 171 pv Xh2 Ol7 Xk8 Ol10 Xj7 Oh5
+MESSAGE depth 1-7 ev 41.1 n 399 n/s 228 tm 1749 pv Ol7 Xk8 Ol10 Xk2 Oj7 Xk7
+7,11
+INFO time_left 49705
+TURN 8,10
+MESSAGE depth 1-8 ev 55.8 n 213 n/s 1239 tm 171 pv Xk8 Ol10 Xk2 Oj7 Xk7 Oj2 Xk9
+MESSAGE depth 1-8 ev 35.4 n 311 n/s 176 tm 1765 pv Ol10 Xk2 Oj7 Xk7 Oj2 Xj3 Oh5
+10,11
+INFO time_left 47870
+TURN 7,9
+MESSAGE depth 1-9 ev 62.4 n 334 n/s 763 tm 437 pv Xk2 Oj7 Xk7 Oj2 Xk9 Ok10 Xl9 Om9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 437 pv
+5,7
+INFO time_left 47383
+TURN 9,11
+MESSAGE depth 1-8 ev 53.2 n 101 n/s 1077 tm 93 pv Xm8 Ol9 Xl8 Oj8 Xk9 Oj10 Xm10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 93 pv
+10,12
+INFO time_left 47235
+TURN 8,12
+MESSAGE depth 1-8 ev 60.9 n 189 n/s 6048 tm 31 pv Xk9 Oj9 Xm8 Ok10 Xj10 Ol8 Xl3
+MESSAGE depth 1-10 ev 39.3 n 293 n/s 163 tm 1796 pv Ok9 Xj8 Ol8 Xj10 Oj9 Xl3 Om3 Xk2 Oj2
+9,10
+INFO time_left 45377
+TURN 8,9
+MESSAGE depth 1-9 ev 52.1 n 186 n/s 396 tm 468 pv Xj8 Ol8 Xj10 Oj9 Xl3 Om3 Xk2 Oj2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 468 pv
+8,11
+INFO time_left 44873
+TURN 10,9
+MESSAGE depth 1-8 ev 53.7 n 381 n/s 1625 tm 234 pv Xj10 Oj9 Xl3 Om3 Xk2 Oj2 Xf2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+9,9
+INFO time_left 44602
+TURN 2,5
+MESSAGE depth 1-7 ev 55.4 n 405 n/s 959 tm 421 pv Xl3 Om3 Xk2 Oj2 Xf2 Og2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 421 pv
+2,6
+INFO time_left 44142
+TURN 3,11
+MESSAGE depth 1-6 ev 54.7 n 187 n/s 797 tm 234 pv Xl3 Om3 Xl2 Ol4 Xj4
+MESSAGE depth 1-6 ev 44.6 n 234 n/s 148 tm 1578 pv Om3 Xl2 Ol4 Xm4 Ok2
+3,12
+INFO time_left 42503
+TURN 2,11
+MESSAGE depth 1-6 ev 55.7 n 206 n/s 1014 tm 203 pv Xl2 Ol4 Xm4 Ok2 Xk10
+MESSAGE depth 1-7 ev 42.1 n 256 n/s 148 tm 1718 pv Ol4 Xj4 Og1 Xk2 Oj2 Xk10
+4,11
+INFO time_left 40735
+TURN 1,6
+MESSAGE depth 1-7 ev 55.5 n 290 n/s 1855 tm 156 pv Xj4 Og1 Xk10 Oj11 Xk2 Oj2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 156 pv
+0,7
+INFO time_left 40533
+TURN 10,10
+MESSAGE depth 1-5 ev 53.9 n 123 n/s 524 tm 234 pv Xm4 Ok2 Xk10 Oj11
+MESSAGE depth 1-6 ev 42.2 n 226 n/s 137 tm 1640 pv Oj11 Xm4 Ok2 Xj4 Of0
+11,9
+INFO time_left 38823
+TURN 2,10
+MESSAGE depth 1-6 ev 54.8 n 274 n/s 762 tm 359 pv Xm4 Ok2 Xc7 Oc9 Xf0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 359 pv
+2,9
+INFO time_left 38411
+TURN 4,12
+MESSAGE depth 1-5 ev 54.3 n 59 n/s 471 tm 125 pv Xm4 On5 Xf0 Oj4
+MESSAGE depth 1-6 ev 46.9 n 219 n/s 144 tm 1515 pv On5 Xc7 Oc9 Xf0 Oj4
+5,13
+INFO time_left 36835
+TURN 12,3
+MESSAGE depth 1-6 ev 49.7 n 256 n/s 630 tm 406 pv Xc7 Oc9 Xe1 Om11 Xk11
+MESSAGE depth 1-5 ev 52.0 n 134 n/s 107 tm 1249 pv Om11 Xl11 Om12 Xm13
+11,12
+INFO time_left 35514
+TURN 11,10
+MESSAGE depth 1-4 ev 43.4 n 76 n/s 374 tm 203 pv Xl11 Om12 Xm13
+MESSAGE depth 1-7 ev 59.3 n 163 n/s 135 tm 1203 pv Ok12 Xl12 Om13 Xm12 Ol13 Xm14
+12,10
+INFO time_left 34233
+TURN 12,11
+MESSAGE depth 1-6 ev 35.0 n 95 n/s 552 tm 171 pv Xl12 Om13 Xm12 Oo13 Xn12
+MESSAGE depth 1-7 ev 53.4 n 160 n/s 152 tm 1046 pv Om13 Xm12 Oj13 Xl11 Ol13 Xm14
+13,12
+INFO time_left 33113
+TURN 14,12
+MESSAGE depth 1-6 ev 43.1 n 181 n/s 361 tm 500 pv Xm12 Oj13 Xl11 Ol13 Xm14
+MESSAGE depth 1-5 ev 50.9 n 148 n/s 108 tm 1359 pv On9 Xl11 Om9 Xm12
+9,13
+INFO time_left 31696
+TURN 11,11
+MESSAGE depth 1-5 ev 40.4 n 74 n/s 526 tm 140 pv Xl11 Om9 Xm12 Om7
+MESSAGE depth 1-5 ev 50.0 n 154 n/s 151 tm 1015 pv Ob3 Xb4 Om9 Xm12
+3,1
+INFO time_left 30608
+TURN 4,1
+MESSAGE depth 1-5 ev 50.1 n 39 n/s 207 tm 187 pv Xb4 Om9 Xm12 Om7
+MESSAGE depth 1-6 ev 49.6 n 142 n/s 144 tm 984 pv Om7 Xn7 Oo6 Xl6 On10
+10,13
+INFO time_left 29588
+TURN 7,2
+MESSAGE depth 1-5 ev 40.8 n 121 n/s 286 tm 421 pv Xn11 Om9 Xm12 Om7
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 421 pv
+9,2
+INFO time_left 29117
+TURN 4,9
+MESSAGE depth 1-4 ev 33.4 n 67 n/s 285 tm 234 pv Xn12 Om12 Xm9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 234 pv
+0,5
+INFO time_left 28831
+TURN 0,8
+MESSAGE depth 1-4 ev 34.0 n 75 n/s 191 tm 390 pv Xn12 Oi0 Xg0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 406 pv
+1,9
+INFO time_left 28381
+TURN 12,13
+MESSAGE depth 1-4 ev 31.9 n 61 n/s 433 tm 140 pv Xn12 On4 Xn6
+MESSAGE depth 1-5 ev 50.1 n 150 n/s 171 tm 874 pv On7 Xm7 Ok7 Xm9
+7,13
+INFO time_left 27434
+TURN 7,10
+MESSAGE depth 1-4 ev 46.0 n 64 n/s 341 tm 187 pv Xm7 Ok7 Xm9
+MESSAGE depth 1-5 ev 49.7 n 118 n/s 160 tm 734 pv Ol6 Xn8 On3 Xn4
+6,11
+INFO time_left 26594
+TURN 14,11
+MESSAGE depth 1-5 ev 47.6 n 137 n/s 417 tm 328 pv Xn8 On3 Xn4 Oo1
+MESSAGE depth 1-5 ev 51.9 n 41 n/s 61 tm 671 pv On8 Xn11 Om7 Xo9
+8,13
+INFO time_left 25881
+TURN 11,13
+MESSAGE depth 1-6 ev 48.5 n 55 n/s 234 tm 234 pv Xn11 Om7 Xo9 Om12 Xm9
+MESSAGE depth 1-7 ev 52.2 n 163 n/s 200 tm 812 pv Om7 Xo9 On6 Xo5 Oo6 Xm6
+7,12
+INFO time_left 25032
+TURN 9,14
+MESSAGE depth 1-6 ev 50.6 n 137 n/s 381 tm 359 pv Xo9 On6 Xo5 Oo6 Xm6
+MESSAGE depth 1-6 ev 49.2 n 199 n/s 249 tm 796 pv On6 Xo5 Om12 Xm9 Oj12
+6,13
+INFO time_left 24184
+TURN 5,14
+MESSAGE depth 1-6 ev 51.1 n 70 n/s 497 tm 140 pv Xo5 Om12 Xm9 Oj12 Xc11
+MESSAGE depth 1-6 ev 48.6 n 197 n/s 233 tm 843 pv Om12 Xm9 Oj12 Xc11 Ob10
+12,12
+INFO time_left 23306
+TURN 9,12
+MESSAGE depth 1-5 ev 50.6 n 46 n/s 327 tm 140 pv Xm9 Oj12 Xk14 Oj14
+MESSAGE depth 1-5 ev 48.4 n 153 n/s 227 tm 671 pv Oj12 Xc11 Ob10 Xk14
+12,9
+INFO time_left 22581
+TURN 1,4
+MESSAGE depth 1-5 ev 50.6 n 116 n/s 742 tm 156 pv Xc11 Ob10 Xk14 Oj14
+MESSAGE depth 1-5 ev 49.5 n 134 n/s 158 tm 843 pv Oo1 Xn2 Oo6 Xm6
+1,14
+INFO time_left 21660
+TURN 2,13
+MESSAGE depth 1-5 ev 50.3 n 41 n/s 262 tm 156 pv Xn2 Oe0 Xc11 Ob10
+MESSAGE depth 1-4 ev 49.4 n 104 n/s 195 tm 531 pv Oe0 Xk14 Oj14
+0,4
+INFO time_left 21078
+TURN 6,14
+MESSAGE depth 1-5 ev 50.0 n 145 n/s 618 tm 234 pv Xc11 Ob10 Xn0 Om1
+MESSAGE depth 1-5 ev 49.1 n 72 n/s 135 tm 531 pv Od0 Xg0 Oc0 Xb0
+0,3
+INFO time_left 20506
+TURN 0,6
+MESSAGE depth 1-5 ev 50.7 n 35 n/s 223 tm 156 pv Xg0 Oc0 Xb0 Ol1
+MESSAGE depth 1-5 ev 48.5 n 98 n/s 190 tm 515 pv Ob0 Xc0 Oo7 Xc1
+0,1
+INFO time_left 19955
+TURN 0,2
+MESSAGE depth 1-5 ev 51.0 n 50 n/s 228 tm 218 pv Xc0 Oo7 Xo2 Om2
+MESSAGE depth 1-4 ev 48.5 n 113 n/s 195 tm 578 pv Oo7 Xk14 Oj14
+7,14
+INFO time_left 19340
+TURN 5,0
+MESSAGE depth 1-5 ev 50.5 n 146 n/s 622 tm 234 pv Xc1 Od2 Xo2 Om2
+MESSAGE depth 1-4 ev 49.0 n 43 n/s 88 tm 484 pv Oc3 Xc11 Ob10
+3,2
+INFO time_left 18658
+TURN 1,2
+MESSAGE depth 1-5 ev 50.8 n 104 n/s 6655 tm 15 pv Xc11 Ob10 Xo2 Om2
+MESSAGE depth 1-4 ev 49.1 n 71 n/s 189 tm 374 pv Od1 Xk14 Oj14
+1,3
+INFO time_left 18221
+TURN 1,11
+MESSAGE depth 1-5 ev 50.6 n 99 n/s 703 tm 140 pv Xc11 Ob10 Xc2 Od2
+MESSAGE depth 1-4 ev 49.2 n 37 n/s 102 tm 359 pv Oo2 Xc11 Ob10
+2,14
+INFO time_left 17812
+TURN 11,2
+MESSAGE depth 1-5 ev 50.4 n 70 n/s 2240 tm 31 pv Xc11 Ob10 Xc2 Od2
+MESSAGE depth 1-6 ev 44.6 n 97 n/s 188 tm 515 pv Ob10 Xc2 Od2 Xm0 Oj3
+10,1
+INFO time_left 16947
+TURN 14,5
+MESSAGE depth 1-5 ev 50.3 n 194 n/s 1128 tm 171 pv Xc2 Od2 Xn0 Om1
+MESSAGE depth 1-3 ev 49.6 n 31 n/s 79 tm 390 pv Oc2 Xa4
+2,2
+INFO time_left 16264
+TURN 4,0
+MESSAGE depth 1-5 ev 50.7 n 96 n/s 383 tm 250 pv Xa4 Om0 Xa3 Oa6
+MESSAGE depth 1-4 ev 48.9 n 159 n/s 242 tm 656 pv Oc14 Xa3 Oa6
+14,2
+INFO time_left 15530
+TURN 0,12
+MESSAGE depth 1-5 ev 50.5 n 74 n/s 1183 tm 62 pv Xm0 Oj3 Xa6 Oa7
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+3,9
+INFO time_left 15412
+TURN 2,12
+MESSAGE depth 1-5 ev 50.3 n 135 n/s 1234 tm 109 pv Xk14 Oj14 Xa6 Oa3
+MESSAGE depth 1-3 ev 49.8 n 31 n/s 110 tm 281 pv On4 Xk14
+4,13
+INFO time_left 15093
+TURN 0,10
+MESSAGE depth 1-3 ev 50.6 n 31 n/s 1984 tm 15 pv Xk14 Oj14
+MESSAGE depth 1-4 ev 32.0 n 72 n/s 177 tm 406 pv On0 Xa2 Oa3
+0,13
+INFO time_left 14612
+TURN 11,0
+MESSAGE depth 1-5 ev 51.6 n 118 n/s 314 tm 375 pv Xk14 Oj14 Xn14 Oo14
+MESSAGE depth 1-3 ev 49.7 n 31 n/s 50 tm 609 pv Oo4 Xk14
+4,14
+INFO time_left 13959
+TURN 14,6
+MESSAGE depth 1-4 ev 50.1 n 62 n/s 440 tm 140 pv Xk14 Oj14 Xo14
+MESSAGE depth 1-3 ev 49.8 n 31 n/s 104 tm 296 pv Oo0 Xo3
+0,14
+INFO time_left 13596
+TURN 3,14
+MESSAGE depth 1-4 ev 50.1 n 32 n/s 227 tm 140 pv Xo3 Oj14 Xa6
+MESSAGE depth 1-4 ev 49.2 n 95 n/s 196 tm 484 pv Oh14 Xa3 Oa6
+14,7
+INFO time_left 13059
+TURN 14,10
+MESSAGE depth 1-5 ev 50.2 n 68 n/s 621 tm 109 pv Xl0 Oj0 Xa3 Oa2
+MESSAGE depth 1-4 ev 22.5 n 11 n/s 70 tm 156 pv Oj14 Xn14 Oo14
+14,9
+INFO time_left 12861
+TURN 11,8
+MESSAGE depth 1-5 ev 50.1 n 67 n/s 612 tm 109 pv Xa6 Oa3 Xn14 Oo14
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 109 pv
+13,6
+INFO time_left 12696
+TURN 3,0
+MESSAGE depth 1-4 ev 50.0 n 61 n/s 973 tm 62 pv Xa3 Oa6 Xn14
+MESSAGE depth 1-4 ev 31.7 n 10 n/s 91 tm 109 pv Oa6 Xn14 Oo14
+6,0
+INFO time_left 12529
+TURN 9,0
+MESSAGE depth 1-4 ev 50.0 n 33 n/s 528 tm 62 pv Xo14 On14 Xa2
+MESSAGE depth 1-3 ev 49.9 n 31 n/s 110 tm 281 pv Oj13 Xi13
+13,9
+INFO time_left 12193
+TURN 13,8
+MESSAGE depth 1-4 ev 50.1 n 32 n/s 170 tm 187 pv Xi13 Oa7 Xn14
+MESSAGE depth 1-4 ev 49.7 n 95 n/s 160 tm 593 pv Oa12 Xo14 On14
+12,0
+INFO time_left 11547
+TURN 4,5
+MESSAGE depth 1-5 ev 50.0 n 131 n/s 1047 tm 125 pv Xn14 Oo14 Xa1 Oa2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 125 pv
+2,3
+INFO time_left 11382
+TURN 4,4
+MESSAGE depth 1-4 ev 50.0 n 33 n/s 422 tm 78 pv Xn14 Oo14 Xa2
+MESSAGE depth 1-3 ev 49.9 n 31 n/s 132 tm 234 pv Oo14 Xa1
+14,14
+INFO time_left 11092
+TURN 10,14
+MESSAGE depth 1-3 ev 50.0 n 31 n/s 661 tm 46 pv Xa2 Oa1
+MESSAGE depth 1-3 ev 49.9 n 31 n/s 165 tm 187 pv Oo11 Xa1
+11,14
+INFO time_left 10824
+TURN 9,8
+MESSAGE depth 1-4 ev 50.0 n 61 n/s 650 tm 93 pv Xj0 Ol0 Xa2
+MESSAGE depth 1-4 ev 49.9 n 36 n/s 92 tm 390 pv Om6 Xj0 Ol0
+6,12
+INFO time_left 10277
+TURN 12,8
+MESSAGE depth 1-5 ev 50.0 n 100 n/s 355 tm 281 pv Xj0 Ol0 Xa1 Oa2
+MESSAGE depth 1-4 ev 49.9 n 40 n/s 88 tm 453 pv Oa2 Xj0 Ol0
+2,0
+INFO time_left 9787
+TURN 5,12
+MESSAGE depth 1-5 ev 50.0 n 163 n/s 745 tm 218 pv Xj0 Ol0 Xk1 Ob14
+MESSAGE depth 1-4 ev 49.9 n 57 n/s 125 tm 453 pv Oj0 Xa7 Oa8
+0,9
+INFO time_left 8922
+TURN 13,10
+MESSAGE depth 1-4 ev 50.0 n 48 n/s 438 tm 109 pv Xa10 Oa7 Xo8
+MESSAGE depth 1-3 ev 49.9 n 27 n/s 115 tm 234 pv Of1 Xa10
+1,5
+TAKEBACK 1,5
+OK
+TAKEBACK 13,10
+MESSAGE depth 1-6 ev 50.0 n 73576 n/s 277000 tm 265 pv Xa10 Oa8 Xo8 Od14 Xb14
+OK
+TAKEBACK 0,9
+OK
+TAKEBACK 5,12
+OK
+TAKEBACK 2,0
+OK
+TAKEBACK 12,8
+OK
+TAKEBACK 6,12
+OK
+TAKEBACK 9,8
+OK
+TAKEBACK 11,14
+OK
+TAKEBACK 10,14
+OK
+TAKEBACK 14,14
+OK
+TAKEBACK 4,4
+OK
+TAKEBACK 2,3
+OK
+TAKEBACK 4,5
+OK
+TAKEBACK 12,0
+OK
+TAKEBACK 13,8
+OK
+TAKEBACK 13,9
+OK
+TAKEBACK 9,0
+OK
+TAKEBACK 6,0
+OK
+TAKEBACK 3,0
+OK
+TAKEBACK 13,6
+OK
+TAKEBACK 11,8
+OK
+TAKEBACK 14,9
+OK
+TAKEBACK 14,10
+OK
+TAKEBACK 14,7
+OK
+TAKEBACK 3,14
+OK
+TAKEBACK 0,14
+OK
+TAKEBACK 14,6
+OK
+TAKEBACK 4,14
+OK
+TAKEBACK 11,0
+OK
+TAKEBACK 0,13
+OK
+TAKEBACK 0,10
+OK
+TAKEBACK 4,13
+OK
+TAKEBACK 2,12
+OK
+TAKEBACK 3,9
+OK
+TAKEBACK 0,12
+OK
+TAKEBACK 14,2
+OK
+TAKEBACK 4,0
+OK
+TAKEBACK 2,2
+OK
+TAKEBACK 14,5
+OK
+TAKEBACK 10,1
+OK
+TAKEBACK 11,2
+OK
+TAKEBACK 2,14
+OK
+TAKEBACK 1,11
+OK
+TAKEBACK 1,3
+OK
+TAKEBACK 1,2
+OK
+TAKEBACK 3,2
+OK
+TAKEBACK 5,0
+OK
+TAKEBACK 7,14
+OK
+TAKEBACK 0,2
+OK
+TAKEBACK 0,1
+OK
+TAKEBACK 0,6
+OK
+TAKEBACK 0,3
+OK
+TAKEBACK 6,14
+OK
+TAKEBACK 0,4
+OK
+TAKEBACK 2,13
+OK
+TAKEBACK 1,14
+OK
+TAKEBACK 1,4
+OK
+TAKEBACK 12,9
+OK
+TAKEBACK 9,12
+OK
+TAKEBACK 12,12
+OK
+TAKEBACK 5,14
+OK
+TAKEBACK 6,13
+OK
+TAKEBACK 9,14
+OK
+TAKEBACK 7,12
+OK
+TAKEBACK 11,13
+OK
+TAKEBACK 8,13
+OK
+TAKEBACK 14,11
+OK
+TAKEBACK 6,11
+OK
+TAKEBACK 7,10
+OK
+TAKEBACK 7,13
+OK
+TAKEBACK 12,13
+OK
+TAKEBACK 1,9
+OK
+TAKEBACK 0,8
+OK
+TAKEBACK 0,5
+OK
+TAKEBACK 4,9
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 7,2
+OK
+TAKEBACK 10,13
+OK
+TAKEBACK 4,1
+OK
+TAKEBACK 3,1
+OK
+TAKEBACK 11,11
+OK
+TAKEBACK 9,13
+OK
+TAKEBACK 14,12
+OK
+TAKEBACK 13,12
+OK
+TAKEBACK 12,11
+OK
+TAKEBACK 12,10
+OK
+TAKEBACK 11,10
+OK
+TAKEBACK 11,12
+OK
+TAKEBACK 12,3
+OK
+TAKEBACK 5,13
+OK
+TAKEBACK 4,12
+OK
+TAKEBACK 2,9
+OK
+TAKEBACK 2,10
+OK
+TAKEBACK 11,9
+OK
+TAKEBACK 10,10
+OK
+TAKEBACK 0,7
+OK
+TAKEBACK 1,6
+OK
+TAKEBACK 4,11
+OK
+TAKEBACK 2,11
+OK
+TAKEBACK 3,12
+OK
+TAKEBACK 3,11
+OK
+TAKEBACK 2,6
+OK
+TAKEBACK 2,5
+OK
+TAKEBACK 9,9
+OK
+TAKEBACK 10,9
+OK
+TAKEBACK 8,11
+OK
+TAKEBACK 8,9
+OK
+TAKEBACK 9,10
+OK
+TAKEBACK 8,12
+OK
+TAKEBACK 10,12
+OK
+TAKEBACK 9,11
+OK
+TAKEBACK 5,7
+OK
+TAKEBACK 7,9
+OK
+TAKEBACK 10,11
+OK
+TAKEBACK 8,10
+OK
+TAKEBACK 7,11
+OK
+TAKEBACK 2,7
+OK
+TAKEBACK 1,8
+OK
+TAKEBACK 2,4
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 6,2
+OK
+TAKEBACK 4,2
+OK
+TAKEBACK 8,1
+OK
+TAKEBACK 5,1
+OK
+TAKEBACK 3,10
+OK
+TAKEBACK 5,8
+OK
+TAKEBACK 3,8
+OK
+TAKEBACK 4,10
+OK
+TAKEBACK 4,8
+OK
+TAKEBACK 3,6
+OK
+TAKEBACK 5,6
+OK
+TAKEBACK 6,10
+OK
+TAKEBACK 5,11
+OK
+TAKEBACK 13,1
+OK
+TAKEBACK 13,0
+OK
+TAKEBACK 5,10
+OK
+TAKEBACK 6,8
+OK
+TAKEBACK 5,9
+OK
+TAKEBACK 6,9
+OK
+TAKEBACK 7,7
+OK
+TAKEBACK 8,8
+OK
+TAKEBACK 3,7
+OK
+TAKEBACK 2,8
+OK
+TAKEBACK 7,3
+OK
+TAKEBACK 6,4
+OK
+TAKEBACK 7,8
+OK
+TAKEBACK 5,5
+OK
+TAKEBACK 13,5
+OK
+TAKEBACK 13,3
+OK
+TAKEBACK 4,7
+OK
+TAKEBACK 4,6
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 3,4
+OK
+TAKEBACK 11,6
+OK
+TAKEBACK 13,4
+OK
+TAKEBACK 13,7
+OK
+TAKEBACK 12,7
+OK
+TAKEBACK 3,5
+OK
+TAKEBACK 6,6
+OK
+TAKEBACK 10,8
+OK
+TAKEBACK 12,5
+OK
+TAKEBACK 3,3
+OK
+TAKEBACK 4,3
+OK
+TAKEBACK 8,7
+OK
+TAKEBACK 11,7
+OK
+TAKEBACK 6,1
+OK
+TAKEBACK 5,3
+OK
+TAKEBACK 5,4
+OK
+TAKEBACK 7,6
+OK
+TAKEBACK 9,6
+OK
+TAKEBACK 10,7
+OK
+TAKEBACK 5,2
+OK
+TAKEBACK 6,3
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 12,6
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 7,4
+OK
+TAKEBACK 7,1
+OK
+TAKEBACK 8,2
+OK
+TAKEBACK 8,6
+OK
+TAKEBACK 8,5
+OK
+TAKEBACK 7,5
+OK
+TAKEBACK 9,7
+OK
+TAKEBACK 11,1
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,3
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 9,5
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 12,4
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 11,4
+OK
+TAKEBACK 11,3
+OK
+TAKEBACK 10,6
+OK
+TAKEBACK 10,5
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 12,1
+OK
+INFO time_left 179459
+TURN 12,1
+MESSAGE depth 1-14 ev 43.7 n 1490 n/s 216 tm 6874 pv Oe9 Xc10 Of10 Xe12 Oc12 Xd11 Of13 Xd8 Od9 Xb9 Oa8 Xb10 Ob11
+9,4
+INFO time_left 172179
+TURN 10,5
+MESSAGE depth 1-18 ev 55.1 n 2141 n/s 22832 tm 93 pv Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xc9 Of11 Xc11 Oc12 Xh9 Oh10 Xg11 Of7 Xg7 Oe6 Xf5
+MESSAGE depth 1-12 ev 50.5 n 1558 n/s 236 tm 6593 pv Og10 Xc10 Og9 Xf9 Of8 Xc12 Oc11 Xg7 Oe7 Xh10 Oe8
+10,6
+INFO time_left 165514
+TURN 11,3
+MESSAGE depth 1-17 ev 45.7 n 2488 n/s 12247 tm 203 pv Xd9 Og8 Xd10 Og9 Xg11 Od11 Xe10 Oc10 Xf12 Oe12 Xf13 Of11 Xh9 Oh10 Xi11 Oj10
+MESSAGE depth 1-19 ev 54.9 n 1248 n/s 198 tm 6281 pv Oe11 Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Of7 Xb11 Oa12 Xb10 Ob9 Xe13 Od13 Xf11 Oc8 Xc11
+11,4
+INFO time_left 159178
+TURN 10,2
+MESSAGE depth 1-15 ev 39.5 n 1227 n/s 3739 tm 328 pv Xe8 Od9 Xe12 Of9 Xg9 Oc10 Xf6 Od6 Xc9 Og5 Xh7 Oe5 Xf4 Of5
+MESSAGE depth 1-18 ev 47.1 n 1470 n/s 233 tm 6296 pv Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od6 Xc9 Oc7
+12,4
+INFO time_left 152807
+TURN 10,4
+MESSAGE depth 1-21 ev 60.9 n 1784 n/s 19025 tm 93 pv Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Oc5 Xe6 Of6
+MESSAGE depth 1-20 ev 39.8 n 3046 n/s 507 tm 5999 pv Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xe7 Oc8 Xf6 Oe5 Xg5 Oh4 Xh6 Og9 Xg11 Og6
+9,5
+INFO time_left 146750
+TURN 9,3
+MESSAGE depth 1-19 ev 59.6 n 3091 n/s 12363 tm 250 pv Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xe7 Oc8 Xf6 Oe5 Xg5 Oh4 Xh6 Og9 Xg11 Og6
+MESSAGE depth 1-25 ev 38.9 n 4030 n/s 706 tm 5702 pv Od10 Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xc8 Ob7 Xd8 Ob8 Xc9 Oc7 Xe7 Ob10 Xb9 Oe6 Xf6
+10,3
+INFO time_left 140959
+TURN 8,4
+MESSAGE depth 1-24 ev 59.7 n 4144 n/s 13958 tm 296 pv Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xc8 Ob7 Xd8 Ob8 Xc9 Oc7 Xe7 Ob10 Xb9 Oi10 Xk10
+MESSAGE depth 1-26 ev 39.6 n 4694 n/s 883 tm 5312 pv Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xc8 Ob7 Xd8 Ob8 Xc9 Oc7 Xe7 Ob10 Xb9 Oe6 Xf6 Og5 Xe5 Oh8
+11,1
+INFO time_left 135575
+TURN 9,7
+MESSAGE depth 1-25 ev 60.3 n 5393 n/s 115048 tm 46 pv Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xc8 Ob7 Xd8 Ob8 Xc9 Oc7 Xe7 Ob10 Xb9 Oe6 Xf6 Og5 Xe5 Oh8
+MESSAGE depth 1-22 ev 38.4 n 6173 n/s 1190 tm 5187 pv Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xk10 Oj9 Xj7 Ok7 Xi9 Of5 Xh7 Of7 Xf6 Oe5
+6,6
+INFO time_left 130298
+TURN 8,2
+MESSAGE depth 1-22 ev 61.5 n 4954 n/s 45292 tm 109 pv Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj9 Xk10 Oi7 Xj8 Ok11 Xc8 Ob7 Xd8 Ob8 Xe6 Of7 Xe5
+MESSAGE depth 1-17 ev 42.7 n 1467 n/s 298 tm 4921 pv Ob7 Xg12 Of11 Xg7 Oe7 Xc7 Oc9 Xb8 Of8 Xf6 Oe5 Xi10 Oi9 Xj11 Ok12 Xj8
+7,1
+INFO time_left 125302
+TURN 7,4
+MESSAGE depth 1-21 ev 60.2 n 1786 n/s 9524 tm 187 pv Xg12 Of11 Xg7 Oe7 Xc7 Oc9 Xb8 Of8 Xd8 Oa8 Xd6 Oe5 Xi9 Of5 Xd5 Od7 Xj9 Ok9 Xi10 Oh11
+MESSAGE depth 1-15 ev 30.3 n 1618 n/s 345 tm 4687 pv Ob8 Xc9 Oc7 Xg7 Od8 Xb6 Oh7 Xf5 Og12 Xg11 Oe6 Xf6 Oe5 Xf4
+8,1
+INFO time_left 120546
+TURN 9,2
+MESSAGE depth 1-18 ev 68.6 n 1601 n/s 14635 tm 109 pv Xc9 Oc7 Xg7 Od8 Xb6 Og12 Xg11 Oh7 Xf5 Oe6 Xf6 Of4 Xe5 Od4 Xi9 Oh8 Xj8
+MESSAGE depth 1-16 ev 30.3 n 2358 n/s 501 tm 4702 pv Oc7 Xd6 Od8 Xb6 Oe6 Xg7 Og12 Xc5 Of8 Xd4 Oe3 Xd5 Od3 Xe5 Ob10
+7,2
+INFO time_left 115764
+TURN 12,6
+MESSAGE depth 1-20 ev 69.4 n 3845 n/s 61505 tm 62 pv Xg12 Of11 Xg7 Od5 Xh7 Of7 Xh8 Oh10 Xf6 Ob10 Xb9 Oe5 Xd6 Oc5 Xb5 Og5 Xf5 Oe6 Xc4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+11,5
+INFO time_left 115647
+TURN 6,3
+MESSAGE depth 1-16 ev 71.1 n 1865 n/s 9945 tm 187 pv Xg7 Od5 Xd8 Ob10 Xb9 Oe4 Xc6 Oh7 Xf5 Of6 Xe6 Od7 Xi10 Og8 Xi6
+MESSAGE depth 1-14 ev 26.7 n 1803 n/s 399 tm 4515 pv Oc5 Xg7 Od5 Xb5 Oh7 Xe4 Of6 Xi6 Of5 Xg5 Oi4 Xf4 Oe3
+5,2
+INFO time_left 111096
+TURN 8,3
+MESSAGE depth 1-16 ev 69.7 n 2015 n/s 14329 tm 140 pv Xg7 Od5 Xb5 Oh7 Xe4 Oe6 Xg8 Of8 Xf6 Og5 Xi10 Oj11 Xj9 Oh11 Xi9
+MESSAGE depth 1-13 ev 34.7 n 1001 n/s 232 tm 4312 pv Of6 Xg7 Og8 Xh7 Of7 Xf5 Od5 Xe6 Og4 Xh8 Oh6 Xj6
+6,5
+INFO time_left 106750
+TURN 7,6
+MESSAGE depth 1-14 ev 66.8 n 1123 n/s 14375 tm 78 pv Xg7 Og8 Xh7 Of7 Xf5 Od5 Xe6 Og4 Xh6 Oh8 Xi5 Oj4 Xi7
+MESSAGE depth 1-14 ev 28.1 n 1578 n/s 399 tm 3953 pv Og8 Xh7 Of7 Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi7 Xh6 Oj4
+8,6
+INFO time_left 102743
+TURN 7,7
+MESSAGE depth 1-13 ev 71.7 n 1700 n/s 54408 tm 31 pv Xh7 Of7 Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi7 Xi6 Oi11
+MESSAGE depth 1-13 ev 24.3 n 2162 n/s 567 tm 3812 pv Of7 Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi7 Xj6 Oj8 Xk9
+7,5
+INFO time_left 98879
+TURN 6,7
+MESSAGE depth 1-13 ev 76.8 n 3683 n/s 78569 tm 46 pv Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi7 Xj6 Oi11 Xj8 Oh11
+MESSAGE depth 1-13 ev 29.2 n 1310 n/s 347 tm 3765 pv Oh8 Xd5 Od7 Xf5 Oi5 Xj8 Oi7 Xi4 Oe3 Xd4 Oh3 Xj6
+8,7
+INFO time_left 95037
+TURN 5,3
+MESSAGE depth 1-14 ev 71.3 n 2000 n/s 21329 tm 93 pv Xd5 Od7 Xf5 Oi5 Xj8 Oi7 Xi4 Oe3 Xd4 Oh3 Xj6 Ol6 Xj9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 93 pv
+7,3
+INFO time_left 94907
+TURN 8,9
+MESSAGE depth 1-12 ev 73.9 n 1820 n/s 6470 tm 281 pv Xf5 Oi5 Xj8 Oi7 Xi4 Oe3 Xd4 Oh3 Xj6 Ol6 Xj9
+MESSAGE depth 1-10 ev 30.6 n 1299 n/s 353 tm 3671 pv Oc3 Xf5 Od4 Xb10 Oa11 Xi7 Og5 Xj9 Oc4
+3,2
+INFO time_left 91179
+TURN 5,5
+MESSAGE depth 1-12 ev 69.3 n 1893 n/s 5506 tm 343 pv Xf5 Od4 Xb10 Oa11 Xi7 Og5 Xi9 Oc4 Xc6 Oc2 Xc1
+MESSAGE depth 1-14 ev 21.5 n 1428 n/s 402 tm 3546 pv Ob6 Xa11 Ob10 Xd4 Oc4 Xc6 Oe2 Xb5 Od2 Xc2 Oe1 Xb4 Oi7
+6,1
+INFO time_left 87550
+TURN 11,0
+MESSAGE depth 1-9 ev 84.6 n 608 n/s 1768 tm 343 pv Xa11 Ob10 Xc4 Oi7 Xh5 Oi5 Xg4 Oh3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 343 pv
+10,1
+INFO time_left 87160
+TURN 5,6
+MESSAGE depth 1-7 ev 92.4 n 564 n/s 1503 tm 375 pv Xc4 Oi7 Xh5 Oi5 Xg4 Oh3
+MESSAGE depth 1-11 ev L n 1406 n/s 538 tm 2609 pv Oc4 Xc6 Od13 Xc14 Oc2 Xc1 Ob4 Xb5 Oi7 Xh5
+4,2
+INFO time_left 84503
+TURN 6,2
+MESSAGE depth 1-10 ev W n 553 n/s 3539 tm 156 pv Xc6 Od13 Xc14 Oc2 Xc1 Ob5 Xb4 Oi7 Xh5
+MESSAGE depth 1-9 ev L n 552 n/s 1766 tm 312 pv Od13 Xc14 Oc2 Xc1 Ob4 Xb5 Oi7 Xh5
+13,3
+INFO time_left 84128
+TURN 14,2
+MESSAGE depth 1-8 ev W n 91 n/s 2912 tm 31 pv Xc14 Oc2 Xc1 Ob5 Xb4 Oi7 Xh5
+MESSAGE depth 1-7 ev L n 90 n/s 2880 tm 31 pv Oc2 Xc1 Ob4 Xb5 Oi7 Xh5
+2,2
+INFO time_left 84064
+TURN 1,2
+MESSAGE depth 1-6 ev W n 21 n/s 671 tm 31 pv Xc1 Ob5 Xb4 Oi7 Xh5
+MESSAGE depth 1-5 ev L n 20 n/s 1279 tm 15 pv Ob4 Xb5 Oi7 Xh5
+4,1
+INFO time_left 84030
+TURN 5,1
+MESSAGE depth 1-4 ev W n 7 n/s 224 tm 31 pv Xb5 Oi7 Xh5
+MESSAGE depth 1-3 ev L n 6 n/s 191 tm 31 pv Oi7 Xh5
+7,8
+INFO time_left 83964
+TURN 5,7
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xh5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+5,4
+INFO time_left 83946
+TURN 5,8
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xh3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+5,9
+INFO time_left 83929
+TURN 4,9
+MESSAGE depth 1-2 ev W n 1 n/s 63 tm 15 pv Xj4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+8,5
+TAKEBACK 8,5
+MESSAGE depth 1-2 ev W n 1 n/s 63 tm 15 pv Xk3
+OK
+TAKEBACK 4,9
+OK
+TAKEBACK 5,9
+OK
+TAKEBACK 5,8
+OK
+TAKEBACK 5,4
+OK
+TAKEBACK 5,7
+OK
+TAKEBACK 7,8
+OK
+TAKEBACK 5,1
+OK
+TAKEBACK 4,1
+OK
+TAKEBACK 1,2
+OK
+TAKEBACK 2,2
+OK
+TAKEBACK 14,2
+OK
+TAKEBACK 13,3
+OK
+TAKEBACK 6,2
+OK
+TAKEBACK 4,2
+OK
+TAKEBACK 5,6
+OK
+TAKEBACK 10,1
+OK
+TAKEBACK 11,0
+OK
+TAKEBACK 6,1
+OK
+TAKEBACK 5,5
+OK
+TAKEBACK 3,2
+OK
+TAKEBACK 8,9
+OK
+TAKEBACK 7,3
+OK
+TAKEBACK 5,3
+OK
+TAKEBACK 8,7
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 7,5
+OK
+TAKEBACK 7,7
+OK
+TAKEBACK 8,6
+OK
+TAKEBACK 7,6
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 5,2
+OK
+TAKEBACK 6,3
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 12,6
+OK
+TAKEBACK 7,2
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 8,1
+OK
+TAKEBACK 7,4
+OK
+TAKEBACK 7,1
+OK
+TAKEBACK 8,2
+OK
+TAKEBACK 6,6
+OK
+TAKEBACK 9,7
+OK
+TAKEBACK 11,1
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,3
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 9,5
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 12,4
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 11,4
+OK
+TAKEBACK 11,3
+OK
+TAKEBACK 10,6
+OK
+TAKEBACK 10,5
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 12,1
+OK
+INFO time_left 179459
+TURN 12,1
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179367
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-12 ev 41.6 n 1603 n/s 235 tm 6812 pv Oe9 Xc10 Of10 Xe12 Oc12 Xd11 Of13 Xd8 Od9 Xb9 Oa8
+9,4
+INFO time_left 172534
+TURN 10,5
+MESSAGE depth 1-15 ev 56.1 n 2015 n/s 9211 tm 218 pv Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xc9 Of11 Xc11 Oc12 Xh9 Oh10 Xi9 Oj9
+MESSAGE depth 1-14 ev 49.6 n 2015 n/s 293 tm 6859 pv Og10 Xc10 Og9 Xf9 Of8 Xc12 Oc11 Xd10 Og8 Xe10 Ob10 Xd11 Ob13
+10,6
+INFO time_left 165636
+TURN 11,3
+MESSAGE depth 1-16 ev 48.8 n 5370 n/s 18088 tm 296 pv Xf9 Oe11 Xe10 Od11 Xf11 Of12 Xf7 Of8 Xd10 Og12 Xg8 Oh12 Xi12 Og11 Xg13
+MESSAGE depth 1-17 ev 55.4 n 1376 n/s 219 tm 6281 pv Oe11 Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Of7 Xb11 Oa12 Xb10 Ob9 Xe13 Od13 Xf11
+11,4
+INFO time_left 159317
+TURN 10,2
+MESSAGE depth 1-12 ev 39.8 n 1205 n/s 7711 tm 156 pv Xe8 Od9 Xe12 Oc10 Xf9 Og8 Xg7 Of6 Xf5 Of11 Xc8
+MESSAGE depth 1-18 ev 50.9 n 1680 n/s 280 tm 5984 pv Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xg7 Od5
+12,4
+INFO time_left 153243
+TURN 10,4
+MESSAGE depth 1-21 ev 60.3 n 2479 n/s 7555 tm 328 pv Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Og9 Xg7 Of6
+MESSAGE depth 1-23 ev 38.5 n 3562 n/s 609 tm 5843 pv Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Oc5 Xd5 Od8 Xb6 Oe6 Xi6
+9,5
+INFO time_left 147326
+TURN 9,3
+MESSAGE depth 1-23 ev 61.2 n 3867 n/s 247503 tm 15 pv Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xd6 Oc5 Xd5 Od8 Xb6 Oe6 Xi7 Oh10
+MESSAGE depth 1-23 ev 37.8 n 5053 n/s 829 tm 6093 pv Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xd6 Ob8 Xc9 Oc7 Xe7 Oc5 Xd5 Od8 Xb6 Oe6 Xi7 Oh10 Xg12
+10,3
+INFO time_left 141197
+TURN 8,4
+MESSAGE depth 1-20 ev 61.4 n 3938 n/s 10957 tm 359 pv Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oj10 Xc8 Ob7 Xh10 Oh12 Xg13 Oh7 Xf5 Og8 Xd7
+MESSAGE depth 1-21 ev 37.6 n 4918 n/s 925 tm 5312 pv Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj9 Xk10 Oj8 Xj7 Ok7 Xi9 Of7 Xf5
+11,1
+INFO time_left 135831
+TURN 9,7
+MESSAGE depth 1-22 ev 62.4 n 6959 n/s 9897 tm 703 pv Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xc8 Ob7 Xi10 Oj9 Xj7 Ok7 Xi9 Of7 Xf5
+MESSAGE depth 1-21 ev 37.2 n 6893 n/s 1361 tm 5062 pv Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xc8 Ob7 Xi10 Oj9 Xj7 Ok7 Xi9 Of7 Xf5
+6,6
+INFO time_left 130685
+TURN 8,2
+MESSAGE depth 1-20 ev 59.7 n 5260 n/s 7318 tm 718 pv Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xk10 Oj9 Xj7 Oi8 Xi9 Ok8 Xh8 Of7 Xf5
+MESSAGE depth 1-16 ev 48.2 n 1349 n/s 247 tm 5452 pv Ob7 Xg7 Og12 Xf12 Oe7 Xc7 Oc9 Xb8 Od8 Xf6 Oh8 Xf5 Of4 Xi5 Oh5
+7,1
+INFO time_left 125194
+TURN 7,4
+MESSAGE depth 1-11 ev 56.3 n 2061 n/s 4396 tm 468 pv Xe7 Ob8 Xc9 Oc7 Xg7 Of6 Xd6 Od8 Xb6 Oh7
+MESSAGE depth 1-14 ev 35.5 n 1756 n/s 377 tm 4656 pv Ob8 Xc9 Oc7 Xg7 Od8 Xb6 Oh7 Xf5 Oe6 Xf6 Of4 Xg12 Of11
+8,1
+INFO time_left 120470
+TURN 9,2
+MESSAGE depth 1-16 ev 65.2 n 1765 n/s 7060 tm 249 pv Xc9 Oc7 Xg7 Od8 Xb6 Og12 Xg11 Oh7 Xf5 Oe6 Xf6 Of4 Xe5 Od4 Xd5
+MESSAGE depth 1-17 ev 30.6 n 2412 n/s 532 tm 4531 pv Oc7 Xg7 Od8 Xb6 Og12 Xg11 Oh7 Xf5 Oe6 Xf6 Of4 Xe5 Od4 Xi9 Oh8 Xj8
+7,2
+INFO time_left 115895
+TURN 12,6
+MESSAGE depth 1-17 ev 69.7 n 2827 n/s 15077 tm 187 pv Xg7 Od8 Xb6 Og12 Xg11 Oh7 Xf5 Oe6 Xf6 Of4 Xe5 Od4 Xd5 Og5 Xh6 Oi9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 187 pv
+11,5
+INFO time_left 115670
+TURN 6,3
+MESSAGE depth 1-18 ev 70.0 n 1994 n/s 15952 tm 124 pv Xg7 Od5 Xh7 Of7 Xh8 Oh10 Xf6 Ob10 Xb9 Oe5 Xd6 Oc5 Xg5 Od8 Xb5 Oc6 Xi9
+MESSAGE depth 1-13 ev 29.1 n 1598 n/s 334 tm 4781 pv Oc5 Xg7 Od5 Xb5 Oh7 Xe4 Of6 Xi6 Of5 Xg5 Oi11 Xi8
+5,2
+INFO time_left 110812
+TURN 8,3
+MESSAGE depth 1-12 ev 67.7 n 1474 n/s 5549 tm 265 pv Xg7 Od5 Xb5 Oh7 Xe4 Of6 Xi6 Of5 Xg5 Oi11 Xi8
+MESSAGE depth 1-15 ev 36.0 n 1105 n/s 244 tm 4515 pv Of6 Xg7 Og8 Xh7 Of7 Xf5 Od5 Xb10 Oa11 Xe6 Og4 Xi7 Oe4 Xc6
+6,5
+INFO time_left 106238
+TURN 7,6
+MESSAGE depth 1-15 ev 63.2 n 1223 n/s 4348 tm 281 pv Xg7 Og8 Xh7 Of7 Xf5 Od5 Xe6 Og4 Xe4 Oe5 Xb9 Od7 Xi7 Oc3
+MESSAGE depth 1-16 ev 31.0 n 1780 n/s 425 tm 4187 pv Og8 Xh7 Of7 Xf5 Od5 Xb10 Oa11 Xe6 Og4 Xh6 Oh8 Xi5 Oj4 Xi7 Og5
+8,6
+INFO time_left 101997
+TURN 7,7
+MESSAGE depth 1-15 ev 68.0 n 1711 n/s 9125 tm 187 pv Xh7 Of7 Xf5 Od5 Xb10 Oa11 Xe6 Og4 Xh6 Oh8 Xi5 Oj4 Xh5 Og5
+MESSAGE depth 1-12 ev 27.2 n 2027 n/s 495 tm 4093 pv Of7 Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi11 Xi7 Oh11
+7,5
+INFO time_left 97842
+TURN 5,3
+MESSAGE depth 1-12 ev 74.6 n 2413 n/s 3766 tm 640 pv Xd5 Od7 Xf5 Oh5 Xi4 Oe3 Xd4 Oi11 Xi7 Oh11 Xg11
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 640 pv
+7,3
+INFO time_left 97167
+TURN 7,8
+MESSAGE depth 1-12 ev 77.2 n 2307 n/s 4762 tm 484 pv Xf5 Oh5 Xi4 Oe3 Xd4 Oi11 Xi7 Oh11 Xg11 Oj10 Xi5
+MESSAGE depth 1-10 ev 28.0 n 999 n/s 279 tm 3578 pv Oc4 Xf8 Oh8 Xh10 Og9 Xj8 Ok7 Xh6 Ok9
+4,2
+INFO time_left 93515
+TURN 10,7
+MESSAGE depth 1-9 ev 75.5 n 1416 n/s 3020 tm 468 pv Xf8 Oh8 Xi9 Oc3 Xc6 Oc2 Xc1 Oe4
+MESSAGE depth 1-14 ev 29.7 n 900 n/s 248 tm 3624 pv Oh8 Xj8 Ok7 Xh6 Ok9 Xf8 Og9 Xb10 Oa11 Xi5 Oj4 Xh5 Of4
+8,7
+INFO time_left 89813
+TURN 7,10
+MESSAGE depth 1-13 ev 68.6 n 913 n/s 11664 tm 78 pv Xj8 Ok7 Xh6 Ok9 Xb10 Oa11 Xf8 Og9 Xi5 Oj4 Xh5 Of4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+7,9
+INFO time_left 89692
+TURN 8,5
+MESSAGE depth 1-11 ev 62.9 n 162 n/s 414 tm 390 pv Xj8 Oi9 Xf8 Og9 Xh6 Ok9 Xi5 Oj4 Xh4 Oj6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 390 pv
+9,6
+INFO time_left 89255
+TURN 10,1
+MESSAGE depth 1-9 ev 54.4 n 131 n/s 419 tm 312 pv Xj8 Oi9 Xh6 Ok9 Xi5 Oj4 Xh4 Ob10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 312 pv
+11,0
+INFO time_left 88903
+TURN 8,9
+MESSAGE depth 1-7 ev 53.6 n 45 n/s 359 tm 125 pv Xj8 Oi9 Xh6 Ok9 Xi5 Oj4
+MESSAGE depth 1-14 ev 11.9 n 787 n/s 244 tm 3218 pv Oi9 Xh6 Ok9 Xi5 Oj4 Xh4 Oc3 Xc6 Oc2 Xc1 Od13 Xc14 Og5
+9,8
+INFO time_left 85640
+TURN 6,7
+MESSAGE depth 1-13 ev 94.7 n 396 n/s 12672 tm 31 pv Xh6 Ok9 Xi5 Oj4 Xh4 Oc3 Xc6 Od13 Xc14 Oc2 Xc1 Oh5
+MESSAGE depth 1-12 ev 5.5 n 1323 n/s 411 tm 3218 pv Og5 Xl8 Oi5 Xk8 Oc3 Xc6 Oc2 Xc1 Od13 Xc14 Ok9
+5,6
+INFO time_left 82351
+TURN 8,10
+MESSAGE depth 1-11 ev 96.1 n 797 n/s 1133 tm 703 pv Xl8 Oc3 Xc6 Oi5 Xk8 Oc2 Xc1 Od13 Xc14 Om8
+MESSAGE depth 1-9 ev 1.2 n 1292 n/s 382 tm 3374 pv Oc3 Xc6 Od13 Xc14 Oc2 Xc1 Ol10 Xk6
+3,2
+INFO time_left 78920
+TURN 6,2
+MESSAGE depth 1-9 ev 99.4 n 447 n/s 5721 tm 78 pv Xc6 Ok6 Xl8 Oc1 Xc2 Oc14 Xd13 Ok9
+MESSAGE depth 1-8 ev 2.1 n 1468 n/s 519 tm 2828 pv Oc1 Xc2 Oc14 Xd13 Ol10 Xl8 Oi8
+1,2
+INFO time_left 76041
+TURN 2,2
+MESSAGE depth 1-7 ev 99.3 n 251 n/s 1338 tm 187 pv Xc2 Oc14 Xd13 Ol10 Xl8 On8
+MESSAGE depth 1-7 ev L n 341 n/s 545 tm 625 pv Oc14 Xd13 Ok10 Xl8 Om8 Xi5
+14,2
+INFO time_left 75362
+TURN 13,3
+MESSAGE depth 1-6 ev W n 67 n/s 2144 tm 31 pv Xd13 Ok10 Xl8 Om8 Xi5
+MESSAGE depth 1-5 ev L n 63 n/s 2016 tm 31 pv Ok10 Xl8 Om8 Xi5
+10,10
+INFO time_left 75298
+TURN 5,8
+MESSAGE depth 1-4 ev W n 13 n/s 416 tm 31 pv Xl8 Om8 Xi5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+4,9
+INFO time_left 75295
+TURN 8,11
+MESSAGE depth 1-4 ev W n 39 n/s 277 tm 140 pv Xl8 Oh4 Xm8
+MESSAGE depth 1-3 ev L n 9 n/s 52 tm 171 pv Oh4 Xm8
+4,7
+INFO time_left 75056
+TURN 8,12
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Xm8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+8,8
+TAKEBACK 8,8
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xn8
+OK
+TAKEBACK 8,12
+OK
+TAKEBACK 4,7
+OK
+TAKEBACK 8,11
+OK
+TAKEBACK 4,9
+OK
+TAKEBACK 5,8
+OK
+TAKEBACK 10,10
+OK
+TAKEBACK 13,3
+OK
+TAKEBACK 14,2
+OK
+TAKEBACK 2,2
+OK
+TAKEBACK 1,2
+OK
+TAKEBACK 6,2
+OK
+TAKEBACK 3,2
+OK
+TAKEBACK 8,10
+OK
+TAKEBACK 5,6
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 9,8
+OK
+TAKEBACK 8,9
+OK
+TAKEBACK 11,0
+OK
+TAKEBACK 10,1
+OK
+TAKEBACK 9,6
+OK
+TAKEBACK 8,5
+OK
+TAKEBACK 7,9
+OK
+TAKEBACK 7,10
+OK
+TAKEBACK 8,7
+OK
+TAKEBACK 10,7
+OK
+TAKEBACK 4,2
+OK
+TAKEBACK 7,8
+OK
+TAKEBACK 7,3
+OK
+TAKEBACK 5,3
+OK
+TAKEBACK 7,5
+OK
+TAKEBACK 7,7
+OK
+TAKEBACK 8,6
+OK
+TAKEBACK 7,6
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 5,2
+OK
+TAKEBACK 6,3
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 12,6
+OK
+TAKEBACK 7,2
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 8,1
+OK
+TAKEBACK 7,4
+OK
+TAKEBACK 7,1
+OK
+TAKEBACK 8,2
+OK
+TAKEBACK 6,6
+OK
+TAKEBACK 9,7
+OK
+TAKEBACK 11,1
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,3
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 9,5
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 12,4
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 11,4
+OK
+TAKEBACK 11,3
+OK
+TAKEBACK 10,6
+OK
+TAKEBACK 10,5
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 12,1
+OK
+INFO time_left 179459
+TURN 12,1
+MESSAGE depth 1-14 ev 42.6 n 1835 n/s 262 tm 6999 pv Oe9 Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xd9 Of11 Xc11 Oc9 Xf12 Oe8
+9,4
+INFO time_left 172385
+TURN 10,5
+MESSAGE depth 1-15 ev 55.0 n 2457 n/s 7862 tm 312 pv Xc10 Od11 Xf10 Oe11 Xe10 Od10 Xc9 Of11 Xc11 Oc12 Xh9 Oh10 Xf7 Og8
+MESSAGE depth 1-13 ev 48.8 n 1968 n/s 279 tm 7031 pv Og10 Xd9 Og9 Xd12 Og8 Xg7 Od11 Xe11 Ob14 Xf9 Of8 Xe8
+10,6
+INFO time_left 165287
+TURN 11,4
+MESSAGE depth 1-15 ev 45.3 n 2503 n/s 6674 tm 375 pv Xd9 Og8 Xd10 Og9 Xg11 Od11 Xe10 Of11 Xh9 Oc10 Xg6 Od7 Xe8 Of7
+MESSAGE depth 1-13 ev 48.1 n 1652 n/s 260 tm 6343 pv Od12 Xd9 Of11 Xh9 Of7 Xe7 Oh8 Xf6 Og5 Xd6 Of8 Xd8
+12,3
+INFO time_left 158887
+TURN 11,5
+MESSAGE depth 1-18 ev 50.0 n 3921 n/s 9651 tm 406 pv Xd9 Og8 Xf11 Of12 Xg9 Og12 Xe12 Od11 Xf7 Oe8 Xd7 Oe7 Xe6 Of5 Xd6 Od8 Xc8
+MESSAGE depth 1-15 ev 54.2 n 1610 n/s 254 tm 6327 pv Of12 Xg12 Od9 Xd11 Oc11 Xh11 Og11 Xi10 Oj9 Xh10 Oh9 Xf9 Of8 Xg7
+12,5
+INFO time_left 152495
+TURN 12,6
+MESSAGE depth 1-20 ev 48.6 n 2694 n/s 24626 tm 109 pv Xg12 Od9 Xd11 Oc11 Xh11 Og11 Xh10 Oh9 Xi10 Oj9 Xg9 Oi11 Xe10 Of9 Xk10 Oe13 Xb10 Oc10 Xb9
+MESSAGE depth 1-19 ev 50.5 n 3534 n/s 570 tm 6195 pv Od9 Xd11 Oc11 Xh11 Og11 Xh10 Oh9 Xg9 Of8 Xi10 Oj9 Xh13 Oi11 Xe10 Oi14 Xg7 Oh8 Xg8
+9,3
+INFO time_left 146242
+TURN 11,3
+MESSAGE depth 1-17 ev 54.7 n 2564 n/s 16407 tm 156 pv Xd11 Oc11 Xh11 Og11 Xi10 Oj9 Xh10 Oh9 Xe10 Of8 Xg7 Of9 Xg9 Oc10 Xc9 Oh8
+MESSAGE depth 1-15 ev 45.8 n 3396 n/s 587 tm 5781 pv Og11 Xf9 Og8 Xe13 Of13 Xg7 Oh8 Xi8 Of7 Xe6 Oj8 Xh6 Oj10 Xj9
+11,6
+INFO time_left 140382
+TURN 10,2
+MESSAGE depth 1-16 ev 48.8 n 2814 n/s 15008 tm 187 pv Xf9 Og8 Xe13 Og7 Xg9 Of8 Xh8 Oi7 Xh6 Oc11 Xd10 Oc10 Xf7 Oj9 Xj7
+MESSAGE depth 1-17 ev 39.2 n 1659 n/s 305 tm 5421 pv Oc11 Xb9 Oe12 Xb10 Ob11 Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Of5 Xf4 Oh6 Xh7
+11,2
+INFO time_left 134910
+TURN 9,1
+MESSAGE depth 1-17 ev 60.6 n 1996 n/s 4120 tm 484 pv Xb9 Oe12 Xb10 Ob11 Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Of5 Xf4 Oh6 Xh7 Oj6
+MESSAGE depth 1-17 ev 35.8 n 3065 n/s 583 tm 5249 pv Oe12 Xb10 Ob11 Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Of5 Xf4 Oh6 Xh5 Oj6 Xi6
+12,4
+INFO time_left 129624
+TURN 10,1
+MESSAGE depth 1-16 ev 64.4 n 3794 n/s 6937 tm 546 pv Xb10 Ob11 Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Of5 Xh5 Oj9 Xi9 Oi10 Xj11
+MESSAGE depth 1-18 ev 34.9 n 4924 n/s 960 tm 5124 pv Ob11 Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Oh6 Xh5 Oj6 Xi7 Oi6 Xk6 Ok7 Xj5 Oh10
+11,1
+INFO time_left 124463
+TURN 9,5
+MESSAGE depth 1-21 ev 63.9 n 8783 n/s 18133 tm 484 pv Xg7 Oh8 Xf9 Og8 Xi8 Of7 Xe6 Oh6 Xh5 Oj6 Xi7 Oi6 Xk6 Ok7 Xj9 Oh10 Xi9 Oh9 Xh7 Oi10
+MESSAGE depth 1-21 ev 35.7 n 5293 n/s 1110 tm 4765 pv Og8 Xg7 Of7 Xe6 Oh8 Xi8 Oh6 Xh5 Oj6 Xi7 Oi6 Xk6 Ok7 Xj9 Oh10 Xi9 Oh9 Xh7 Oi10 Xj11
+8,6
+INFO time_left 119637
+TURN 7,6
+MESSAGE depth 1-18 ev 63.5 n 5608 n/s 12375 tm 453 pv Xg7 Of7 Xe6 Oh8 Xi8 Oh6 Xh5 Oj6 Xi7 Oi6 Xk6 Ok7 Xj9 Oj5 Xh7 Og6 Xf6
+MESSAGE depth 1-15 ev 36.7 n 5847 n/s 1226 tm 4765 pv Oh8 Xi8 Of7 Xe6 Oh6 Xh5 Oj9 Xh10 Ok9 Xd7 Oc8 Xi9 Oi7 Xj8
+8,7
+INFO time_left 114820
+TURN 9,9
+MESSAGE depth 1-15 ev 60.7 n 4514 n/s 7602 tm 593 pv Xi8 Of7 Xe6 Oh6 Xh5 Oj9 Xh10 Ok9 Xf5 Oj11 Xi9 Oj8 Xd7 Oc8
+MESSAGE depth 1-10 ev 55.5 n 993 n/s 212 tm 4671 pv Of7 Xh9 Oi9 Xh10 Ok8 Xi8 Ok10 Xh13 Oe10
+8,5
+INFO time_left 110089
+TURN 10,4
+MESSAGE depth 1-15 ev 46.7 n 1545 n/s 4708 tm 328 pv Xe10 Od10 Xi8 Oe7 Xd6 Oe6 Xe8 Oh10 Xe13 Oi11 Xg9 Oi9 Xj8 Oj10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 328 pv
+10,3
+INFO time_left 109710
+TURN 8,8
+MESSAGE depth 1-11 ev 56.0 n 1082 n/s 2163 tm 500 pv Xi8 Oe7 Xd6 Og5 Xd8 Oh10 Xi9 Oh9 Xi14 Oh13
+MESSAGE depth 1-13 ev 43.3 n 1782 n/s 410 tm 4343 pv Oe7 Xd6 Og5 Xd8 Oh7 Xi10 Oh11 Xi9 Oi11 Xh9 Og9 Xh10
+7,4
+INFO time_left 105292
+TURN 6,3
+MESSAGE depth 1-15 ev 56.2 n 1461 n/s 2337 tm 624 pv Xd6 Og5 Xd8 Oh7 Xi10 Oh11 Xi9 Oi11 Xh9 Og9 Xh10 Ok9 Xj11 Oj10
+MESSAGE depth 1-15 ev 40.5 n 2143 n/s 529 tm 4046 pv Og5 Xd8 Oh7 Xi10 Oh11 Xi9 Oi11 Xh9 Og9 Xh10 Ok9 Xj11 Oj10 Xl8
+5,6
+INFO time_left 101190
+TURN 8,3
+MESSAGE depth 1-15 ev 57.0 n 1793 n/s 5464 tm 328 pv Xe8 Oh7 Xh6 Oh10 Xi9 Oh9 Xh11 Oi10 Xj11 Of6 Xh4 Of5 Xf7 Og4
+MESSAGE depth 1-12 ev 41.1 n 1344 n/s 348 tm 3859 pv Oe6 Xi10 Oh11 Xh7 Og6 Xe5 Of7 Xd5 Of4 Xf6 Od4
+6,4
+INFO time_left 97256
+TURN 10,8
+MESSAGE depth 1-12 ev 58.9 n 1064 n/s 2723 tm 390 pv Xi10 Oh11 Xh7 Og6 Xe5 Of7 Xd5 Of4 Xf6 Oh5 Xe8
+MESSAGE depth 1-13 ev 50.1 n 1371 n/s 371 tm 3687 pv Oh11 Xh7 Og6 Xe5 Of7 Xd5 Of6 Xk10 Ol11 Xd7 Od4 Xh6
+11,7
+INFO time_left 93519
+TURN 9,8
+MESSAGE depth 1-12 ev 44.4 n 1002 n/s 1425 tm 703 pv Xh7 Og6 Xe5 Of7 Xd5 Of6 Xk10 Ol11 Xb13 Oc12 Xh5
+MESSAGE depth 1-14 ev 14.3 n 1681 n/s 502 tm 3343 pv Oi11 Xi14 Oh13 Xh7 Og9 Xh10 Oe5 Xe8 Oe4 Xe3 Ok11 Xj11 Oc12
+11,8
+INFO time_left 90114
+TURN 14,8
+MESSAGE depth 1-10 ev 91.0 n 1017 n/s 13016 tm 78 pv Xi14 Oh13 Xh7 Og9 Xh10 Oj11 Xk11 Oe8 Xe5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+13,7
+INFO time_left 89974
+TURN 7,7
+MESSAGE depth 1-9 ev 95.8 n 965 n/s 30882 tm 31 pv Xh7 Og9 Xh10 Oj11 Xk11 Oe8 Xe5 Oi7
+MESSAGE depth 1-11 ev L n 1213 n/s 3234 tm 374 pv Oe5 Xe8 Og9 Xh10 Oe4 Xe3 Oj11 Xk11 Ok10 Xb13
+5,4
+INFO time_left 89535
+TURN 8,4
+MESSAGE depth 1-10 ev W n 493 n/s 15777 tm 31 pv Xe8 Og9 Xh10 Oe4 Xe3 Oj11 Xk11 Ok10 Xb13
+MESSAGE depth 1-9 ev L n 492 n/s 10497 tm 46 pv Og9 Xh10 Oe4 Xe3 Oj11 Xk11 Ok10 Xb13
+9,6
+INFO time_left 89470
+TURN 10,7
+MESSAGE depth 1-8 ev W n 125 n/s 4000 tm 31 pv Xh10 Oe4 Xe3 Oj11 Xk11 Ok10 Xb13
+MESSAGE depth 1-7 ev L n 124 n/s 2645 tm 46 pv Oe4 Xe3 Oj11 Xk11 Ok10 Xb13
+4,4
+INFO time_left 89420
+TURN 3,4
+MESSAGE depth 1-6 ev W n 30 n/s 960 tm 31 pv Xe3 Oj11 Xk11 Ok10 Xb13
+MESSAGE depth 1-5 ev L n 29 n/s 928 tm 31 pv Oj11 Xk11 Ok10 Xb13
+11,9
+INFO time_left 89350
+TURN 11,10
+MESSAGE depth 1-4 ev W n 10 n/s 320 tm 31 pv Xk11 Ok10 Xb13
+MESSAGE depth 1-3 ev L n 9 n/s 287 tm 31 pv Ok10 Xb13
+10,10
+INFO time_left 89298
+TURN 7,8
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xb13
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+6,8
+INFO time_left 89293
+TURN 7,9
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xj7
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+7,5
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179345
+INFO folder C:\ProgramData
+BOARD
+13,2,2
+14,0,1
+12,1,2
+DONE
+MESSAGE depth 1-16 ev 42.6 n 1613 n/s 236 tm 6827 pv Of10 Xe12 Od11 Xe9 Od10 Xe10 Oe11 Xf11 Od9 Xd12 Of12 Xc9 Og10 Xb10 Oc11
+10,5
+INFO time_left 172511
+TURN 9,4
+MESSAGE depth 1-17 ev 57.8 n 1928 n/s 8225 tm 234 pv Xe12 Od11 Xe9 Od10 Xe10 Oe11 Xf12 Od9 Xd12 Oc12 Xf7 Oh9 Xh8 Oe7 Xf6 Of5
+MESSAGE depth 1-13 ev 51.9 n 1721 n/s 259 tm 6640 pv Oe8 Xe12 Of8 Xf9 Og9 Xc12 Od12 Xh8 Oh10 Xi11 Oe10 Xg10
+8,4
+INFO time_left 165804
+TURN 11,3
+MESSAGE depth 1-14 ev 50.0 n 2615 n/s 55783 tm 46 pv Xf9 Od9 Xc10 Oc11 Xh8 Od8 Xc8 Og7 Xg6 Oh10 Xg10 Oi8 Xf5
+MESSAGE depth 1-20 ev 51.9 n 1573 n/s 252 tm 6234 pv Od10 Xe12 Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Oh9 Xd13 Oc14 Xe13 Of13 Xb10 Ob14 Xd12 Od14 Xe14 Ob13
+10,3
+INFO time_left 159505
+TURN 12,4
+MESSAGE depth 1-19 ev 56.8 n 1368 n/s 6006 tm 227 pv Xe12 Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Oi11 Xf12 Od9
+MESSAGE depth 1-27 ev 40.2 n 2637 n/s 433 tm 6086 pv Oc10 Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oh9 Xg9 Og8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xi11 Of8 Xc8 Od9 Xh8 Oi9 Xk10 Oj10 Xj9
+10,2
+INFO time_left 153366
+TURN 10,4
+MESSAGE depth 1-23 ev 59.4 n 2614 n/s 9293 tm 281 pv Xe10 Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oi8 Xh8 Oc8 Xc9 Od6 Xg12 Oh13 Xd7 Oe7 Xf8 Oe5 Xg11 Og13 Xh10 Of12
+MESSAGE depth 1-23 ev 39.0 n 4148 n/s 700 tm 5921 pv Of9 Xf11 Oe11 Xg10 Od13 Xf7 Oi8 Xh10 Oc9 Xb8 Oc8 Xc7 Od6 Xg12 Oh13 Xf12 Oc11 Xc12 Og11 Xh8 Oh9 Xj10
+9,5
+INFO time_left 147399
+TURN 11,5
+MESSAGE depth 1-23 ev 59.8 n 4090 n/s 87207 tm 46 pv Xf11 Oe11 Xg10 Od13 Xf7 Oi8 Xh8 Oc8 Xc9 Od6 Xd7 Oe7 Xf8 Oe5 Xf4 Og5 Xe6 Of5 Xd5 Og8 Xh7 Oh4
+MESSAGE depth 1-25 ev 38.5 n 5372 n/s 971 tm 5531 pv Oe11 Xg10 Od13 Xf7 Oi8 Xh10 Oc9 Xb8 Oc8 Xc7 Od6 Xg8 Og9 Xh8 Od7 Xe6 Oh9 Xi9 Od8 Xd9 Od5 Xd4 Oc5 Xf8
+11,4
+INFO time_left 141810
+TURN 10,6
+MESSAGE depth 1-24 ev 61.7 n 5831 n/s 186601 tm 31 pv Xg10 Od13 Xf7 Oi8 Xh10 Oc9 Xb8 Oc8 Xc7 Od6 Xg8 Og9 Xh8 Od7 Xe6 Oh9 Xd5 Oc4 Xi9 Oj10 Xg5 Oe7 Xf6
+MESSAGE depth 1-25 ev 36.4 n 6668 n/s 1227 tm 5431 pv Od13 Xf7 Oi8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Og9 Xk11 Ol10 Xj11
+13,3
+INFO time_left 136331
+TURN 7,5
+MESSAGE depth 1-24 ev 63.9 n 7383 n/s 157499 tm 46 pv Xf7 Oi8 Xg12 Oh13 Xh10 Og13 Xf12 Oh12 Xh8 Og11 Xi13 Oc8 Xd8 Oh7 Xj9 Oi10 Xi11 Oi6 Xj12 Og9 Xk11 Ol10 Xj11
+MESSAGE depth 1-18 ev 36.4 n 8392 n/s 1561 tm 5374 pv Oh9 Xg9 Og8 Xg12 Oh13 Xc8 Od9 Xh10 Og11 Xi11 Oj12 Xj9 Oi10 Xj11 Oe7 Xl11 Ok11
+9,7
+INFO time_left 130917
+TURN 9,6
+MESSAGE depth 1-21 ev 63.5 n 5962 n/s 31794 tm 187 pv Xg9 Og8 Xg12 Oh13 Xc8 Od9 Xh10 Og11 Xi11 Oj12 Xj10 Og13 Xf12 Oh12 Xi13 Oi10 Xh8 Oe7 Xk9 Od6
+MESSAGE depth 1-23 ev 34.1 n 6903 n/s 1359 tm 5077 pv Og8 Xg12 Oh13 Xc8 Od9 Xh10 Og11 Xe7 Od6 Xd7 Og7 Xi11 Of8 Xh8 Ok10 Xj9 Og13 Xf12 Oh12 Xi13 Oi10 Xj11
+8,6
+INFO time_left 125755
+TURN 12,6
+MESSAGE depth 1-22 ev 64.4 n 8131 n/s 74340 tm 109 pv Xg12 Oh13 Xc8 Od9 Xh10 Og11 Xe7 Of8 Xh8 Oj10 Xd7 Og7 Xe6 Of5 Xc6 Oc7 Xd6 Ob6 Xe4 Od5 Xg5
+MESSAGE depth 1-22 ev 34.6 n 8371 n/s 1768 tm 4734 pv Oh13 Xc8 Od9 Xh10 Og11 Xe7 Of8 Xh8 Oj10 Xd7 Og7 Xe6 Of5 Xb6 Oc7 Xd6 Oc6 Xd4 Od5 Xe4 Oe3
+13,7
+INFO time_left 120955
+TURN 10,7
+MESSAGE depth 1-27 ev 63.7 n 8826 n/s 70609 tm 124 pv Xc8 Od9 Xh10 Og11 Xi11 Oj12 Xj10 Og13 Xf12 Of13 Xe13 Oi13 Xj13 Oh12 Xj14 Ok10 Xk11 Oi9 Xl9 Oj11 Xk12 Oi6 Xh7 Oe7 Xl8 Oh8
+MESSAGE depth 1-19 ev 35.6 n 5607 n/s 1196 tm 4687 pv Og11 Xc8 Od9 Xe7 Of8 Xh8 Oj10 Xi11 Od7 Xi7 Od6 Xd8 Of6 Xc6 Oh7 Xj9 Oj6 Xi10
+11,6
+INFO time_left 116203
+TURN 8,2
+MESSAGE depth 1-15 ev 63.9 n 8589 n/s 28931 tm 296 pv Xc8 Od9 Xf5 Od7 Xd6 Of6 Xi8 Oi10 Xj11 Og5 Xh4 Og13 Xf12 Oh12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 296 pv
+9,3
+INFO time_left 115853
+TURN 11,8
+MESSAGE depth 1-14 ev 62.9 n 7236 n/s 51449 tm 140 pv Xf5 Od7 Xd6 Of6 Xi8 Oj10 Xi7 Oh7 Xi6 Oi5 Xk8 Og13 Xf12
+MESSAGE depth 1-23 ev 39.8 n 2495 n/s 574 tm 4343 pv Oj12 Xj10 Og13 Xf12 Of13 Xe13 Oi13 Xj13 Oh12 Xj14 Ok10 Xk11 Oj11 Xi12 Oe7 Xk8 Oh8 Xi8 Oi10 Xk12 Od8 Xf8
+12,9
+INFO time_left 111455
+TURN 7,4
+MESSAGE depth 1-22 ev 60.1 n 2368 n/s 15149 tm 156 pv Xj10 Og13 Xf12 Of13 Xe13 Oi13 Xj13 Oh12 Xj14 Ok10 Xk11 Oj11 Xi12 Oh8 Xi8 Oe7 Xf6 Of5 Xk8 Oi10 Xk12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 171 pv
+8,5
+INFO time_left 111221
+TURN 8,7
+MESSAGE depth 1-15 ev 61.2 n 1241 n/s 8823 tm 140 pv Xh8 Oj10 Xj11 Ol10 Xd7 Og7 Xe6 Of5 Xc6 Oc7 Xd6 Ob6 Xd5 Od4
+MESSAGE depth 1-20 ev 37.2 n 1942 n/s 476 tm 4078 pv Oj10 Xj11 Ol10 Xk11 Ol11 Xl9 Ok10 Xm10 Oi7 Xd7 Og7 Xe6 Of5 Xc7 Ob7 Xc6 Oc5 Xd6 Ob6
+10,9
+INFO time_left 107087
+TURN 11,9
+MESSAGE depth 1-14 ev 61.8 n 3320 n/s 12499 tm 265 pv Xj11 Oi13 Xj13 Od7 Xi7 Od6 Xd8 Oe5 Xf4 Of6 Xc6 Od4 Xc3
+MESSAGE depth 1-17 ev 36.4 n 2856 n/s 711 tm 4015 pv Oi13 Xj13 Od7 Xi7 Od6 Xd8 Oe5 Xf4 Of6 Xc6 Od4 Xc3 Oh7 Xi6 Oi5 Xh6
+13,8
+INFO time_left 102994
+TURN 7,3
+MESSAGE depth 1-18 ev 60.4 n 3084 n/s 8971 tm 343 pv Xj13 Od7 Xi7 Od6 Xd8 Oe5 Xf4 Of6 Xc6 Od4 Xc3 Oh7 Xi6 Oj6 Xi5 Oi4 Xk8
+MESSAGE depth 1-15 ev 53.1 n 981 n/s 253 tm 3874 pv Og7 Xe6 Of5 Xc6 Oc7 Xd6 Ob6 Xd5 Od4 Xe4 Of3 Xe3 Oe5 Xc3
+7,6
+INFO time_left 99049
+TURN 6,4
+MESSAGE depth 1-14 ev 49.1 n 2105 n/s 12245 tm 171 pv Xk11 Ol11 Xj13 Of5 Xe4 Og5 Xd5 Oc6 Xd4 Od6 Xc4 Of4 Xb6
+MESSAGE depth 1-15 ev 62.9 n 1383 n/s 361 tm 3828 pv Of5 Xc6 Oc7 Xd6 Ob6 Xd5 Od4 Xe4 Of3 Xe3 Oe5 Xf6 Og6 Xg5
+5,5
+INFO time_left 95157
+TURN 6,1
+MESSAGE depth 1-15 ev 35.6 n 1941 n/s 6900 tm 281 pv Xc6 Oc7 Xd6 Ob6 Xd5 Od4 Xe4 Of3 Xe3 Oe5 Xf6 Og6 Xg5 Oh4
+MESSAGE depth 1-13 ev 70.9 n 954 n/s 268 tm 3546 pv Oc7 Xd6 Oc6 Xd4 Od5 Xe4 Oe3 Xg5 Og13 Xb9 Oa10 Xh14
+7,2
+INFO time_left 91517
+TURN 6,3
+MESSAGE depth 1-12 ev 20.7 n 1571 n/s 10052 tm 156 pv Xd6 Oc6 Xd4 Od5 Xe4 Oe3 Xg5 Og13 Xa10 Ob9 Xb11
+MESSAGE depth 1-13 ev 77.7 n 1553 n/s 466 tm 3328 pv Oc6 Xd4 Od5 Xc5 Oe3 Xe4 Ob4 Xl10 Og13 Xb9 Oa10 Xf12
+6,2
+INFO time_left 88114
+TURN 11,10
+MESSAGE depth 1-14 ev 20.5 n 3383 n/s 14434 tm 234 pv Xb11 Ob9 Xd4 Od5 Xe4 Oe3 Xk11 Ol11 Xh6 Og13 Xf6 Og6 Xg5
+MESSAGE depth 1-12 ev 81.1 n 869 n/s 263 tm 3296 pv Ol11 Xd4 Od5 Xe4 Oe3 Xg5 Oh4 Xh6 Og13 Xf6 Og6
+11,11
+INFO time_left 84766
+TURN 9,2
+MESSAGE depth 1-15 ev 18.1 n 1673 n/s 5948 tm 281 pv Xb8 Ob7 Xd4 Od5 Xe4 Oe3 Xg5 Oh4 Xh12 Of12 Xg13 Om10 Xl10 Ok8
+MESSAGE depth 1-8 ev 74.1 n 600 n/s 193 tm 3093 pv Od4 Xg5 Of6 Xe4 Oe3 Xf3 Om10
+4,3
+INFO time_left 81596
+TURN 10,1
+MESSAGE depth 1-8 ev 14.9 n 591 n/s 37830 tm 15 pv Xg5 Of6 Xe4 Oe3 Xf3 Oj13 Xk13
+MESSAGE depth 1-12 ev 88.2 n 755 n/s 257 tm 2937 pv Ob11 Xa12 Od8 Xb7 Ob8 Xh12 Of12 Xj13 Og5 Xg6 Oh6
+11,1
+INFO time_left 78353
+TURN 12,0
+MESSAGE depth 1-9 ev 7.3 n 484 n/s 1191 tm 406 pv Xa12 Od8 Xg5 Oe4 Xf4 Oh6 Xb7 Ob8
+MESSAGE depth 1-9 ev 93.5 n 1063 n/s 373 tm 2843 pv Od8 Xg5 Oe4 Xf4 Oh6 Xb7 Ob8 Xj6
+8,3
+INFO time_left 75442
+TURN 7,1
+MESSAGE depth 1-11 ev 5.6 n 2774 n/s 9863 tm 281 pv Xg5 Oe4 Xf4 Oh6 Xj6 Od3 Xc2 Oc3 Xb7 Ob8
+MESSAGE depth 1-9 ev 91.5 n 858 n/s 319 tm 2687 pv Ob8 Xg5 Oj13 Xk13 Oe4 Xc4 Of3 Xg2
+8,1
+INFO time_left 72702
+TURN 10,0
+MESSAGE depth 1-9 ev 8.3 n 1168 n/s 6794 tm 171 pv Xh6 Oj13 Xk13 Og6 Xg5 Oi7 Xm10 Oe4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 171 pv
+9,1
+INFO time_left 72469
+TURN 12,3
+MESSAGE depth 1-9 ev 5.7 n 1108 n/s 3545 tm 312 pv Xg5 Om10 Xk12 Ok10 Xl10 Ok8 Xj7 Om8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 312 pv
+12,2
+INFO time_left 72101
+TURN 11,2
+MESSAGE depth 1-8 ev 6.3 n 1042 n/s 9521 tm 109 pv Xg5 Oj13 Xk13 Ol9 Xm10 Oj6 Xh6
+MESSAGE depth 1-11 ev 95.3 n 493 n/s 188 tm 2609 pv Oa9 Xh12 Of12 Xf14 Oe13 Xg5 Om10 Xk12 Ol9 Xl10
+9,0
+INFO time_left 69433
+TURN 6,9
+MESSAGE depth 1-12 ev 4.2 n 1118 n/s 7155 tm 156 pv Xh12 Of12 Xf14 Oe13 Xg5 Om10 Xk12 Ol9 Xl10 Oj6 Xk8
+MESSAGE depth 1-8 ev 95.5 n 491 n/s 189 tm 2593 pv Oi7 Xi5 Oj13 Xk13 Oh4 Xj5 Og4
+7,8
+INFO time_left 66764
+TURN 4,7
+MESSAGE depth 1-10 ev 4.1 n 769 n/s 2460 tm 312 pv Xi5 Oj13 Xk13 Ok7 Xj7 Oj5 Xh4 Ok10 Xm10
+MESSAGE depth 1-7 ev 94.2 n 465 n/s 182 tm 2546 pv Oj13 Xk13 Oi5 Xg5 Oi3 Xi6
+13,9
+INFO time_left 64171
+TURN 13,10
+MESSAGE depth 1-7 ev 4.3 n 197 n/s 4202 tm 46 pv Xk13 Oi5 Xg5 Oi6 Xi8 Oi3
+MESSAGE depth 1-9 ev 94.0 n 560 n/s 243 tm 2296 pv Oi5 Xg5 Oi6 Xi8 Oi3 Xi4 Oj4 Xh6
+5,8
+INFO time_left 61824
+TURN 14,5
+MESSAGE depth 1-9 ev 12.4 n 233 n/s 2129 tm 109 pv Xg5 Oi6 Xi8 Oi3 Xi4 Oj4 Xh6 Oh5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 109 pv
+13,4
+INFO time_left 61675
+TURN 6,7
+MESSAGE depth 1-7 ev 15.6 n 250 n/s 842 tm 296 pv Xh6 Oi6 Xi8 Oh5 Xj5 Og5
+MESSAGE depth 1-9 ev 83.8 n 509 n/s 215 tm 2359 pv Oi6 Xi8 Oh5 Xj5 Og4 Xg6 Of6 Xh12
+6,8
+INFO time_left 59279
+TURN 7,7
+MESSAGE depth 1-9 ev 16.4 n 236 n/s 2157 tm 109 pv Xi8 Oh5 Xj5 Og4 Xg6 Of6 Xh12 Of12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 109 pv
+5,7
+INFO time_left 59120
+TURN 6,5
+MESSAGE depth 1-10 ev 3.1 n 72 n/s 4609 tm 15 pv Xf6 Og6 Xg5 Oi3 Xi4 Ok10 Xm10 Oj4 Xk5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+6,6
+INFO time_left 59052
+TURN 5,6
+MESSAGE depth 1-8 ev 5.1 n 106 n/s 2261 tm 46 pv Xg5 Oi3 Xi4 Ok10 Xm10 Oj4 Xk5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 46 pv
+3,8
+INFO time_left 58958
+TURN 4,8
+MESSAGE depth 1-7 ev 6.5 n 134 n/s 714 tm 187 pv Xi4 Ok10 Xm10 Ol5 Xj7 Oj4
+MESSAGE depth 1-9 ev 93.0 n 539 n/s 237 tm 2265 pv Ok10 Xm10 Ol5 Xj7 Oj4 Xk5 Oj3 Xk3
+9,11
+INFO time_left 56640
+TURN 10,12
+MESSAGE depth 1-8 ev 3.7 n 514 n/s 1566 tm 328 pv Xm10 Ol7 Xj7 Oj4 Xl8 Ok5 Xl6
+MESSAGE depth 1-8 ev 94.6 n 455 n/s 205 tm 2218 pv Ol7 Xj7 Oj4 Xl8 Ok5 Xl6 Ok3
+7,11
+INFO time_left 54364
+TURN 8,10
+MESSAGE depth 1-9 ev 8.5 n 257 n/s 783 tm 328 pv Xj7 Oj4 Xl8 Ok5 Xl6 Ok3 Xk7 Oj8
+MESSAGE depth 1-7 ev 93.5 n 315 n/s 157 tm 1999 pv Ol8 Xl10 Ok9 Xh12 Of12 Xj9
+8,11
+INFO time_left 52312
+TURN 10,11
+MESSAGE depth 1-7 ev 4.1 n 144 n/s 329 tm 437 pv Xl10 Ok9 Xi9 Om7 Xn6 Ol5
+MESSAGE depth 1-9 ev 95.5 n 403 n/s 199 tm 2015 pv Ok9 Xi9 Om7 Xn6 Ol5 Xl6 Ok6 Xk7
+9,10
+INFO time_left 50260
+TURN 8,8
+MESSAGE depth 1-8 ev 4.6 n 213 n/s 801 tm 265 pv Xi9 Om7 Xn6 Ol5 Xl6 Ok7 Xj7
+MESSAGE depth 1-8 ev 94.1 n 301 n/s 167 tm 1796 pv Om7 Xn6 On9 Xm9 Ol5 Xl6 Ok4
+7,12
+INFO time_left 48409
+TURN 6,13
+MESSAGE depth 1-7 ev 8.3 n 156 n/s 332 tm 468 pv Xn6 On9 Xm9 Ol5 Xl6 Ok7
+MESSAGE depth 1-8 ev 91.0 n 358 n/s 199 tm 1796 pv Ok7 Xj7 Oj9 Xi9 Ol5 Xl6 Om6
+8,12
+INFO time_left 46427
+TURN 9,12
+MESSAGE depth 1-7 ev 8.2 n 191 n/s 643 tm 296 pv Xm9 Ok7 Xj7 Ol5 Xl6 Oj5
+MESSAGE depth 1-8 ev 84.8 n 303 n/s 186 tm 1624 pv Ok7 Xj7 Ol5 Xl6 Oj5 Xk5 Ok4
+5,11
+INFO time_left 44739
+TURN 6,11
+MESSAGE depth 1-8 ev 17.6 n 105 n/s 292 tm 359 pv Xl6 Ok7 Xj7 Oj5 Xk5 Ok4 Xo7
+MESSAGE depth 1-5 ev 81.9 n 240 n/s 172 tm 1390 pv Om6 Xj5 Ok7 Xj7
+6,12
+INFO time_left 43310
+TURN 5,9
+MESSAGE depth 1-8 ev 26.3 n 178 n/s 759 tm 234 pv Xj5 Oj7 Xk7 Ok4 Xj3 On7 Xo8
+MESSAGE depth 1-8 ev 60.5 n 342 n/s 221 tm 1546 pv Ok4 Xn7 Oj7 Xk7 On8 Xj3 Oe4
+4,10
+INFO time_left 41701
+TURN 3,9
+MESSAGE depth 1-8 ev 43.5 n 144 n/s 837 tm 171 pv Xn7 Oj7 Xk7 Oi9 Xj9 Oj3 Xi2
+MESSAGE depth 1-10 ev 56.2 n 267 n/s 176 tm 1515 pv On7 Xo8 Oj4 Xo7 On8 Xo6 Oo9 Xe3 Oe4
+7,13
+INFO time_left 40125
+TURN 8,14
+MESSAGE depth 1-9 ev 45.7 n 206 n/s 356 tm 578 pv Xo8 Oj4 Xo7 On8 Xo6 Oo9 Xe4 Oe3
+MESSAGE depth 1-8 ev 53.6 n 263 n/s 213 tm 1234 pv Oj4 Xo7 On8 Xo6 Oo9 Xe4 Oe3
+4,9
+INFO time_left 38837
+TURN 7,14
+MESSAGE depth 1-8 ev 44.4 n 261 n/s 1193 tm 218 pv Xo7 On8 Xo6 Oo9 Xe4 Oe3 Xg1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+8,13
+INFO time_left 38579
+TURN 6,14
+MESSAGE depth 1-7 ev 49.4 n 319 n/s 5104 tm 62 pv Xo6 Oo9 Xe3 Oe4 Xc4 Od3
+MESSAGE depth 1-7 ev 49.8 n 299 n/s 236 tm 1265 pv Oo9 Xe3 Oe4 Xc4 Od3 Xc2
+9,14
+INFO time_left 37270
+TURN 5,14
+MESSAGE depth 1-8 ev 53.2 n 329 n/s 1504 tm 218 pv Xe3 Oe4 Xc4 Od3 Xc2 Od2 Xd1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+4,14
+INFO time_left 37014
+TURN 9,9
+MESSAGE depth 1-6 ev 56.9 n 139 n/s 8897 tm 15 pv Xe3 Oe4 Xd3 Of3 Xg4
+MESSAGE depth 1-5 ev 42.6 n 211 n/s 173 tm 1218 pv Oj7 Xe4 Of4 Xf3
+7,9
+INFO time_left 35734
+TURN 7,10
+MESSAGE depth 1-6 ev 50.8 n 149 n/s 953 tm 156 pv Xe4 Oe3 Xg1 Og4 Xf3
+MESSAGE depth 1-6 ev 41.3 n 216 n/s 168 tm 1281 pv Oi9 Xf3 Og2 Xe3 Oe4
+9,8
+INFO time_left 34396
+TURN 2,6
+MESSAGE depth 1-5 ev 53.1 n 164 n/s 656 tm 249 pv Xf3 Oe4 Xd3 Oe3
+MESSAGE depth 1-6 ev 52.5 n 161 n/s 145 tm 1109 pv Oh3 Xe3 Oe4 Xg4 Od2
+3,7
+INFO time_left 33244
+TURN 4,4
+MESSAGE depth 1-6 ev 52.0 n 147 n/s 3135 tm 46 pv Xe3 Oe4 Xd3 Oc4 Xf4
+MESSAGE depth 1-9 ev 51.2 n 184 n/s 189 tm 968 pv Oe3 Xf3 Oh1 Xg1 Og4 Xm5 On4 Xk3
+3,4
+INFO time_left 32217
+TURN 4,6
+MESSAGE depth 1-9 ev 43.8 n 152 n/s 884 tm 171 pv Xf3 Oh1 Xg1 Og4 Xm5 On4 Xk3 Ol4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 171 pv
+4,5
+INFO time_left 31985
+TURN 5,12
+MESSAGE depth 1-8 ev 45.1 n 87 n/s 927 tm 93 pv Xg1 Og3 Xf3 Oh1 Xm5 On4 Xb3
+MESSAGE depth 1-10 ev 47.2 n 163 n/s 179 tm 906 pv On4 Xf3 Oh1 Xg1 Og3 Xb3 Ok3 Xk2 Oc4
+4,13
+INFO time_left 31003
+TURN 1,6
+MESSAGE depth 1-8 ev 49.1 n 189 n/s 1007 tm 187 pv Xf3 Oh1 Xg1 Og3 Xe2 Ok3 Xk2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 187 pv
+3,6
+INFO time_left 30768
+TURN 3,5
+MESSAGE depth 1-7 ev 54.4 n 82 n/s 524 tm 156 pv Xf3 Oh1 Xb3 Ok3 Xk2 Oc4
+MESSAGE depth 1-7 ev 48.1 n 253 n/s 245 tm 1031 pv Oh1 Xb3 Ok3 Xk2 Ob5 Xl1
+1,7
+INFO time_left 29667
+TURN 2,10
+MESSAGE depth 1-6 ev 50.5 n 263 n/s 673 tm 390 pv Xb3 Ok3 Xk2 Ob5 Xl1
+MESSAGE depth 1-4 ev 49.4 n 98 n/s 108 tm 906 pv Ok3 Xe2 Oc4
+3,10
+INFO time_left 28708
+TURN 2,11
+MESSAGE depth 1-4 ev 50.1 n 133 n/s 851 tm 156 pv Xe2 Oh2 Xi1
+MESSAGE depth 1-5 ev 49.6 n 188 n/s 176 tm 1062 pv Oh12 Xj14 Oi1 Xh2
+12,7
+INFO time_left 27581
+TURN 14,9
+MESSAGE depth 1-5 ev 50.2 n 58 n/s 337 tm 171 pv Xj14 Om4 Xn2 Om2
+MESSAGE depth 1-4 ev 49.5 n 185 n/s 227 tm 812 pv Om4 Xn2 Om2
+4,12
+INFO time_left 26733
+TURN 12,10
+MESSAGE depth 1-6 ev 50.8 n 149 n/s 501 tm 296 pv Xm2 On2 Xn3 Oi1 Xh2
+MESSAGE depth 1-5 ev 39.4 n 127 n/s 140 tm 906 pv Ok14 Xl1 Om0 Xk6
+14,10
+INFO time_left 25767
+TURN 4,2
+MESSAGE depth 1-4 ev 50.1 n 142 n/s 826 tm 171 pv Xe2 Od2 Xc4
+MESSAGE depth 1-4 ev 50.1 n 110 n/s 156 tm 703 pv Ob3 Xl13 Oi10
+3,1
+INFO time_left 25002
+TURN 2,4
+MESSAGE depth 1-4 ev 50.1 n 126 n/s 537 tm 234 pv Xe2 Oh2 Xi1
+MESSAGE depth 1-5 ev 50.2 n 85 n/s 136 tm 624 pv Od3 Xd2 Of2 Xc3
+10,13
+INFO time_left 24335
+TURN 6,10
+MESSAGE depth 1-5 ev 27.1 n 70 n/s 1493 tm 46 pv Xd1 Oc0 Xk6 Od3
+MESSAGE depth 1-6 ev 49.2 n 154 n/s 193 tm 796 pv Od3 Xd1 Oc0 Xm2 Oj2
+3,3
+INFO time_left 23469
+TURN 2,3
+MESSAGE depth 1-5 ev 50.2 n 67 n/s 714 tm 93 pv Xd1 Oc0 Xh2 Of2
+MESSAGE depth 1-5 ev 45.6 n 99 n/s 171 tm 578 pv Of2 Xc3 Oc1 Xb4
+2,5
+INFO time_left 22840
+TURN 10,8
+MESSAGE depth 1-5 ev 50.2 n 138 n/s 490 tm 281 pv Xc3 Oe1 Xc2 Oc1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 281 pv
+11,7
+INFO time_left 22504
+TURN 3,2
+MESSAGE depth 1-5 ev 50.1 n 77 n/s 547 tm 140 pv Xc3 Oe1 Xc2 Oc1
+MESSAGE depth 1-5 ev 45.5 n 137 n/s 168 tm 812 pv Oe1 Xc2 Oc1 Xm2
+1,4
+INFO time_left 21657
+TURN 14,6
+MESSAGE depth 1-5 ev 50.9 n 125 n/s 400 tm 312 pv Xc2 Oc1 Xm2 On2
+MESSAGE depth 1-4 ev 49.7 n 35 n/s 67 tm 515 pv Oh14 Xc2 Oc1
+14,7
+INFO time_left 21071
+TURN 1,11
+MESSAGE depth 1-5 ev 50.0 n 67 n/s 1069 tm 62 pv Xc2 Oc1 Xn2 Om2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+0,12
+INFO time_left 20953
+TURN 0,7
+MESSAGE depth 1-4 ev 50.0 n 63 n/s 575 tm 109 pv Xm2 On2 Xc2
+MESSAGE depth 1-5 ev 49.8 n 125 n/s 170 tm 734 pv On11 Xn9 Oi1 Xh2
+11,13
+INFO time_left 20154
+TURN 9,13
+MESSAGE depth 1-5 ev 50.0 n 44 n/s 312 tm 140 pv Xn9 Oi1 Xh2 Oc0
+MESSAGE depth 1-4 ev 49.8 n 142 n/s 221 tm 640 pv Oc2 Xm2 On2
+2,2
+INFO time_left 19461
+TURN 0,9
+MESSAGE depth 1-5 ev 49.9 n 106 n/s 565 tm 187 pv Xd1 Oc0 Xn2 Om2
+MESSAGE depth 1-4 ev 49.7 n 61 n/s 125 tm 484 pv Og13 Xf12 Od1
+13,6
+INFO time_left 18894
+TURN 12,5
+MESSAGE depth 1-4 ev 50.1 n 32 n/s 256 tm 124 pv Xf12 Oi0 Xd1
+MESSAGE depth 1-4 ev 49.4 n 95 n/s 202 tm 468 pv Oi0 Xm2 On2
+0,8
+INFO time_left 18374
+TURN 4,0
+MESSAGE depth 1-5 ev 50.0 n 68 n/s 725 tm 93 pv Xl13 Om14 Xn2 Om2
+MESSAGE depth 1-4 ev 49.8 n 95 n/s 164 tm 578 pv Om2 Xl13 Om14
+2,12
+INFO time_left 17738
+TURN 3,0
+MESSAGE depth 1-4 ev 50.0 n 35 n/s 746 tm 46 pv Xm3 Oh2 Xl13
+MESSAGE depth 1-4 ev 49.5 n 62 n/s 180 tm 343 pv On1 Xm3 Oa5
+1,13
+INFO time_left 17337
+TURN 3,11
+MESSAGE depth 1-4 ev 31.7 n 41 n/s 327 tm 125 pv Xm3 On2 Xn3
+MESSAGE depth 1-4 ev 49.8 n 38 n/s 121 tm 312 pv On2 Xn3 Ol4
+2,13
+INFO time_left 16953
+TURN 4,11
+MESSAGE depth 1-5 ev 47.3 n 95 n/s 759 tm 125 pv Xn3 Oa5 Xl13 Om14
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 125 pv
+0,11
+INFO time_left 16789
+TURN 3,13
+MESSAGE depth 1-4 ev 43.8 n 53 n/s 308 tm 171 pv Xn3 Om1 Xm3
+MESSAGE depth 1-4 ev 49.5 n 69 n/s 192 tm 359 pv Oa5 Xl13 Om14
+5,0
+INFO time_left 16360
+TURN 1,0
+MESSAGE depth 1-5 ev 50.0 n 69 n/s 4416 tm 15 pv Xc5 Ob4 Xm14 Ol13
+MESSAGE depth 1-4 ev 49.8 n 61 n/s 185 tm 328 pv Om3 Xm1 Oa2
+3,12
+INFO time_left 15967
+TURN 1,12
+MESSAGE depth 1-4 ev 50.0 n 32 n/s 204 tm 156 pv Xm1 Oh2 Xa0
+MESSAGE depth 1-4 ev 49.8 n 95 n/s 93 tm 1015 pv On0 Xa0 Oa2
+0,13
+INFO time_left 14900
+TURN 12,12
+MESSAGE depth 1-5 ev 49.9 n 132 n/s 402 tm 328 pv Xa0 Oa2 Xm14 Ol13
+MESSAGE depth 1-4 ev 49.9 n 34 n/s 50 tm 671 pv Oo0 Xk0 Oa2
+0,14
+INFO time_left 14170
+TURN 0,10
+MESSAGE depth 1-4 ev 50.0 n 32 n/s 170 tm 187 pv Xk0 Oh2 Xa0
+MESSAGE depth 1-4 ev 49.8 n 95 n/s 168 tm 562 pv Ob4 Xa0 Oa2
+4,1
+INFO time_left 13556
+TURN 14,4
+MESSAGE depth 1-5 ev 50.0 n 131 n/s 931 tm 140 pv Xm13 Om11 Xn13 Ol13
+MESSAGE depth 1-4 ev 49.9 n 45 n/s 115 tm 390 pv Ob2 Xb1 Oa2
+2,1
+INFO time_left 12890
+TURN 0,1
+MESSAGE depth 1-5 ev 47.7 n 73 n/s 667 tm 109 pv Xb1 Oa2 Xm13 Om11
+MESSAGE depth 1-4 ev 49.9 n 39 n/s 124 tm 312 pv Ob1 Xb5 Oa2
+1,1
+INFO time_left 12515
+TURN 5,1
+MESSAGE depth 1-5 ev 50.2 n 160 n/s 682 tm 234 pv Xb5 Oa2 Xn13 Om13
+MESSAGE depth 1-4 ev 49.7 n 223 n/s 365 tm 609 pv Oa2 Xn13 Om13
+2,0
+INFO time_left 11352
+TURN 12,13
+MESSAGE depth 1-5 ev 50.0 n 147 n/s 495 tm 296 pv Xm13 Om11 Xn13 Ol13
+MESSAGE depth 1-4 ev 49.9 n 56 n/s 94 tm 593 pv Om13 Xc14 Od14
+13,12
+INFO time_left 10710
+TURN 1,8
+MESSAGE depth 1-5 ev 50.0 n 137 n/s 515 tm 265 pv Xm14 Ol13 Xo12 Ol12
+MESSAGE depth 1-4 ev 49.9 n 43 n/s 61 tm 703 pv Oo12 Xd14 Oc14
+12,14
+INFO time_left 9945
+TURN 8,9
+MESSAGE depth 1-5 ev 50.0 n 69 n/s 401 tm 171 pv Xl13 Om14 Xc14 Od14
+MESSAGE depth 1-4 ev 49.9 n 36 n/s 104 tm 343 pv Od1 Xm14 Ol13
+1,3
+INFO time_left 9535
+TURN 0,3
+MESSAGE depth 1-5 ev 50.0 n 72 n/s 460 tm 156 pv Xm14 Ol13 Xc14 Od14
+MESSAGE depth 1-3 ev 49.9 n 31 n/s 38 tm 796 pv Oc1 Xf1
+1,2
+INFO time_left 8664
+TURN 1,5
+MESSAGE depth 1-4 ev 50.0 n 32 n/s 292 tm 109 pv Xf1 Oc0 Xm14
+MESSAGE depth 1-4 ev 49.6 n 95 n/s 217 tm 437 pv Oe0 Xk1 Oj1
+0,4
+INFO time_left 8188
+TURN 5,10
+MESSAGE depth 1-5 ev 50.0 n 67 n/s 1071 tm 62 pv Xm14 Ol13 Xc14 Od14
+MESSAGE depth 1-4 ev 49.9 n 36 n/s 153 tm 234 pv Od14 Xk1 Oj1
+14,3
+INFO time_left 7901
+TURN 5,4
+MESSAGE depth 1-5 ev 50.0 n 100 n/s 399 tm 250 pv Xm14 Ol13 Xj1 Ok1
+MESSAGE depth 1-4 ev 49.9 n 41 n/s 93 tm 437 pv Oj1 Xm14 Ol13
+1,9
+INFO time_left 7385
+TURN 10,10
+MESSAGE depth 1-5 ev 50.0 n 100 n/s 533 tm 187 pv Xl13 Om14 Xi14 Oo2
+MESSAGE depth 1-4 ev 49.9 n 41 n/s 67 tm 609 pv Ol13 Xi14 Oo1
+13,11
+INFO time_left 6739
+TURN 5,3
+MESSAGE depth 1-4 ev 50.0 n 52 n/s 1108 tm 46 pv Xo1 Oa7 Xa6
+MESSAGE depth 1-3 ev 49.9 n 31 n/s 180 tm 171 pv Og0 Xh2
+0,6
+INFO time_left 6493
+TURN 2,7
+MESSAGE depth 1-4 ev 50.0 n 95 n/s 337 tm 281 pv Xo2 Oo10 Xo11
+MESSAGE depth 1-4 ev 49.9 n 45 n/s 73 tm 609 pv Oa6 Xj2 Oa8
+6,0
+INFO time_left 5832
+TURN 2,8
+MESSAGE depth 1-4 ev 49.9 n 116 n/s 353 tm 328 pv Xa8 Oo1 Xo2
+MESSAGE depth 1-4 ev 49.9 n 33 n/s 70 tm 468 pv Oa8 Xa7 Oo1
+8,0
+INFO time_left 5310
+TURN 7,0
+MESSAGE depth 1-4 ev 50.0 n 30 n/s 239 tm 125 pv Xa7 Oo3 Xo2
+MESSAGE depth 1-4 ev 50.0 n 93 n/s 205 tm 453 pv Oo3 Xo1 Oo11
+3,14
+INFO time_left 4722
+TURN 2,9
+MESSAGE depth 1-4 ev 49.9 n 105 n/s 516 tm 203 pv Xo2 On5 Xj2
+MESSAGE depth 1-4 ev 50.0 n 36 n/s 109 tm 328 pv Oo1 Xo2 Oo11
+1,14
+INFO timeout_turn 900000
+INFO timeout_match 900000
+INFO time_left 899459
+TAKEBACK 1,14
+OK
+TAKEBACK 2,9
+MESSAGE depth 1-6 ev 49.9 n 5044 n/s 18987 tm 265 pv Xo2 Of0 Xk1 Oo11 Xo10
+OK
+TAKEBACK 3,14
+OK
+TAKEBACK 7,0
+OK
+TAKEBACK 8,0
+OK
+TAKEBACK 2,8
+OK
+TAKEBACK 6,0
+OK
+TAKEBACK 2,7
+OK
+TAKEBACK 0,6
+OK
+TAKEBACK 5,3
+OK
+TAKEBACK 13,11
+OK
+TAKEBACK 10,10
+OK
+TAKEBACK 1,9
+OK
+TAKEBACK 5,4
+OK
+TAKEBACK 14,3
+OK
+TAKEBACK 5,10
+OK
+TAKEBACK 0,4
+OK
+TAKEBACK 1,5
+OK
+TAKEBACK 1,2
+OK
+TAKEBACK 0,3
+OK
+TAKEBACK 1,3
+OK
+TAKEBACK 8,9
+OK
+TAKEBACK 12,14
+OK
+TAKEBACK 1,8
+OK
+TAKEBACK 13,12
+OK
+TAKEBACK 12,13
+OK
+TAKEBACK 2,0
+OK
+TAKEBACK 5,1
+OK
+TAKEBACK 1,1
+OK
+TAKEBACK 0,1
+OK
+TAKEBACK 2,1
+OK
+TAKEBACK 14,4
+OK
+TAKEBACK 4,1
+OK
+TAKEBACK 0,10
+OK
+TAKEBACK 0,14
+OK
+TAKEBACK 12,12
+OK
+TAKEBACK 0,13
+OK
+TAKEBACK 1,12
+OK
+TAKEBACK 3,12
+OK
+TAKEBACK 1,0
+OK
+TAKEBACK 5,0
+OK
+TAKEBACK 3,13
+OK
+TAKEBACK 0,11
+OK
+TAKEBACK 4,11
+OK
+TAKEBACK 2,13
+OK
+TAKEBACK 3,11
+OK
+TAKEBACK 1,13
+OK
+TAKEBACK 3,0
+OK
+TAKEBACK 2,12
+OK
+TAKEBACK 4,0
+OK
+TAKEBACK 0,8
+OK
+TAKEBACK 12,5
+OK
+TAKEBACK 13,6
+OK
+TAKEBACK 0,9
+OK
+TAKEBACK 2,2
+OK
+TAKEBACK 9,13
+OK
+TAKEBACK 11,13
+OK
+TAKEBACK 0,7
+OK
+TAKEBACK 0,12
+OK
+TAKEBACK 1,11
+OK
+TAKEBACK 14,7
+OK
+TAKEBACK 14,6
+OK
+TAKEBACK 1,4
+OK
+TAKEBACK 3,2
+OK
+TAKEBACK 11,7
+OK
+TAKEBACK 10,8
+OK
+TAKEBACK 2,5
+OK
+TAKEBACK 2,3
+OK
+TAKEBACK 3,3
+OK
+TAKEBACK 6,10
+OK
+TAKEBACK 10,13
+OK
+TAKEBACK 2,4
+OK
+TAKEBACK 3,1
+OK
+TAKEBACK 4,2
+OK
+TAKEBACK 14,10
+OK
+TAKEBACK 12,10
+OK
+TAKEBACK 4,12
+OK
+TAKEBACK 14,9
+OK
+TAKEBACK 12,7
+OK
+TAKEBACK 2,11
+OK
+TAKEBACK 3,10
+OK
+TAKEBACK 2,10
+OK
+TAKEBACK 1,7
+OK
+TAKEBACK 3,5
+OK
+TAKEBACK 3,6
+OK
+TAKEBACK 1,6
+OK
+TAKEBACK 4,13
+OK
+TAKEBACK 5,12
+OK
+TAKEBACK 4,5
+OK
+TAKEBACK 4,6
+OK
+TAKEBACK 3,4
+OK
+TAKEBACK 4,4
+OK
+TAKEBACK 3,7
+OK
+TAKEBACK 2,6
+OK
+TAKEBACK 9,8
+OK
+TAKEBACK 7,10
+OK
+TAKEBACK 7,9
+OK
+TAKEBACK 9,9
+OK
+TAKEBACK 4,14
+OK
+TAKEBACK 5,14
+OK
+TAKEBACK 9,14
+OK
+TAKEBACK 6,14
+OK
+TAKEBACK 8,13
+OK
+TAKEBACK 7,14
+OK
+TAKEBACK 4,9
+OK
+TAKEBACK 8,14
+OK
+TAKEBACK 7,13
+OK
+TAKEBACK 3,9
+OK
+TAKEBACK 4,10
+OK
+TAKEBACK 5,9
+OK
+TAKEBACK 6,12
+OK
+TAKEBACK 6,11
+OK
+TAKEBACK 5,11
+OK
+TAKEBACK 9,12
+OK
+TAKEBACK 8,12
+OK
+TAKEBACK 6,13
+OK
+TAKEBACK 7,12
+OK
+TAKEBACK 8,8
+OK
+TAKEBACK 9,10
+OK
+TAKEBACK 10,11
+OK
+TAKEBACK 8,11
+OK
+TAKEBACK 8,10
+OK
+TAKEBACK 7,11
+OK
+TAKEBACK 10,12
+OK
+TAKEBACK 9,11
+OK
+TAKEBACK 4,8
+OK
+TAKEBACK 3,8
+OK
+TAKEBACK 5,6
+OK
+TAKEBACK 6,6
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 5,7
+OK
+TAKEBACK 7,7
+OK
+TAKEBACK 6,8
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 13,4
+OK
+TAKEBACK 14,5
+OK
+TAKEBACK 5,8
+OK
+TAKEBACK 13,10
+OK
+TAKEBACK 13,9
+OK
+TAKEBACK 4,7
+OK
+TAKEBACK 7,8
+OK
+TAKEBACK 6,9
+OK
+TAKEBACK 9,0
+OK
+TAKEBACK 11,2
+OK
+TAKEBACK 12,2
+OK
+TAKEBACK 12,3
+OK
+TAKEBACK 9,1
+OK
+TAKEBACK 10,0
+OK
+TAKEBACK 8,1
+OK
+TAKEBACK 7,1
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 12,0
+OK
+TAKEBACK 11,1
+OK
+TAKEBACK 10,1
+OK
+TAKEBACK 4,3
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 11,11
+OK
+TAKEBACK 11,10
+OK
+TAKEBACK 6,2
+OK
+TAKEBACK 6,3
+OK
+TAKEBACK 7,2
+OK
+TAKEBACK 6,1
+OK
+TAKEBACK 5,5
+OK
+TAKEBACK 6,4
+OK
+TAKEBACK 7,6
+OK
+TAKEBACK 7,3
+OK
+TAKEBACK 13,8
+OK
+TAKEBACK 11,9
+OK
+TAKEBACK 10,9
+OK
+TAKEBACK 8,7
+OK
+TAKEBACK 8,5
+OK
+TAKEBACK 7,4
+OK
+TAKEBACK 12,9
+OK
+TAKEBACK 11,8
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 8,2
+OK
+TAKEBACK 11,6
+OK
+TAKEBACK 10,7
+OK
+TAKEBACK 13,7
+OK
+TAKEBACK 12,6
+OK
+TAKEBACK 8,6
+OK
+TAKEBACK 9,6
+OK
+TAKEBACK 9,7
+OK
+TAKEBACK 7,5
+OK
+TAKEBACK 13,3
+OK
+TAKEBACK 10,6
+OK
+TAKEBACK 11,4
+OK
+TAKEBACK 11,5
+OK
+TAKEBACK 9,5
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 12,4
+OK
+TAKEBACK 10,3
+OK
+TAKEBACK 11,3
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 10,5
+OK
+TAKEBACK 12,1
+OK
+INFO time_left 899459
+TURN 12,1
+MESSAGE depth 1-26 ev 40.4 n 9896 n/s 276 tm 35795 pv Oe9 Xc10 Of10 Xe12 Oc12 Xd11 Ob9 Xd9 Od8 Xg11 Of11 Xf12 Ob8 Xc7 Ob7 Xb10 Oe8 Xc8 Oc6 Xb5 Oe13 Xg12 Oh12 Xg10 Og13
+9,4
+INFO time_left 863288
+TURN 10,5
+MESSAGE depth 1-22 ev 59.2 n 9888 n/s 632889 tm 15 pv Xc10 Of10 Xe12 Oc12 Xd11 Ob9 Xd9 Oe8 Xd10 Od12 Xf13 Og14 Xe13 Od13 Xe10 Oe11 Xc8 Of11 Xc7 Oh8 Xg9
+MESSAGE depth 1-25 ev 48.3 n 7663 n/s 224 tm 34155 pv Og10 Xf9 Oe11 Xe10 Od11 Xf11 Of12 Xf7 Of8 Xd10 Og12 Xg8 Oh12 Xi12 Oc10 Xe12 Oh7 Xe6 Od5 Xg6 Oh5 Xh6 Of6 Xg5
+10,6
+INFO time_left 829083
+TURN 11,3
+MESSAGE depth 1-29 ev 55.4 n 10633 n/s 61858 tm 171 pv Xd11 Oe11 Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xi10 Oj9 Xj7 Ok7 Xi9 Of7
+MESSAGE depth 1-32 ev 39.2 n 12544 n/s 382 tm 32811 pv Oe11 Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xi10 Oj9 Xj7 Ok7 Xi9 Of7 Xf5 Oe5 Xi6 Oi8
+11,4
+INFO time_left 796187
+TURN 10,2
+MESSAGE depth 1-31 ev 60.2 n 11204 n/s 44816 tm 249 pv Xc10 Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Og6 Xg7 Og12 Xf12 Oi11 Xh11 Oh10 Xg9 Oj10 Xk9 Oj8 Xi10 Oj9 Xj7 Ok7 Xi9 Of7 Xf5 Oe5 Xi6 Oi8
+MESSAGE depth 1-34 ev 36.5 n 21225 n/s 672 tm 31545 pv Oe12 Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xh10 Og9 Xg7 Oe5 Xh11 Oh8 Xi10 Oj9 Xi12 Oh12 Xi11 Oi13 Xj11 Ok11 Xk10 Ol9
+12,4
+INFO time_left 764573
+TURN 10,4
+MESSAGE depth 1-29 ev 63.6 n 19862 n/s 55246 tm 359 pv Xe10 Of9 Xd9 Od10 Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xj9 Oh11 Xi11 Oi9 Xj10 Oj8 Xk7 Ob8 Xc9 Ob9 Xb10 Oc7
+MESSAGE depth 1-28 ev 35.4 n 26254 n/s 864 tm 30374 pv Of9 Xd9 Od10 Xe8 Ob11 Xh9 Og6 Xc8 Ob7 Xe7 Ob8 Xc9 Oc7 Xg7 Od8 Xb6 Og12 Xg11 Oh7 Xf5 Oe6 Xd6 Oi6 Xc5 Of8 Xd4 Oe3
+9,5
+INFO time_left 734147
+TURN 9,3
+MESSAGE depth 1-28 ev 65.4 n 21435 n/s 152409 tm 140 pv Xd9 Od10 Xe8 Ob11 Xh9 Og6 Xc8 Ob7 Xe7 Od8 Xg7 Of7 Xh8 Ob8 Xc9 Oc7 Xb6 Of6 Xd6 Of5 Xf8 Og9 Xe4 Oe6 Xi6 Og12 Xg11
+MESSAGE depth 1-30 ev 33.6 n 29175 n/s 999 tm 29202 pv Od10 Xe8 Ob11 Xh9 Og6 Xc8 Ob7 Xe7 Od8 Xg7 Of7 Xh8 Ob8 Xc9 Oc7 Xb6 Og12 Xg9 Of12 Xh12 Og13 Xh14 Og11 Xg14 Oh11 Xi11 Oh10 Xe13 Oj9
+10,3
+INFO time_left 704890
+TURN 8,4
+MESSAGE depth 1-29 ev 65.5 n 31278 n/s 105360 tm 296 pv Xe8 Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xj9 Oh11 Xi9 Ok9 Xi11 Oi12 Xj13 Ob8 Xc9 Oc7 Xb6 Od5 Xj10 Oe6 Xc4 Ob9
+MESSAGE depth 1-30 ev 35.4 n 48093 n/s 1715 tm 28030 pv Ob11 Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xg12 Of11 Xj9 Oh11 Xi9 Ok9 Xi11 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oi12 Xj13 Od5 Xc6 Oe5
+11,1
+INFO time_left 676793
+TURN 9,7
+MESSAGE depth 1-27 ev 64.3 n 55681 n/s 593930 tm 93 pv Xh9 Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xg12 Of11 Xj9 Oh11 Xi9 Ok9 Xi11 Oi12 Xj13 Ob8 Xc9 Oc7 Xb6 Od5 Xj10 Oe6 Xc4 Oe4
+MESSAGE depth 1-28 ev 33.6 n 53448 n/s 1999 tm 26733 pv Of7 Xf8 Og8 Xc8 Ob7 Xe7 Od8 Xg12 Of11 Xj9 Oh11 Xi9 Ok9 Xi11 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oi12 Xj13 Od5 Xc6 Oe5
+7,5
+INFO time_left 650021
+TURN 8,5
+MESSAGE depth 1-25 ev 65.9 n 43338 n/s 2773843 tm 15 pv Xf8 Og8 Xc8 Ob7 Xg12 Of11 Xe7 Od8 Xj9 Oh11 Xi9 Ok9 Xi11 Oi12 Xj13 Ob8 Xc9 Oc7 Xb6 Od5 Xj10 Oe6 Xc4 Oe4
+MESSAGE depth 1-26 ev 33.7 n 44245 n/s 1722 tm 25686 pv Og8 Xc8 Ob7 Xe7 Od8 Xg12 Of11 Xj9 Oh11 Xi9 Ok9 Xi11 Ob8 Xc9 Ob9 Xb10 Ob6 Xb5 Oc7 Xa5 Oi12 Xj13 Od5 Xc6 Oe5
+8,6
+INFO time_left 624277
+TURN 8,2
+MESSAGE depth 1-33 ev 66.3 n 48457 n/s 147671 tm 328 pv Xf6 Oc8 Xg7 Og12 Xf12 Oi11 Xg11 Oi9 Xi10 Oh6 Xd6 Oe5 Xd5 Od7 Xf3 Oe4 Xe3 Od3 Xf5 Of2 Xj5 Oh4 Xg4 Oi5 Xg3 Oh3 Xh5 Oi6 Xi7 Oj6 Xk6 Ol7
+MESSAGE depth 1-29 ev 36.9 n 43285 n/s 1750 tm 24733 pv Ob7 Xe7 Od8 Xg12 Of11 Xd6 Oc5 Xh10 Og9 Xg7 Oe5 Xd5 Ob6 Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3 Xf5 Od4 Xe3
+7,1
+INFO time_left 599470
+TURN 7,4
+MESSAGE depth 1-29 ev 62.7 n 45888 n/s 183556 tm 249 pv Xe7 Od8 Xg12 Of11 Xd6 Oc5 Xh10 Og9 Xg7 Oe5 Xd5 Ob6 Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3 Xf5 Oc9 Xf12 Oj6
+MESSAGE depth 1-27 ev 36.9 n 30411 n/s 1276 tm 23827 pv Od8 Xg12 Of11 Xd6 Oc5 Xh10 Og9 Xg7 Oe5 Xd5 Ob6 Xb5 Oh11 Xh6 Oi5 Xg4 Oh7 Xi6 Of3 Xj6 Og6 Xf5 Ok6 Xj8 Oi9 Xi11
+8,3
+INFO time_left 575586
+TURN 12,5
+MESSAGE depth 1-29 ev 61.7 n 50080 n/s 178067 tm 281 pv Xd6 Oc5 Xg12 Of11 Xh10 Og9 Xg7 Oe5 Xd5 Ob6 Xb5 Oh11 Xh6 Oi11 Xg11 Oi9 Xi12 Oi5 Xg4 Oh7 Xi6 Of3 Xf5 Oc9 Xf12 Oa7 Xb8 Oj6
+MESSAGE depth 1-20 ev 50.2 n 5093 n/s 225 tm 22624 pv Oh10 Xg6 Od6 Xd5 Oi11 Xf5 Oe4 Xg5 Oe5 Xg4 Og3 Xe6 Od7 Xc7 Oc9 Xh6 Oi6 Xj5 Oh5
+10,7
+INFO time_left 552909
+TURN 5,4
+MESSAGE depth 1-17 ev 48.5 n 10609 n/s 226357 tm 46 pv Xf5 Oe6 Xd5 Oe5 Xf4 Od4 Xf6 Of3 Xi5 Oe3 Xc5 Og9 Xg7 Oj4 Xi6 Oi4
+MESSAGE depth 1-20 ev 50.1 n 6631 n/s 302 tm 21952 pv Od6 Xc6 Oe4 Xf5 Od5 Xc4 Oc5 Xg4 Oh3 Xi5 Oh5 Xh4 Oi4 Xj5 Oj6 Xg6 Og7 Xj10 Ok8
+6,3
+INFO time_left 530922
+TURN 5,5
+MESSAGE depth 1-27 ev 48.1 n 15131 n/s 56929 tm 265 pv Xe4 Oe6 Xd4 Og6 Xf6 Og7 Xg9 Oi6 Xg4 Of4 Xh7 Oh5 Xj6 Ok8 Xi7 Oh8 Xj8 Ok9 Xk10 Ol7 Xj9 Oj5 Xk6 Ol5 Xk5 Oj3
+MESSAGE depth 1-20 ev 50.1 n 7786 n/s 371 tm 20968 pv Oe4 Xc6 Od5 Xc4 Oc5 Xg4 Oh3 Xg3 Og2 Xi4 Oi5 Xf3 Oe2 Xd7 Oe6 Xj4 Oh4 Xh2 Of4
+4,4
+INFO time_left 509860
+TURN 6,2
+MESSAGE depth 1-18 ev 45.5 n 9117 n/s 116683 tm 78 pv Xc6 Od5 Xc4 Oc5 Xg4 Oi11 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xg2 Og5 Xh3 Of2 Xd4
+MESSAGE depth 1-22 ev 56.3 n 9144 n/s 455 tm 20093 pv Od5 Xc4 Oc5 Xg4 Oi11 Xj10 Oj12 Xk13 Ok11 Xd7 Oe6 Xe2 Od3 Xf3 Oh5 Xf2 Of4 Xd2 Og2 Xc3 Ob2
+5,3
+INFO time_left 489692
+TURN 4,2
+MESSAGE depth 1-19 ev 39.5 n 11686 n/s 373997 tm 31 pv Xc4 Oc5 Xg4 Oi11 Xj10 Oj12 Xk13 Ok11 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xh6 Oi5 Xh3 Og2
+MESSAGE depth 1-22 ev 60.4 n 11161 n/s 576 tm 19343 pv Oc5 Xg4 Oi11 Xj10 Oj12 Xg9 Oi12 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xh6 Oh7 Xi5 Og5 Xb5 Oa4 Xi6 Od4
+5,2
+INFO time_left 470309
+TURN 4,6
+MESSAGE depth 1-22 ev 38.0 n 11732 n/s 46925 tm 250 pv Xg4 Oi11 Xj10 Oj12 Xg9 Oi12 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xh6 Oh7 Xi5 Og5 Xh3 Og2 Xh1 Oi13 Xi2
+MESSAGE depth 1-28 ev 59.4 n 9657 n/s 519 tm 18577 pv Oi11 Xj10 Oj12 Xg9 Oi12 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xh6 Oh7 Xi5 Og5 Xj4 Og7 Xi4 Oh4 Xi6 Od4 Xd2 Oh11 Xj13 Of11 Xg11 Oi3
+11,8
+INFO time_left 451665
+TURN 7,3
+MESSAGE depth 1-26 ev 39.8 n 9364 n/s 26054 tm 359 pv Xj10 Oj12 Xg9 Oi12 Xd7 Oe6 Xe2 Od3 Xh5 Of3 Xh6 Oh7 Xi5 Og5 Xj4 Og7 Xi4 Oh4 Xi6 Od4 Xd2 Oh11 Xj13 Og2 Xh1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 390 pv
+6,4
+INFO time_left 451207
+TURN 2,4
+MESSAGE depth 1-19 ev 40.6 n 4862 n/s 38890 tm 125 pv Xe2 Od3 Xg5 Oh5 Xg3 Og2 Xh4 Og7 Xf11 Og12 Xi4 Oj4 Xi5 Of3 Xh1 Og6 Xg9 Od4
+MESSAGE depth 1-23 ev 56.8 n 6198 n/s 350 tm 17686 pv Od3 Xg5 Of3 Xg3 Og2 Xh1 Oh11 Xg7 Og6 Xi5 Oh5 Xc7 Oc9 Xb5 Oa4 Xf6 Od4 Xd2 Oh4 Xh6 Oj4 Xi7
+3,3
+INFO time_left 433447
+TURN 3,5
+MESSAGE depth 1-24 ev 42.8 n 7195 n/s 41857 tm 171 pv Xg5 Of3 Xb5 Oa4 Xg3 Og2 Xh1 Oi5 Xi3 Oh4 Xi1 Oh11 Xg6 Og7 Xf11 Og12 Xh2 Of4 Xg1 Oi12 Xj13 Od4 Xd2
+MESSAGE depth 1-18 ev 67.5 n 4692 n/s 272 tm 17218 pv Oh5 Xf2 Of4 Xc0 Od1 Xg2 Oh2 Xg3 Og5 Xd4 Of6 Xh6 Oi5 Xg1 Og0 Xh3 Oj5
+5,7
+INFO time_left 416183
+TURN 0,2
+MESSAGE depth 1-19 ev 31.5 n 5245 n/s 37292 tm 140 pv Xf2 Of4 Xc0 Od1 Xg2 Oh2 Xg3 Og5 Xg1 Og0 Xe3 Od4 Xh3 Oi3 Xh4 Oi5 Xc2 Od2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 140 pv
+1,3
+INFO time_left 415981
+TURN 2,5
+MESSAGE depth 1-18 ev 29.6 n 5719 n/s 91504 tm 62 pv Xf2 Of4 Xg2 Oh2 Xg3 Og5 Xh3 Oi3 Xi4 Oj5 Xh4 Oi5 Xk5 Oe0 Xh1 Oj1 Xc3
+MESSAGE depth 1-18 ev 70.9 n 7848 n/s 477 tm 16452 pv Of4 Xg2 Oh2 Xg3 Og5 Xh3 Oi3 Xi4 Oj5 Xh4 Oi5 Xk5 Oe0 Xh1 Oj1 Xc3 Od2
+4,5
+INFO time_left 399482
+TURN 2,6
+MESSAGE depth 1-21 ev 28.8 n 8278 n/s 33109 tm 250 pv Xg2 Oh2 Xg3 Og5 Xh4 Oi5 Xe0 Od0 Xh3 Oj5 Xk5 Oi3 Xi4 Of1 Xg1 Og0 Xk4 Oj4 Xk3 Ok2
+MESSAGE depth 1-20 ev 72.3 n 9277 n/s 593 tm 15640 pv Oh2 Xg3 Og5 Xh3 Oi3 Xh4 Oi5 Xi4 Oj5 Xk5 Oe1 Xh1 Oi2 Xc2 Od2 Xg1 Og0 Xc1 Oc3
+2,7
+INFO time_left 383769
+TURN 3,6
+MESSAGE depth 1-18 ev 26.8 n 12810 n/s 34158 tm 375 pv Xg3 Og5 Xh3 Oi3 Xi4 Oj5 Xh4 Oi5 Xk5 Oe1 Xk4 Oj4 Xe0 Of1 Xg1 Og0 Xk3
+MESSAGE depth 1-19 ev 74.4 n 10562 n/s 703 tm 15015 pv Og5 Xh3 Oi3 Xi4 Oj5 Xh4 Oi5 Xk5 Oe1 Xk4 Oj4 Xg1 Og0 Xk3 Ok2 Xl5 Oj3 Xj1
+5,6
+INFO time_left 368708
+TURN 3,7
+MESSAGE depth 1-18 ev 25.3 n 14581 n/s 116628 tm 125 pv Xh3 Oi3 Xh4 Oi5 Xi4 Oj5 Xk5 Oe1 Xk4 Oj4 Xg1 Og0 Xk3 Ok2 Xl5 Oi2 Xj6
+MESSAGE depth 1-17 ev 75.1 n 6498 n/s 446 tm 14546 pv Oi3 Xh4 Oi5 Xi4 Oj5 Xk5 Oe1 Xc1 Oc2 Xh1 Oi2 Xe0 Of1 Xg0 Og1 Xf0
+3,8
+INFO time_left 354123
+TURN 4,7
+MESSAGE depth 1-22 ev 22.0 n 19060 n/s 71737 tm 265 pv Xh4 Oi5 Xi4 Oj5 Xk5 Oe1 Xk4 Oj4 Xc1 Oc2 Xk3 Ok2 Xl4 Og1 Xf0 Oi7 Xi2 Oj1 Xa4 Ob5 Xe0
+MESSAGE depth 1-20 ev 77.7 n 7918 n/s 558 tm 14187 pv Oi5 Xi4 Oj5 Xk5 Oe1 Xc1 Oc2 Xk4 Oj4 Xk3 Ok2 Xl4 Og1 Xf0 Oi7 Xi2 Oj1 Xa4 Ob5
+5,8
+INFO time_left 339863
+TURN 1,6
+MESSAGE depth 1-22 ev 20.1 n 16497 n/s 150634 tm 109 pv Xi4 Oj5 Xk5 Oe1 Xc1 Oc2 Xk4 Oj4 Xk3 Ok2 Xl4 Og1 Xf0 Oi7 Xi2 Oj1 Xa4 Ob5 Xe0 Of1 Xh1
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 109 pv
+0,6
+INFO time_left 339718
+TURN 4,8
+MESSAGE depth 1-19 ev 19.3 n 4347 n/s 139100 tm 31 pv Xi4 Oj5 Xk5 Oe1 Xk4 Oj4 Xk3 Ok2 Xl4 Oj2 Xj6 Oi7 Xh6 Oi6 Xh7 Ok7 Xi9 Oj10
+MESSAGE depth 1-20 ev 82.0 n 5912 n/s 447 tm 13218 pv Oj5 Xk5 Oe1 Xk4 Oj4 Xe3 Oc2 Xf1 Oe0 Xk3 Ok2 Xl5 Oj3 Xj1 Oi2 Xj6 Oi7 Xk6 Ok7
+5,9
+INFO time_left 326425
+TURN 5,10
+MESSAGE depth 1-14 ev 17.0 n 3827 n/s 865 tm 4421 pv Xk5 Oe0 Xk4 Oj4 Xk3 Ok2 Xl5 Oj3 Xj6 Oi7 Xh6 Ok6 Xc2
+MESSAGE depth 1-14 ev 82.4 n 5518 n/s 426 tm 12937 pv Oe1 Xk4 Oj4 Xk3 Ok2 Xl4 Oj2 Xj6 Oi7 Xh6 Ok6 Xf1 Oe0
+1,4
+INFO time_left 313436
+TURN 11,5
+MESSAGE depth 1-21 ev 19.8 n 8023 n/s 57046 tm 140 pv Xk4 Oj4 Xk3 Ok2 Xe3 Oc2 Xf1 Oe0 Xl5 Oi2 Xj6 Ok6 Xl4 Oi7 Xh0 Od4 Xj2 Oi1 Xm3 On2
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 156 pv
+12,6
+INFO time_left 313225
+TURN 1,2
+MESSAGE depth 1-18 ev 17.0 n 4632 n/s 42342 tm 109 pv Xk4 Oj4 Xk3 Ok2 Xl4 Oj2 Xi2 Oj1 Xj3 Ol5 Xe3 Oc2 Xf1 Oe0 Xh0 Od4 Xm3
+MESSAGE depth 1-17 ev 84.8 n 2217 n/s 179 tm 12374 pv Oc2 Xk4 Oj4 Xk3 Ok2 Xl5 Oj3 Xj6 Oi7 Xj1 Oi2 Xk6 Ok7 Xf1 Oe0 Xi1
+2,2
+INFO time_left 300782
+TURN 4,10
+MESSAGE depth 1-19 ev 10.8 n 3179 n/s 8845 tm 359 pv Xk4 Oj4 Xk3 Ok2 Xl4 Oj2 Xi2 Oj1 Xj3 Ol5 Xm3 Oj6 Xn2 Oo1 Xn3 Ol3 Xk7 Ok6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 359 pv
+4,9
+INFO time_left 300357
+TURN 1,9
+MESSAGE depth 1-14 ev 11.7 n 2387 n/s 10911 tm 218 pv Xk3 Ok2 Xl5 Oj3 Xj6 Oi7 Xj1 Oi2 Xk6 Ok7 Xj8 Oj10 Xi6
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 218 pv
+2,8
+INFO time_left 300102
+TURN 1,8
+MESSAGE depth 1-7 ev 13.5 n 451 n/s 2405 tm 187 pv Xk3 Ok2 Xj6 Oi7 Xk7 Ok6
+MESSAGE depth 1-12 ev 95.9 n 2536 n/s 217 tm 11655 pv Oh1 Xk3 Ok2 Xj6 Oi7 Xe0 Of1 Xj8 Oi9 Xf13 Of14
+1,7
+INFO time_left 288378
+TURN 3,10
+MESSAGE depth 1-11 ev 2.6 n 3276 n/s 10482 tm 312 pv Xk3 Ok2 Xj6 Oi7 Xe0 Of1 Xj8 Oj10 Xk6 Ok7
+MESSAGE depth 1-12 ev 97.6 n 4971 n/s 434 tm 11437 pv Ok2 Xj6 Oi7 Xe0 Of1 Xj8 Oi10 Xb5 Oa4 Xk6 Ok7
+2,10
+INFO time_left 276877
+TURN 2,9
+MESSAGE depth 1-13 ev 1.6 n 6934 n/s 221898 tm 31 pv Xj6 Oi7 Xe0 Of1 Xj8 Oi9 Xk6 Ok7 Xi8 Oj10 Xl5 Oj7
+MESSAGE depth 1-12 ev 98.4 n 3525 n/s 327 tm 10749 pv Ol4 Xe0 Of1 Xb5 Oa4 Xc7 Oc9 Xf13 Of14 Xk7 Ok6
+4,11
+INFO time_left 266065
+TURN 8,9
+MESSAGE depth 1-11 ev 1.0 n 5433 n/s 86922 tm 62 pv Xe0 Of1 Xb5 Oa4 Xc7 Oc9 Xf13 Of14 Xk7 Ok6
+MESSAGE depth 1-10 ev 98.7 n 2135 n/s 207 tm 10312 pv Oj10 Xe0 Of1 Xb5 Oa4 Xf13 Of14 Xg13 Oj12
+10,9
+INFO time_left 255691
+TURN 13,5
+MESSAGE depth 1-11 ev 0.3 n 1364 n/s 6714 tm 203 pv Xe0 Of1 Xb5 Oa4 Xf13 Of14 Xg13 Oj12 Xg9 Oj13
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 203 pv
+14,5
+INFO time_left 255430
+TURN 0,4
+MESSAGE depth 1-7 ev 0.3 n 618 n/s 1719 tm 359 pv Xg13 Oj12 Xk13 Oj13 Xe13 Od13
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 359 pv
+1,5
+INFO time_left 255025
+TURN 7,2
+MESSAGE depth 1-6 ev 0.2 n 167 n/s 427 tm 390 pv Xg13 Oj12 Xg9 Oj13 Xe13
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 390 pv
+9,2
+INFO time_left 254574
+TURN 6,10
+MESSAGE depth 1-5 ev 0.1 n 46 n/s 588 tm 78 pv Xg13 Oj12 Xg9 Oj13
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+7,10
+INFO time_left 254436
+TURN 5,1
+MESSAGE depth 1-3 ev 0.0 n 27 n/s 172 tm 156 pv Xb5 Oa4
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 156 pv
+4,0
+INFO time_left 254234
+TURN 13,6
+MESSAGE depth 1-3 ev 0.0 n 16 n/s 341 tm 46 pv Xg13 Oj12
+MESSAGE depth 1-8 ev W n 1706 n/s 190 tm 8952 pv Ok9 Xe13 Od13 Xi13 Oh13 Xl8 Oa0
+9,10
+INFO time_left 245227
+TURN 13,4
+MESSAGE depth 1-7 ev L n 74 n/s 2369 tm 31 pv Xe13 Od13 Xi13 Oh13 Xl8 Oa0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+13,3
+INFO time_left 245209
+TURN 13,8
+MESSAGE depth 1-5 ev L n 44 n/s 1408 tm 31 pv Xi13 Oh13 Xl8 Oa0
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+13,7
+INFO time_left 245188
+TURN 8,11
+MESSAGE depth 1-3 ev L n 14 n/s 448 tm 31 pv Xl8 Oa0
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Oa0
+0,0
+INFO time_left 245117
+TURN 1,1
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Xb1 Oa7
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Oa7
+7,0
+INFO time_left 245065
+TURN 8,1
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Xb8 Og9
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Og9
+9,6
+INFO time_left 245001
+TURN 11,6
+MESSAGE depth 1-3 ev L n 2 n/s 63 tm 31 pv Xg11 Oh7
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Oh7
+7,7
+INFO time_left 244936
+TURN 6,8
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Xi6 Ok10
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Ok10
+10,10
+INFO time_left 244869
+TURN 10,8
+MESSAGE depth 1-3 ev L n 2 n/s 63 tm 31 pv Xi10 Ok11
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Ok11
+11,10
+INFO time_left 244805
+TURN 8,10
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Xk8 Ok13
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Ok13
+13,10
+INFO time_left 244754
+TURN 12,10
+MESSAGE depth 1-2 ev L n 1 n/s 32 tm 31 pv Xj12
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Oj12
+12,9
+RESTART
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Xi8
+OK
+INFO max_memory 0
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 899998
+INFO folder C:\ProgramData
+BEGIN
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+7,7
+INFO timeout_turn 60000
+INFO timeout_match 60000
+INFO time_left 59985
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59920
+INFO folder C:\ProgramData
+TURN 7,7
+MESSAGE depth 1-8 ev 2.0 n 417 n/s 206 tm 2015 pv Oh8 Xg9 Of7 Xi9 Of9 Xi8 Of8
+8,7
+INFO time_left 57844
+TURN 7,5
+MESSAGE depth 1-10 ev 96.1 n 1174 n/s 15027 tm 78 pv Xg9 Of7 Xi9 Of9 Xi8 Of8 Xf6 Oe8 Xi10
+MESSAGE depth 1-9 ev 6.8 n 571 n/s 292 tm 1953 pv Oi7 Xg9 Oi6 Xi9 Oj8 Xh9 Of9 Xg8
+7,8
+INFO time_left 55821
+TURN 9,6
+MESSAGE depth 1-12 ev 91.7 n 701 n/s 11215 tm 62 pv Xg9 Oi6 Xg8 Og7 Xh9 Oi10 Xi9 Of9 Xg6 Of5 Xg10
+MESSAGE depth 1-13 ev 5.7 n 1013 n/s 540 tm 1874 pv Oi9 Xg8 Og7 Xf6 Oi10 Xi6 Of9 Xf5 Of4 Xe6 Oj10 Xk11
+9,8
+INFO time_left 53877
+TURN 8,5
+MESSAGE depth 1-14 ev 93.3 n 645 n/s 10319 tm 62 pv Xg8 Og7 Xf6 Oi10 Xi6 Of9 Xf5 Of4 Xg6 Oi8 Xi11 Oh6 Xg5
+MESSAGE depth 1-11 ev 9.7 n 547 n/s 304 tm 1796 pv Oi8 Xi10 Oj8 Xg8 Oh9 Xh10 Oe7 Xg10 Oi6 Xi5
+8,8
+INFO time_left 51978
+TURN 10,8
+MESSAGE depth 1-10 ev 92.9 n 378 n/s 24194 tm 15 pv Xi10 Oj8 Xg8 Oh9 Xh10 Oe7 Xg10 Oi6 Xi5
+MESSAGE depth 1-10 ev 2.7 n 1063 n/s 629 tm 1687 pv Oj8 Xg8 Oh9 Xh10 Oe7 Xg10 Oi6 Xi5 Ok8
+8,9
+INFO time_left 50180
+TURN 8,6
+MESSAGE depth 1-10 ev 98.4 n 552 n/s 11777 tm 46 pv Xg8 Oh9 Xh10 Oe7 Xg10 Oi6 Xi5 Ok8 Xl8
+MESSAGE depth 1-7 ev 0.6 n 1442 n/s 870 tm 1656 pv Oh9 Xf9 Ok8 Xl8 Oi5 Xi6
+9,7
+INFO time_left 48473
+TURN 7,6
+MESSAGE depth 1-7 ev 99.2 n 493 n/s 31548 tm 15 pv Xf9 Ol8 Xk8 Oi6 Xi5 Of5
+MESSAGE depth 1-7 ev L n 138 n/s 1103 tm 125 pv Oi5 Xi6 Ol8 Xk8 Og10 Xf9
+5,8
+INFO time_left 48189
+TURN 6,8
+MESSAGE depth 1-6 ev W n 36 n/s -2147483648 tm 0 pv Xi6 Ol8 Xk8 Og10 Xf9
+MESSAGE depth 1-5 ev L n 35 n/s 1120 tm 31 pv Ol8 Xk8 Og10 Xf9
+8,11
+INFO time_left 48063
+TURN 8,10
+MESSAGE depth 1-4 ev W n 12 n/s 384 tm 31 pv Xk8 Og10 Xf9
+MESSAGE depth 1-3 ev L n 11 n/s 352 tm 31 pv Og10 Xf9
+10,6
+INFO time_left 47957
+TURN 9,5
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xf9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+10,4
+RESTART
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xj5
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59998
+INFO folder C:\ProgramData
+BEGIN
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+7,7
+INFO time_left 59992
+TURN 6,7
+MESSAGE depth 1-10 ev 2.7 n 2108 n/s 33713 tm 62 pv Oh6 Xg5 Of7 Xf8 Og6 Xi6 Og8 Xe6 Og10
+MESSAGE depth 1-11 ev 96.2 n 1105 n/s 539 tm 2046 pv Xg5 Of7 Xf8 Og6 Xi6 Og8 Xe6 Og10 Xh5 Og9
+5,6
+INFO time_left 57851
+TURN 6,5
+MESSAGE depth 1-15 ev 5.1 n 1916 n/s 40860 tm 46 pv Of7 Xf8 Og6 Xi6 Og8 Xe6 Og10 Xh5 Og9 Xg7 Oh9 Xf5 Oi10 Xj11
+MESSAGE depth 1-10 ev 95.6 n 591 n/s 305 tm 1937 pv Xi6 Og8 Xi5 Of5 Xf7 Oi7 Xj5 Ok5 Xj6
+6,8
+INFO time_left 55822
+TURN 5,9
+MESSAGE depth 1-14 ev 3.2 n 1319 n/s 21097 tm 62 pv Og8 Xi5 Of5 Xf7 Oi7 Xj5 Ok5 Xj6 Oj4 Xl6 Ok6 Xk7 Ol8
+MESSAGE depth 1-12 ev 95.5 n 540 n/s 292 tm 1843 pv Xi8 Og6 Xj7 Oi7 Xk8 Ol9 Xj8 Oh8 Xk6 Ol5 Xj9
+8,8
+INFO time_left 53913
+TURN 7,6
+MESSAGE depth 1-11 ev 3.4 n 574 n/s 7347 tm 78 pv Og7 Xi5 Oi7 Xh8 Oj8 Xj9 Ok10 Xh9 Ok9 Xl10
+MESSAGE depth 1-12 ev 93.8 n 851 n/s 469 tm 1812 pv Xi5 Oi7 Xh8 Oj8 Xj9 Ok10 Xh9 Ok9 Xl10 Ok8 Xk7
+5,8
+INFO time_left 52029
+TURN 7,8
+MESSAGE depth 1-12 ev 5.2 n 450 n/s 9598 tm 46 pv Oi7 Xh8 Oj8 Xj9 Ok10 Xh9 Ok9 Xl10 Ok8 Xk7 Og10
+MESSAGE depth 1-11 ev 94.3 n 940 n/s 546 tm 1718 pv Xh8 Oj8 Xj9 Ok10 Xh9 Oh10 Xj7 Ok9 Xl10 Ok6
+8,7
+INFO time_left 50206
+TURN 8,9
+MESSAGE depth 1-12 ev 4.9 n 1986 n/s 127096 tm 15 pv Oj8 Xj9 Ok10 Xh9 Oh10 Xj7 Ol10 Xk9 Oi10 Xj10 Of11
+MESSAGE depth 1-13 ev 95.4 n 1541 n/s 939 tm 1640 pv Xj9 Ok10 Xh9 Oh10 Xj7 Ol10 Xk9 Oj10 Xi10 Om10 Xn10 Ol9
+9,9
+INFO time_left 48477
+TURN 10,10
+MESSAGE depth 1-12 ev 2.7 n 848 n/s 13563 tm 62 pv Ok10 Xh9 Oh10 Xj7 Ol10 Xk9 Oj10 Xi10 Om10 Xn10 Of5
+MESSAGE depth 1-12 ev 96.9 n 970 n/s 627 tm 1546 pv Xh9 Ok9 Xl10 Ok8 Xk7 Og10 Xg8 Of8 Xf7 Oe6 Xg6
+9,7
+INFO time_left 46847
+TURN 9,10
+MESSAGE depth 1-12 ev 1.3 n 761 n/s 24337 tm 31 pv Ok9 Xl10 Ok8 Xk7 Og10 Xg8 Of8 Xf7 Oe6 Xg6 Of5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 46 pv
+10,11
+INFO time_left 46744
+TURN 8,10
+MESSAGE depth 1-12 ev 1.6 n 536 n/s 8575 tm 62 pv Ok8 Xk7 Og10 Xg8 Of8 Xf7 Oe6 Xg6 Of5 Xi4 Oh5
+MESSAGE depth 1-12 ev 96.5 n 677 n/s 446 tm 1515 pv Xk7 Og10 Xg8 Of8 Xf7 Oe6 Xg6 Of5 Xk11 Oj11 Xm9
+7,10
+INFO time_left 45157
+TURN 9,5
+MESSAGE depth 1-13 ev 3.0 n 840 n/s 13440 tm 62 pv Og10 Xf9 Og8 Xg9 Oi9 Xf10 Oh10 Xf11 Of12 Xg11 Ok11 Xk12
+MESSAGE depth 1-8 ev 98.2 n 379 n/s 266 tm 1421 pv Xg10 Of11 Xk11 Ol8 Xj11 Oi11 Xj10
+10,6
+INFO time_left 43628
+TURN 11,5
+MESSAGE depth 1-8 ev 1.1 n 985 n/s 21015 tm 46 pv Of11 Xk11 Of8 Xj12 Oi13 Xj11 Of10
+MESSAGE depth 1-7 ev 98.4 n 935 n/s 687 tm 1359 pv Xk11 Of8 Xj12 Oi13 Xj11 Of10
+11,10
+INFO time_left 42200
+TURN 8,5
+MESSAGE depth 1-8 ev 1.4 n 866 n/s 11084 tm 78 pv Of8 Xj12 Oi13 Xj11 Oe9 Xd10 Of10
+MESSAGE depth 1-8 ev 96.7 n 481 n/s 362 tm 1328 pv Xj12 Oi13 Xj11 Of10 Xf12 Oe9 Xd10
+12,9
+INFO time_left 40797
+TURN 13,8
+MESSAGE depth 1-11 ev 1.8 n 281 n/s 8992 tm 31 pv Oi13 Xj11 Of10 Xf12 Oe9 Xd10 Og11 Xh12 Od8 Xc7
+MESSAGE depth 1-11 ev 96.8 n 383 n/s 295 tm 1295 pv Xj11 Oe9 Xd10 Of10 Xf12 Og11 Xh12 Od8 Xc7 Oc9
+11,9
+INFO time_left 39416
+TURN 5,5
+MESSAGE depth 1-10 ev 0.7 n 146 n/s 3114 tm 46 pv Oe9 Xd10 Of10 Xf12 Og11 Xh12 Od8 Xc7 Og12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+7,5
+INFO time_left 39290
+TURN 10,5
+MESSAGE depth 1-5 ev 0.7 n 28 n/s 597 tm 46 pv Of10 Xf12 Oe9 Xd10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+12,5
+INFO time_left 39179
+TURN 9,4
+MESSAGE depth 1-4 ev 0.9 n 20 n/s 426 tm 46 pv Oe9 Xd10 Og11
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+10,3
+INFO time_left 39054
+TURN 11,6
+MESSAGE depth 1-5 ev 1.0 n 21 n/s 447 tm 46 pv Og11 Xh12 Oi12 Xi11
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+12,7
+INFO time_left 38927
+TURN 8,3
+MESSAGE depth 1-3 ev 0.0 n 20 n/s 426 tm 46 pv Oc7 Xd8
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 62 pv
+7,2
+INFO time_left 38818
+TURN 9,8
+MESSAGE depth 1-3 ev 0.0 n 17 n/s 362 tm 46 pv Oi12 Xj10
+MESSAGE depth 1-2 ev W n 1 n/s 10 tm 93 pv Xg8
+8,6
+INFO time_left 38661
+TURN 10,8
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Oi10 Xd5
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xd5
+5,3
+INFO time_left 38546
+TURN 6,4
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Oe6 Xi12
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xi12
+12,8
+INFO time_left 38432
+TURN 12,6
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Og12 Xj7
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xj7
+7,9
+INFO time_left 38318
+TURN 6,10
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Ok6 Xj10
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xj10
+10,9
+INFO time_left 38204
+TURN 13,9
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Oj13 Xl12
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xl12
+12,11
+INFO time_left 38090
+TURN 12,10
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Ok12 Xm9
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xm9
+9,12
+INFO time_left 37976
+TURN 8,13
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv On8 Xl8
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xl8
+8,11
+INFO time_left 37847
+TURN 6,9
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Oj6 Xl11
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xl11
+11,11
+INFO time_left 37765
+TURN 9,11
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Ol9 Xm11
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Xm11
+11,12
+INFO time_left 37651
+TURN 11,8
+MESSAGE depth 1-2 ev L n 1 n/s -2147483648 tm 0 pv Oi11
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xn11
+11,13
+RESTART
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59992
+INFO folder C:\ProgramData
+TURN 7,7
+MESSAGE depth 1-21 ev 26.0 n 68098 n/s 2174391 tm 31 pv Og6 Xd6 Ok13 Xl13 Ol14 Xe10 Ob8 Xc8 Oe8 Xn14 Om13 Xe7 Oc6 Xh3 Ob5 Xd7 Ob7 Xb6 Oe11 Xh11
+MESSAGE depth 1-2 ev W n 1 n/s 3 tm 250 pv Xh11
+11,7
+RESTART
+MESSAGE depth 1-3 ev L n 2 n/s 64 tm 31 pv Oh10 Xl13
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59999
+INFO folder C:\ProgramData
+TURN 7,7
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xh10
+10,7
+INFO time_left 59914
+TURN 5,7
+MESSAGE depth 1-11 ev 26.7 n 564 n/s 9021 tm 62 pv Ok13 Xo11 On10 Xn14 Om13 Xl13 Ol14 Xe10 Oe7 Xe8
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59945
+INFO folder C:\ProgramData
+BEGIN
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+7,7
+RESTART
+OK
+INFO max_memory 0
+INFO timeout_match 60000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 1
+INFO time_left 59997
+INFO folder C:\ProgramData
+TURN 7,7
+MESSAGE depth 1-8 ev 2.0 n 539 n/s 17244 tm 31 pv Oi7 Xj8 Oh9 Xj6 Oj9 Xi9 Oh10
+MESSAGE depth 1-8 ev 2.0 n 519 n/s 257 tm 2015 pv Xi7 Oj8 Xh9 Oj6 Xj9 Oi6 Xi9
+7,8
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179061
+INFO folder C:\ProgramData
+BOARD
+14,7,2
+0,7,1
+14,8,2
+DONE
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179117
+INFO folder C:\ProgramData
+BOARD
+14,7,1
+0,7,2
+14,8,1
+3,7,2
+DONE
+MESSAGE depth 1-10 ev 81.3 n 2400 n/s 353 tm 6796 pv Xi11 Og3 Xj14 Ok14 Xh12 Oi3 Xj3 Oh4 Xf14
+11,8
+INFO time_left 172282
+TURN 4,8
+MESSAGE depth 1-13 ev 17.4 n 7125 n/s 227890 tm 31 pv Oi3 Xj14 Ok14 Xj11 Og3 Xj3 Oh4 Xh11 Og11 Xj12 Oh2 Xh1
+MESSAGE depth 1-15 ev 84.8 n 2253 n/s 344 tm 6531 pv Xg14 Of14 Xh11 Og2 Xf1 Oh4 Xj11 Ok11 Xi12 Oh2 Xh1 Oh5 Xh6 Oi2
+14,6
+INFO time_left 165664
+TURN 14,9
+MESSAGE depth 1-15 ev 10.6 n 4942 n/s 316288 tm 15 pv Oj14 Xh11 Og2 Xf1 Oh4 Xj11 Og11 Xi12 Oh2 Xh1 Oh5 Xh6 Ok6 Xj5
+MESSAGE depth 1-14 ev 90.5 n 3982 n/s 637 tm 6249 pv Xh11 Og2 Xf1 Oh4 Xj11 Og11 Xi12 Oh2 Xh1 Oh5 Xh6 Ok6 Xj5
+11,7
+INFO time_left 159321
+TURN 2,6
+MESSAGE depth 1-13 ev 7.3 n 7090 n/s 226900 tm 31 pv Og2 Xf1 Oh2 Xj11 Og11 Xi12 Oh4 Xh1 Oh5 Xh6 Ok6 Xj5
+MESSAGE depth 1-13 ev 93.0 n 5276 n/s 877 tm 6015 pv Xf1 Oh4 Xj11 Og11 Xi12 Oh2 Xh1 Oh5 Xh6 Ok6 Xj5 Ok2
+1,5
+INFO time_left 153225
+TURN 6,10
+MESSAGE depth 1-13 ev 5.1 n 8293 n/s 176912 tm 46 pv Oh4 Xj11 Og11 Xi12 Oh2 Xh1 Oh5 Xh6 Ok6 Xj5 Oi10 Xh12
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 78 pv
+5,9
+INFO time_left 153088
+TURN 11,6
+MESSAGE depth 1-11 ev 4.4 n 1480 n/s 23677 tm 62 pv Oh4 Xj11 Og11 Xi12 Oh2 Xh1 Oh5 Xh6 Ok10 Xi10
+MESSAGE depth 1-11 ev 98.4 n 1709 n/s 296 tm 5765 pv Xh12 Oh4 Xf14 Oe14 Xi10 Oh2 Xh1 Oh10 Xi12 Oi13
+12,7
+INFO time_left 147221
+TURN 10,7
+MESSAGE depth 1-11 ev 1.0 n 881 n/s 56385 tm 15 pv Oh4 Xf14 Oe14 Xi10 Oh2 Xh1 Oh10 Xi12 Oi13 Xg12
+MESSAGE depth 1-10 ev 99.1 n 1812 n/s 328 tm 5515 pv Xi10 Oi12 Xj9 Ok8 Xj11 Oj10 Xi8 Ok10 Xh9
+10,8
+INFO time_left 141647
+TURN 12,8
+MESSAGE depth 1-9 ev 0.7 n 564 n/s 6011 tm 93 pv Oi12 Xj9 Ok8 Xj11 Oj10 Xi8 Ok10 Xh9
+MESSAGE depth 1-10 ev W n 1865 n/s 410 tm 4546 pv Xj10 Og13 Xj9 Ok8 Xj11 Oj12 Xh9 Ok12 Xe14
+10,9
+INFO time_left 136988
+TURN 13,6
+MESSAGE depth 1-9 ev L n 409 n/s 26175 tm 15 pv Og13 Xj9 Ok8 Xj11 Oj12 Xh9 Ok12 Xe14
+MESSAGE depth 1-8 ev W n 404 n/s 3693 tm 109 pv Xj9 Ok8 Xj11 Oj12 Xh9 Ok12 Xe14
+9,9
+INFO time_left 136828
+TURN 8,10
+MESSAGE depth 1-7 ev L n 275 n/s 17602 tm 15 pv Ok8 Xj11 Oj12 Xh9 Ok12 Xe14
+MESSAGE depth 1-6 ev W n 163 n/s 2085 tm 78 pv Xj11 Oj12 Xh9 Ok12 Xe14
+11,9
+INFO time_left 136698
+TURN 8,9
+MESSAGE depth 1-5 ev L n 96 n/s -2147483648 tm 0 pv Oj12 Xh9 Ok12 Xe14
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Xe14
+14,4
+INFO time_left 136584
+TURN 14,5
+MESSAGE depth 1-3 ev L n 2 n/s 63 tm 31 pv Of14 Xj13
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Xj13
+13,9
+INFO time_left 136506
+TURN 12,9
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Oj12 Xk9
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Xk9
+9,10
+INFO time_left 136394
+TURN 8,11
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Ol8 Xl11
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Xl11
+11,11
+INFO time_left 136295
+TURN 11,10
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Ok11 Xk12
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xk12
+12,10
+INFO time_left 136181
+TURN 10,12
+MESSAGE depth 1-3 ev L n 2 n/s -2147483648 tm 0 pv Om10 Xh9
+MESSAGE depth 1-2 ev W n 1 n/s 15 tm 62 pv Xh9
+9,7
+INFO time_left 136067
+TURN 8,6
+MESSAGE depth 1-2 ev L n 1 n/s -2147483648 tm 0 pv Og8
+MESSAGE depth 1-2 ev W n 1 n/s 21 tm 46 pv Xl13
+13,11
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 0
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179437
+INFO folder C:\ProgramData
+BOARD
+0,12,1
+0,8,2
+1,13,1
+3,8,2
+DONE
+MESSAGE depth 1-18 ev 19.3 n 1976 n/s 291 tm 6781 pv Xk4 Oj5 Xl4 Oj4 Xk5 Oj6 Xj3 Oi4 Xi2 Ol5 Xk6 Ok3 Xj8 Oh4 Xi5 Og5 Xf6
+4,10
+INFO time_left 172629
+TURN 4,8
+MESSAGE depth 1-14 ev 80.1 n 3824 n/s 61181 tm 62 pv Oj5 Xm4 Oj4 Xl3 Ok5 Xl6 Oj3 Xj2 Og3 Xm2 Oo0 Xk3 Om5
+MESSAGE depth 1-17 ev 27.6 n 2613 n/s 399 tm 6546 pv Xl4 Ol3 Xi2 Ok5 Xj4 Oj3 Xk3 Oi5 Xj2 Om5 Xk2 Ol2 Xi6 Og4 Xj5 Oh7
+4,11
+INFO time_left 165973
+TURN 4,9
+MESSAGE depth 1-20 ev 71.4 n 2845 n/s 60698 tm 46 pv Ol3 Xi2 Ok5 Xj3 Ol5 Xh2 Oj5 Xi5 Om4 Xk2 Oj2 Xk6 Oj8 Xh4 Oh3 Xg3 Oj6 Xj7 Om5
+MESSAGE depth 1-16 ev 16.6 n 2522 n/s 403 tm 6249 pv Xl3 Oj5 Xm2 Oo0 Xm4 Oh3 Xk6 Oj3 Xm3 Om1 Xn4 Oo4 Xm5 Om6 Xj2
+3,11
+INFO time_left 159672
+TURN 5,9
+MESSAGE depth 1-15 ev 83.9 n 1510 n/s 48322 tm 31 pv Oj5 Xm2 Oo0 Xm4 Oh3 Xk6 Oj3 Xm3 Om1 Xn4 Oo4 Xm5 Om6 Xj2
+MESSAGE depth 1-12 ev 7.5 n 5329 n/s 888 tm 5999 pv Xm2 Oo0 Xl2 Ol5 Xk5 Ok6 Xl1 Ol0 Xl7 Oj6 Xg2
+2,12
+INFO time_left 153593
+TURN 0,14
+MESSAGE depth 1-13 ev 88.2 n 852 n/s 10902 tm 78 pv Oo0 Xm4 Oh3 Xk6 Oj3 Xm3 Om1 Xm6 Om5 Xo4 On4 Xi1
+MESSAGE depth 1-12 ev 5.1 n 4767 n/s 826 tm 5765 pv Xl2 Ol5 Xi2 Ok5 Xk2 Oj2 Xn2 Oo2 Xl0 Ol1 Xl6
+2,11
+INFO time_left 147761
+TURN 5,11
+MESSAGE depth 1-11 ev 96.7 n 1448 n/s 13235 tm 109 pv Ol5 Xi2 Ok5 Xk2 Oj2 Xn2 Oo2 Xl0 Ol1 Xl6
+MESSAGE depth 1-9 ev L n 2355 n/s 768 tm 3062 pv Xi5 Oh3 Xg2 Oj3 Xl0 Ol1 Xj2 Og3
+5,8
+INFO time_left 144647
+TURN 2,8
+MESSAGE depth 1-8 ev W n 772 n/s 24616 tm 31 pv Oh3 Xg2 Oj3 Xl0 Ol1 Xj2 Og3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 46 pv
+1,8
+INFO time_left 144551
+TURN 3,7
+MESSAGE depth 1-7 ev 99.2 n 202 n/s 4307 tm 46 pv Oh3 Xk6 Oj2 Xl1 Ol0 Xj6
+MESSAGE depth 1-7 ev L n 253 n/s 476 tm 531 pv Xg2 Oj3 Xl0 Ol1 Xj2 Og3
+2,6
+INFO time_left 143956
+TURN 3,9
+MESSAGE depth 1-6 ev W n 80 n/s -2147483648 tm 0 pv Oj3 Xl0 Ol1 Xj2 Og3
+MESSAGE depth 1-5 ev L n 34 n/s 725 tm 46 pv Xl0 Ol1 Xj2 Og3
+0,11
+INFO time_left 143859
+TURN 1,11
+MESSAGE depth 1-4 ev W n 13 n/s -2147483648 tm 0 pv Ol1 Xj2 Og3
+MESSAGE depth 1-3 ev L n 12 n/s 191 tm 62 pv Xj2 Og3
+2,9
+INFO time_left 143746
+TURN 3,6
+MESSAGE depth 1-2 ev W n 1 n/s -2147483648 tm 0 pv Og3
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 15 pv
+3,5
+TAKEBACK 3,5
+MESSAGE depth 1-2 ev W n 1 n/s 32 tm 31 pv Ok3
+OK
+TAKEBACK 3,6
+OK
+TAKEBACK 2,9
+OK
+TAKEBACK 1,11
+OK
+TAKEBACK 0,11
+OK
+TAKEBACK 3,9
+OK
+TAKEBACK 2,6
+OK
+TAKEBACK 3,7
+OK
+TAKEBACK 1,8
+OK
+TAKEBACK 2,8
+OK
+TAKEBACK 5,8
+OK
+TAKEBACK 5,11
+OK
+TAKEBACK 2,11
+OK
+TAKEBACK 0,14
+OK
+TAKEBACK 2,12
+OK
+TAKEBACK 5,9
+OK
+TAKEBACK 3,11
+OK
+TAKEBACK 4,9
+OK
+TAKEBACK 4,11
+OK
+TAKEBACK 4,8
+OK
+TAKEBACK 4,10
+OK
+TAKEBACK 3,8
+OK
+INFO time_left 179495
+TURN 4,10
+MESSAGE depth 1-15 ev 9.5 n 2192 n/s 321 tm 6812 pv Xi4 Oj3 Xl5 Oh3 Xi3 Oi5 Xj6 Og4 Xf5 Oi2 Xh2 Of3 Xh1 Oj4
+4,8
+INFO time_left 172615
+TURN 6,9
+MESSAGE depth 1-16 ev 88.5 n 3033 n/s 97060 tm 31 pv Oj3 Xl5 Oh3 Xi3 Oi5 Xl6 Oj4 Xl4 Ol3 Xj5 Ok3 Xl2 Oh4 Xl7 Ol8
+MESSAGE depth 1-15 ev 17.6 n 2068 n/s 315 tm 6546 pv Xj3 Oi3 Xg4 Oh5 Xh3 Of5 Xg5 Og3 Xj1 Ok2 Xf4 Oh4 Xi5 Oh6
+3,9
+INFO time_left 165998
+TURN 3,8
+MESSAGE depth 1-15 ev 82.0 n 7399 n/s 157522 tm 46 pv Oi3 Xk5 Oh5 Xm4 Om5 Xm3 Ok2 Xn3 On4 Xl6 Ol5 Xk8 Oh4 Xk1
+MESSAGE depth 1-20 ev 16.7 n 7565 n/s 1204 tm 6281 pv Xk5 Oh6 Xm4 Ok2 Xj7 Oh4 Xk6 Ol5 Xg5 Oi5 Xk7 Ok3 Xj4 Oj2 Xk1 Oh2 Xk8 Ok9 Xi2
+5,10
+INFO time_left 159639
+TURN 5,7
+MESSAGE depth 1-17 ev 81.8 n 6000 n/s 192011 tm 31 pv Oh6 Xm4 Ok2 Xj7 Oh4 Xk6 Ol5 Xg5 Oi5 Xk7 Ok3 Xl2 Oi1 Xk1 Oh2 Xh3
+MESSAGE depth 1-18 ev 22.7 n 3816 n/s 636 tm 5999 pv Xm3 Ok2 Xl4 Ol3 Xm4 Om5 Xk6 Oj7 Xj5 Oh3 Xm1 Om2 Xk1 Oo1 Xj4 Oj1 Xl2
+3,12
+INFO time_left 153549
+TURN 7,9
+MESSAGE depth 1-16 ev 75.7 n 3275 n/s 52401 tm 62 pv Ol1 Xm4 Om5 Xl2 On3 Xl6 Oj2 Xl4 Ol5 Xh4 Og4 Xi6 Of5 Xg5 Oe6
+MESSAGE depth 1-16 ev 23.0 n 1569 n/s 270 tm 5796 pv Xm4 Ok2 Xk1 Om2 Xl2 On4 Xl3 Ol1 Xm5 Oi6 Xk8 Oj5 Xj4 Ok3 Xm7
+4,12
+INFO time_left 147678
+TURN 2,10
+MESSAGE depth 1-22 ev 78.3 n 2503 n/s 80100 tm 31 pv Ok2 Xk1 Om2 Xl2 On4 Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xh6 Oi5 Xl0 Ol1
+MESSAGE depth 1-21 ev 17.8 n 3771 n/s 683 tm 5515 pv Xk1 Om2 Xl2 On4 Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xl0 Ol1 Xh6 Oi5
+1,10
+INFO time_left 142078
+TURN 2,12
+MESSAGE depth 1-20 ev 80.7 n 3588 n/s 57402 tm 62 pv Om2 Xl2 On4 Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xm7 Om5 Xl0 Ol1
+MESSAGE depth 1-20 ev 16.3 n 4801 n/s 906 tm 5296 pv Xl2 On4 Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xm7 Om5 Xh6 Oi5 Xk7
+2,11
+INFO time_left 136701
+TURN 4,13
+MESSAGE depth 1-19 ev 82.9 n 3772 n/s 48271 tm 78 pv On4 Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xm7 Om5 Xh6 Oi5 Xk7
+MESSAGE depth 1-19 ev 15.9 n 5119 n/s 1001 tm 5109 pv Xl3 Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xm7 Om5 Xl6 On8 Xh7 Oh6
+3,11
+INFO time_left 131511
+TURN 8,9
+MESSAGE depth 1-18 ev 82.4 n 3337 n/s 3008 tm 1109 pv Oi6 Xk8 Oj5 Xj4 Om1 Xl4 Ol5 Xk3 On3 Xj2 Oi1 Xm7 Om5 Xl6 On8 Xh7 Oh6
+MESSAGE depth 1-14 ev 12.8 n 1401 n/s 287 tm 4874 pv Xj5 Ok8 Xi6 Oi8 Xh8 Ol7 Xm6 Ol5 Xk3 On3 Xl8 Ok7 Xm7
+5,9
+INFO time_left 126571
+TURN 8,10
+MESSAGE depth 1-13 ev 86.2 n 978 n/s 8939 tm 109 pv Ok8 Xi6 Oi8 Xh8 Ol7 Xm6 Ol5 Xk3 On3 Xl8 Ok7 Xm7
+MESSAGE depth 1-14 ev 8.2 n 2880 n/s 616 tm 4671 pv Xi6 Oi8 Xh8 Ol7 Xn3 Ok3 Xm6 Ol5 Xl8 Oj9 Xj10 Ok9 Xm7
+6,8
+INFO time_left 121777
+TURN 8,8
+MESSAGE depth 1-12 ev 89.9 n 852 n/s 9086 tm 93 pv Oi8 Xh8 Ol7 Xm6 Ol5 Xk3 On3 Xl8 Ok7 Xm7 Om5
+MESSAGE depth 1-9 ev L n 2300 n/s 850 tm 2703 pv Xh8 Ol7 Xn3 Ok3 Xm6 Om7 Xk7 Oj10
+8,7
+INFO time_left 119006
+TURN 8,11
+MESSAGE depth 1-11 ev 91.7 n 583 n/s 37250 tm 15 pv Ol7 Xn3 Ok3 Xm6 Ol5 Xl8 Oj9 Xj10 Ok9 Xi9
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 31 pv
+8,12
+INFO time_left 118913
+TURN 7,11
+MESSAGE depth 1-4 ev 31.2 n 23 n/s 736 tm 31 pv Ol7 Xn3 Ok3
+MESSAGE depth 1-7 ev L n 564 n/s 340 tm 1656 pv Xn3 Ok3 Xj10 Ok7 Xi7 Oi5
+3,13
+INFO time_left 117178
+TURN 3,10
+MESSAGE depth 1-6 ev W n 103 n/s -2147483648 tm 0 pv Ok3 Xj10 Ok7 Xi7 Oi5
+MESSAGE depth 1-5 ev L n 102 n/s 2175 tm 46 pv Xj10 Ok7 Xi7 Oi5
+10,9
+INFO time_left 117080
+TURN 7,10
+MESSAGE depth 1-4 ev W n 26 n/s -2147483648 tm 0 pv Ok7 Xi7 Oi5
+MESSAGE depth 1-3 ev L n 11 n/s 175 tm 62 pv Xi7 Oi5
+7,8
+INFO time_left 116951
+TURN 5,8
+MESSAGE depth 1-2 ev W n 1 n/s 31 tm 31 pv Oi5
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 0 pv
+4,7
+END
+END
+END
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 1
+INFO rule 1
+INFO time_left 179943
+INFO folder C:\ProgramData
+TURN 7,7
+MESSAGE depth 1-10 ev 2.6 n 1846 n/s 270 tm 6827 pv Oh6 Xi5 Oj7 Xg5 Oj5 Xj6 Oh4 Xi4 Oi8
+6,7
+END
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 7200000
+INFO timeout_turn 7200000
+INFO game_type 1
+INFO rule 1
+INFO time_left 7195376
+INFO folder C:\ProgramData
+BOARD
+1,4,2
+10,5,1
+6,1,2
+DONE
+MESSAGE depth 1-31 ev 49.6 n 84240 n/s 293 tm 287426 pv Oe4 Xd3 Od5 Xf3 Oe3 Xg4 Oh5 Xe2 Of1 Xb5 Ob4 Xf6 Og5 Xe5 Of4 Xh6 Og7 Xd2 Oc2 Xe6 Od6 Xd7 Oc8 Xj5 Og6 Xc4 Oa6 Xe8 Oc6 Xh3
+4,4
+INFO time_left 6907863
+TURN 3,3
+MESSAGE depth 1-33 ev 48.8 n 145930 n/s 1867978 tm 78 pv Xd3 Od5 Xf3 Oe3 Xg4 Oh5 Xe2 Of1 Xb5 Ob4 Xf6 Og5 Xe5 Of4 Xh6 Og7 Xd2 Oc2 Xe6 Od6 Xd7 Oc8 Xj5 Og6 Xd4 Od1 Xe8 Oc6 Xg9 Oe9 Xh3 Of5
+MESSAGE depth 1-37 ev 50.6 n 180653 n/s 654 tm 275929 pv Od5 Xf3 Oe3 Xe2 Of1 Xb5 Og4 Xb4 Ob3 Xc4 Oa6 Xe7 Oc6 Xh4 Ob7 Xa8 Og3 Xg2 Of2 Xg7 Of8 Xf7 Oh7 Xe8 Od9 Xe9 Oe6 Xf6 Og5 Xc7 Od7 Xd8 Oa5 Xc8 Ob8 Xf5
+5,3
+INFO time_left 6631747
+TURN 3,5
+MESSAGE depth 1-43 ev 47.3 n 272632 n/s 8724556 tm 31 pv Xf3 Oe3 Xe2 Of1 Xc4 Ob5 Xe5 Of6 Xd2 Oc3 Xg3 Of2 Xi3 Og4 Xi4 Oi2 Xh3 Oj3 Xk4 Oh4 Xf4 Oh2 Xj5 Ok6 Xi6 Oj2 Xg2 Oh7 Xl3 Om2 Xl4 Ol5 Xi7 Oi5 Xj8 Oj6 Xk7 Oh6 Xl6 Om5 Xj7 Oj4
+MESSAGE depth 1-32 ev 52.4 n 347975 n/s 1308 tm 265945 pv Oe3 Xe2 Of1 Xb5 Ob4 Xg4 Oh5 Xf6 Og5 Xe5 Of4 Xd2 Oc3 Xc4 Oa6 Xh6 Og7 Xe6 Od6 Xd7 Of5 Xe8 Oc6 Xg8 Oe9 Xi6 Og6 Xi8 Of8 Xi7 Oe7
+3,4
+INFO time_left 6365729
+TURN 4,6
+MESSAGE depth 1-46 ev 46.0 n 438381 n/s 3506927 tm 125 pv Xe2 Of1 Xc4 Ob5 Xe5 Of6 Xd2 Oc3 Xg3 Of2 Xi3 Og4 Xi4 Oi2 Xh3 Oj3 Xh2 Oi1 Xk4 Og1 Xd4 Oj4 Xj5 Ok6 Xh5 Oh1 Xj1 Oi6 Xh6 Oh4 Xi7 Oj8 Xh8 Og9 Xe8 Of7 Xf8 Og8 Xh9 Oh7 Xg10 Oe9 Xd6 Of4 Xg11
+MESSAGE depth 1-31 ev 53.8 n 158318 n/s 622 tm 254242 pv Oh5 Xe2 Of1 Xb5 Ob4 Xf6 Oe7 Xe5 Od6 Xc5 Od7 Xd4 Oc3 Xg3 Of2 Xf7 Og5 Xa6 Oc4 Xd2 Oc0 Xj4 Oe9 Xd9 Of8 Xh3 Of4 Xh6 Oe8 Xe10
+5,7
+INFO time_left 6111405
+TURN 1,5
+MESSAGE depth 1-50 ev 47.7 n 203548 n/s 4342600 tm 46 pv Xf1 Oe2 Xi4 Of4 Xg5 Oe6 Xe5 Of7 Xg8 Og2 Xg1 Oh1 Xi3 Of6 Xg6 Og7 Xf8 Oi2 Xi7 Oi6 Xj3 Oj4 Xf2 Oi5 Xh4 Ok3 Xh6 Oh3 Xj8 Ok9 Xi8 Oh8 Xj9 Oh7 Xi9 Oi11 Xj7 Oj10 Xl8 Oj5 Xl5 Ok6 Xj2 Ok1 Xk7 Ok4 Xl3 Od7 Xe7
+MESSAGE depth 1-47 ev 49.3 n 168359 n/s 689 tm 244102 pv Oe2 Xi4 Of4 Xg5 Oe6 Xe5 Of7 Xg8 Og2 Xg1 Oh1 Xi3 Of6 Xg6 Og7 Xf8 Oi2 Xi7 Oi6 Xj3 Od7 Xe7 Oc8 Xb9 Oc6 Xf2 Oh4 Xj4 Ok5 Xh2 Of0 Xb7 Ob8 Xd6 Oc5 Xc7 Oj7 Xj5 Oj2 Xj9 Oi8 Xk6 Ol7 Xh10 Og9 Xf9
+2,4
+INFO time_left 5867199
+TURN 6,4
+MESSAGE depth 1-46 ev 49.7 n 201723 n/s 2582046 tm 78 pv Xi4 Of4 Xg5 Oe6 Xe5 Of7 Xg8 Og2 Xg1 Oh1 Xi3 Of6 Xg6 Og7 Xf8 Oi2 Xi7 Oi6 Xj3 Od7 Xe7 Oc8 Xb9 Oc6 Xf2 Oh4 Xj4 Ok5 Xh2 Of0 Xb7 Ob8 Xd6 Oc5 Xc7 Oj7 Xj5 Oj2 Xj9 Oi8 Xk8 Ol7 Xh9 Oh10 Xj11
+MESSAGE depth 1-40 ev 55.5 n 77581 n/s 331 tm 234321 pv Of5 Xg5 Oh4 Xh6 Og6 Xi4 Oj5 Xi3 Og1 Xl6 Of2 Xd4 Oi7 Xh7 Oi5 Xj6 Ok6 Xl5 Ol7 Xl4 Ok4 Xl3 Ol2 Xk5 Oh2 Xi2 Ok3 Xm7 Oj4 Xm1 Oi9 Xm5 Om3 Xm8 Om6 Xk8 Ol8 Xl9 Ok10
+5,5
+INFO time_left 5632766
+TURN 5,6
+MESSAGE depth 1-43 ev 44.5 n 114244 n/s 1827987 tm 62 pv Xg5 Oh4 Xh6 Og6 Xi4 Oj5 Xi3 Og1 Xi5 Oh7 Xi8 Oi2 Xg8 Oh8 Xg9 Og7 Xi9 Of7 Xi7 Oj8 Xf8 Oi11 Xe8 Oe7 Xd7 Of9 Xc8 Od8 Xc9 Oc6 Xf11 Od4 Xf2 Oe5 Xf6 Oc5 Xb5 Oc4 Xf4 Of0 Xc3 Ob4
+MESSAGE depth 1-43 ev 55.6 n 115350 n/s 512 tm 224915 pv Oh4 Xh6 Og6 Xi4 Oj5 Xi3 Og1 Xi5 Oh7 Xi8 Oi2 Xg8 Oh8 Xg9 Og7 Xi9 Of7 Xi7 Oj8 Xf8 Oi11 Xe8 Oe7 Xd7 Oc6 Xc8 Od8 Xe10 Ob7 Xa8 Of9 Xe12 Of11 Xg11 Of12 Xf13 Oe11 Xd10 Ob9 Xb10 Od4 Xf2
+4,7
+INFO time_left 5407747
+TURN 7,6
+MESSAGE depth 1-38 ev 45.7 n 118269 n/s 1081356 tm 109 pv Xg1 Oh1 Xg7 Og6 Xh7 Oi7 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Oj5 Xi4 Og11 Xh12 Oi9 Xh10 Oh11 Xi11 Oj10 Xj12 Ok13 Xk11 Ol10 Xk9 Oe11 Xg9 Oe10 Xk12 Oi12 Xl11 Oh9 Xk10
+MESSAGE depth 1-38 ev 52.9 n 94665 n/s 438 tm 215946 pv Og6 Xh7 Oi7 Xg1 Oh1 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Oj5 Xi4 Og11 Xh12 Oi9 Xh10 Oh11 Xi11 Oj10 Xj12 Ok13 Xk11 Ol10 Xg8 Oe11 Xg9 Od11 Xf11 Og12 Xi3 Og3 Xi6 Oe10
+6,6
+INFO time_left 5191689
+TURN 7,7
+MESSAGE depth 1-36 ev 46.9 n 116967 n/s 1871614 tm 62 pv Xh7 Oi7 Xg1 Oh1 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Og8 Xk6 Ol6 Xl5 Ok4 Xj3 Oi3 Xj4 Ok11 Xc8 Ob8 Xh12 Ok10 Xk9 Oj10 Xl12
+MESSAGE depth 1-37 ev 53.5 n 148633 n/s 716 tm 207306 pv Oi7 Xg1 Oh1 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xd11 Og8 Xi2 Oi1 Xm8 Ol11 Xm12 Ol8 Xl10
+7,8
+INFO time_left 4984276
+TURN 1,6
+MESSAGE depth 1-36 ev 46.6 n 163812 n/s 3494673 tm 46 pv Xg1 Oh1 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xd11 Og8 Xi2 Oi1 Xm8 Ol11 Xm12 Ol8 Xl10
+MESSAGE depth 1-36 ev 54.7 n 176027 n/s 884 tm 198978 pv Oh1 Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+1,7
+INFO time_left 4785175
+TURN 8,4
+MESSAGE depth 1-35 ev 45.0 n 183940 n/s 3924113 tm 46 pv Xe8 Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+MESSAGE depth 1-34 ev 55.2 n 196100 n/s 1026 tm 191025 pv Oh8 Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+8,7
+INFO time_left 4594024
+TURN 6,9
+MESSAGE depth 1-33 ev 44.3 n 192761 n/s 6169952 tm 31 pv Xj6 Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+MESSAGE depth 1-32 ev 55.6 n 197678 n/s 1078 tm 183369 pv Oe9 Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+9,4
+INFO time_left 4410545
+TURN 8,3
+MESSAGE depth 1-31 ev 43.8 n 180236 n/s 339279 tm 531 pv Xd8 Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+MESSAGE depth 1-35 ev 55.9 n 183521 n/s 1042 tm 176073 pv Of8 Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xm8 Ol8 Xi8 Oi12 Xh12 Ol3 Xk4 Ok3 Xm3 Od11 Xl6 Ol4 Xm5 Ok7 Xl10 Of11 Xe11
+8,5
+INFO time_left 4234371
+TURN 6,2
+MESSAGE depth 1-29 ev 44.4 n 151590 n/s 37459 tm 4046 pv Xf9 Od7 Xi10 Og11 Xg9 Oj9 Xj8 Oj5 Xe10 Oi6 Xi4 Ol9 Xk9 Ol5 Xk5 Ok10 Xi3 Oj4 Xi2 Oi1 Xm8 Ol8 Xl11 Od11 Xj11 Oh9 Xf11 Oh3
+MESSAGE depth 1-29 ev 51.6 n 20935 n/s 123 tm 168979 pv Od6 Xe7 Od7 Xc9 Of6 Xc10 Ob8 Xh3 Og2 Xe11 Od11 Xj3 Oi3 Xk6 Ol6 Xk4 Oj5 Xl5 Oi2 Xh2 Oi8 Xm4 Oj7 Xj8 Oi10 Xi9 Og10 Xh10
+6,3
+INFO time_left 4065268
+TURN 7,4
+MESSAGE depth 1-24 ev 42.7 n 18770 n/s 400390 tm 46 pv Xe7 Od7 Xc9 Of6 Xe11 Od10 Xh2 Og3 Xc10 Oc11 Xb12 Ob10 Xi4 Oj4 Xd9 Of7 Xf4 Of11 Xi2 Oj2 Xj8 Oj5 Xh10
+MESSAGE depth 1-27 ev 54.5 n 36749 n/s 226 tm 162214 pv Od7 Xc9 Of6 Xe11 Od10 Xh2 Og3 Xc10 Oc11 Xb12 Ob10 Xi4 Oj4 Xe12 Oc7 Xf7 Of11 Xf12 Oi10 Xi9 Oj8 Xg8 Ok9 Xl10 Oh12 Xj10
+7,3
+INFO time_left 3902961
+TURN 9,2
+MESSAGE depth 1-27 ev 45.3 n 42849 n/s 400712 tm 106 pv Xc9 Of6 Xe11 Od10 Xh2 Og3 Xc10 Oc11 Xb12 Ob10 Xi4 Oj4 Xe10 Oc7 Xf7 Oi10 Xe12 Od11 Xd12 Of12 Xf11 Od9 Xi9 Oh9 Xh11 Oj10
+MESSAGE depth 1-1 ev U n 0 n/s 0 tm 211 pv
+6,5
+INFO time_left 3902686
+TURN 10,2
+MESSAGE depth 1-22 ev 45.4 n 48794 n/s 223063 tm 218 pv Xe11 Od10 Xh2 Og3 Xc10 Oc11 Xb12 Ob10 Xe10 Oc7 Xf7 Oh9 Xe12 Od11 Xj8 Oi10 Xi9 Oh10 Xh12 Oj11 Xk12
+MESSAGE depth 1-34 ev 47.5 n 29654 n/s 190 tm 155745 pv Ob8 Xh3 Og2 Xe11 Od11 Xj3 Of4 Xf7 Oh2 Xc1 Od1 Xc7 Oc8 Xi2 Og3 Xe5 Oi8 Xj5 Oj4 Xj8 Oi6 Xi9 Ok3 Xi4 Ol6 Xk5 Oj9 Xl5 Om5 Xl4 Ol2 Xm1 Ol7
+8,1
+INFO time_left 3746827
+TURN 2,7
+MESSAGE depth 1-33 ev 52.1 n 32796 n/s 524754 tm 62 pv Xh3 Og2 Xe11 Od11 Xj3 Of4 Xf7 Oh2 Xc1 Od1 Xc7 Oc8 Xi2 Og3 Xe5 Oi8 Xj5 Oj4 Xj8 Oi6 Xi9 Ok3 Xi4 Ol6 Xk5 Oj9 Xl5 Om5 Xl4 Ol2 Xm1 Ol7
+MESSAGE depth 1-20 ev 36.6 n 16033 n/s 107 tm 149495 pv Oi4 Xj3 Oj4 Xf4 Og3 Xd11 Oc11 Xe12 Of13 Xb10 Oa11 Xd9 Od10 Xb12 Ob11 Xe10 Og9 Xe11 Ok4
+4,8
+INFO time_left 3597248
+TURN 3,9
+MESSAGE depth 1-20 ev 67.7 n 10171 n/s 216980 tm 46 pv Xj3 Oj4 Xf4 Oe5 Xd11 Ob5 Xc5 Oc11 Xe12 Ob9 Xb10 Oa11 Xd10 Od9 Xf12 Oa9 Xc7 Oa10 Xa12
+MESSAGE depth 1-22 ev 33.8 n 22176 n/s 154 tm 143542 pv Oj4 Xf4 Oe5 Xd11 Ob5 Xc5 Oc11 Xe12 Ob9 Xb10 Oa11 Xd10 Od9 Xg9 Ok6 Xg10 Og11 Xd13 Of11 Xe10 Oa10
+4,9
+INFO time_left 3453594
+TURN 11,3
+MESSAGE depth 1-24 ev 65.3 n 21387 n/s 273776 tm 78 pv Xf4 Oe5 Xd11 Ob5 Xc5 Oc11 Xe12 Ob9 Xb10 Oa11 Xd10 Od9 Xg11 Of12 Xf11 Og10 Xi10 Oh11 Xh9 Og8 Xj8 Ok6 Xk4
+MESSAGE depth 1-22 ev 30.8 n 15934 n/s 115 tm 137777 pv Od9 Xf4 Oi1 Xe12 Of13 Xc12 Oc11 Xb12 Og9 Xe11 Of9 Xh9 Od12 Xb10 Oa11 Xe10 Ob13 Xg11 Ol4 Xk4 Oi8
+9,3
+INFO time_left 3315695
+TURN 12,4
+MESSAGE depth 1-20 ev 69.0 n 10238 n/s 81906 tm 124 pv Xf4 Oe5 Xe12 Of13 Xc12 Ob5 Xc5 Oa9 Xc7 Of12 Xe10 Ob13 Xc11 Oc13 Xe11 Ob11 Xe13 Oe14 Xk4
+MESSAGE depth 1-14 ev 19.2 n 15593 n/s 117 tm 132229 pv Ok4 Xl4 Of4 Xf7 Of13 Xe10 Oc11 Xe11 Of12 Xg8 Of9 Xh9 Oi10
+4,10
+INFO time_left 3183375
+TURN 4,11
+MESSAGE depth 1-26 ev 83.8 n 13709 n/s 219352 tm 62 pv Xl4 Of4 Xf7 Of13 Xb10 Oa11 Xc12 Oc11 Xb12 Oc7 Xe5 Og9 Xe11 Of9 Xh9 Of12 Xe10 Ob13 Xi10 Og8 Xj8 Ok6 Xk5 Ol7 Xj5
+MESSAGE depth 1-25 ev 14.5 n 25864 n/s 203 tm 126949 pv Of4 Xf7 Of13 Xb10 Oa11 Xc12 Oc11 Xb12 Oc7 Xe5 Og9 Xe11 Of9 Xh9 Of12 Xi10 Og8 Xe10 Ob13 Xj8 Ok6 Xk5 Ol7 Xj5
+4,5
+INFO time_left 3056306
+TURN 7,5
+MESSAGE depth 1-28 ev 86.2 n 22569 n/s 180542 tm 125 pv Xf7 Of13 Xb10 Oa11 Xc12 Oc11 Xb12 Oc7 Xe5 Og9 Xe11 Of9 Xh9 Of12 Xi10 Og8 Xj8 Og11 Xe10 Ob13 Xe13 Oe14 Xj9 Oj7 Xk8 Ol7 Xk7
+MESSAGE depth 1-24 ev 13.3 n 35478 n/s 291 tm 121871 pv Oc7 Xe5 Ob9 Xb10 Oa11 Xc11 Oe11 Xg9 Oc12 Xe13 Od12 Xi10 Oh9 Xh11 Og12 Xi12 Og10 Xi11 Oi13 Xi8 Oi9 Xj11 Ok11
+7,2
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 180000
+INFO timeout_turn 180000
+INFO game_type 0
+INFO rule 1
+INFO time_left 171676
+INFO folder C:\ProgramData
+BOARD
+7,2,2
+4,7,1
+12,4,2
+DONE
+MESSAGE depth 1-15 ev 33.5 n 2163 n/s 333 tm 6484 pv Oh5 Xc10 Oh6 Xh7 Og5 Xb9 Od11 Xc9 Oc8 Xe9 Od9 Xd8 Of10 Xe10
+5,7
+INFO time_left 165130
+TURN 10,2
+MESSAGE depth 1-29 ev 61.2 n 2176 n/s 139242 tm 15 pv Xc10 Oh6 Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xe7 Oa11 Xb6 Oa5 Xb7 Ob8 Xd7 Oa7 Xf9 Oc6 Xg10 Oh11
+MESSAGE depth 1-30 ev 43.0 n 4459 n/s 717 tm 6218 pv Oh6 Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xf8 Oe6 Xd6 Og6 Xi6 Og9
+6,7
+INFO time_left 158814
+TURN 7,7
+MESSAGE depth 1-27 ev 48.5 n 4968 n/s 158948 tm 31 pv Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe11 Oe13 Xd10 Of12 Xd6 Ob8 Xd5 Od4 Xe4 Of5 Xf3 Oc6
+MESSAGE depth 1-27 ev 56.0 n 10986 n/s 1840 tm 5968 pv Of6 Xb9 Od11 Xc9 Oc8 Xe9 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe11 Oe13 Xd10 Of12 Xe7 Ob8 Xd7 Ob7 Xf8 Oc11 Xd12 Of5 Xd6
+6,5
+INFO time_left 152761
+TURN 9,2
+MESSAGE depth 1-26 ev 43.6 n 10206 n/s 326579 tm 31 pv Xb9 Od11 Xc9 Oc8 Xe9 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe11 Oe13 Xd10 Of12 Xe7 Ob8 Xd7 Ob7 Xf8 Oc11 Xd12 Of5 Xd6
+MESSAGE depth 1-25 ev 54.5 n 7405 n/s 1294 tm 5718 pv Oc8 Xb9 Od11 Xe9 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe11 Oe13 Xd10 Of12 Xe7 Ob8 Xd7 Ob7 Xf8 Oc11 Xd12 Of5 Xd6
+8,2
+INFO time_left 146959
+TURN 9,1
+MESSAGE depth 1-37 ev 48.4 n 10628 n/s 340044 tm 31 pv Xb9 Od11 Xe9 Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oa9 Xa8 Oc12 Xf8 Og7 Xd6 Oc5 Xd13 Oc14
+MESSAGE depth 1-35 ev 46.0 n 13504 n/s 2455 tm 5499 pv Od11 Xe9 Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oa9 Xa8 Ob12 Xe13 Oc12 Xg13 Od13 Xg11
+11,3
+INFO time_left 141379
+TURN 9,4
+MESSAGE depth 1-37 ev 56.4 n 13838 n/s 221406 tm 62 pv Xe9 Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oe6 Xg8 Of8 Xg9 Of5 Xf4 Og4 Xi2 Og11 Xc12 Oc13
+MESSAGE depth 1-33 ev 40.2 n 17151 n/s 3257 tm 5265 pv Od9 Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oa9 Xa8 Ob12 Xe13 Oc12 Xg13 Od13 Xg11
+9,3
+INFO time_left 136059
+TURN 8,3
+MESSAGE depth 1-35 ev 60.8 n 14190 n/s 90800 tm 156 pv Xd8 Of10 Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oe6 Xg8 Of8 Xg9 Of5 Xf4 Og4 Xi2 Og11 Xc12 Oc13
+MESSAGE depth 1-18 ev 35.3 n 15886 n/s 3147 tm 5046 pv Of10 Xb10 Of7 Xb6 Oa5 Xb8 Ob7 Xe10 Of8 Xf9 Oe8 Xg6 Od10 Xd12 Of4 Xf5 Og8
+10,5
+INFO time_left 130940
+TURN 8,1
+MESSAGE depth 1-33 ev 64.3 n 13009 n/s 43820 tm 296 pv Xb10 Of7 Xe8 Oe10 Xb6 Oa5 Xe7 Oa11 Xb7 Ob8 Xd7 Oa7 Xf9 Oh3 Xh2 Oc6 Xg10 Oh11 Xf11 Oh9 Xc11 Oe6 Xg8 Of8 Xg9 Of5 Xf4 Og4 Xi2 Og11 Xc12 Oc13
+MESSAGE depth 1-27 ev 72.5 n 3672 n/s 755 tm 4859 pv Ob7 Xe10 Oe11 Xb10 Oc11 Xe7 Oa11 Xb11 Ob12 Xd6 Oe5 Xd4 Of8 Xe6 Oe8 Xd5 Od7 Xb6 Oa5 Xc6 Oa6 Xf7 Oc4 Xg8 Oh9 Xe3
+7,1
+TAKEBACK 7,1
+OK
+TAKEBACK 8,1
+MESSAGE depth 1-29 ev 24.0 n 8625 n/s 275993 tm 31 pv Xe10 Oe11 Xb10 Oc11 Xe7 Oa11 Xb11 Ob12 Xd6 Oe5 Xd4 Of8 Xe6 Oe8 Xd5 Od7 Xb6 Oa5 Xc6 Oa6 Xf7 Oc4 Xe3 Oc5 Xd3 Od2 Xg8 Oh9
+OK
+INFO time_left 130940
+TURN 10,1
+MESSAGE depth 1-19 ev 23.2 n 3005 n/s 618 tm 4859 pv Ob8 Xe10 Oe8 Xd10 Oa10 Xf7 Oc11 Xe7 Oa11 Xe11 Oe13 Xg8 Oi6 Xe6 Od5 Xg10 Og6 Xj6
+8,1
+INFO time_left 125948
+TURN 10,4
+MESSAGE depth 1-23 ev 74.2 n 3536 n/s 75428 tm 46 pv Xe10 Oe8 Xd10 Oa10 Xf7 Oc11 Xe11 Oe13 Xe7 Oa11 Xg8 Oe6 Xg6 Og7 Xi8 Of5 Xd7 Ob7 Xh9 Oh3 Xh2 Oi6
+MESSAGE depth 1-24 ev 25.4 n 3773 n/s 810 tm 4656 pv Oe8 Xe7 Oa11 Xd10 Oa10 Xf7 Oc11 Xe11 Oe13 Xg8 Oe6 Xg6 Og7 Xi8 Of5 Xd7 Ob7 Xh9 Oh3 Xh2 Og4 Xi2 Oa9
+8,4
+INFO time_left 121190
+TURN 7,5
+MESSAGE depth 1-22 ev 73.2 n 3513 n/s 112411 tm 31 pv Xe7 Oa11 Xd10 Oa10 Xf7 Oc11 Xe11 Oe13 Xg8 Oe6 Xg6 Og7 Xd7 Ob7 Xi8 Oj9 Xh9 Oi9 Xh8 Of8 Xg10
+MESSAGE depth 1-13 ev 29.2 n 1728 n/s 388 tm 4453 pv Od10 Xe7 Oa11 Xe6 Od5 Xg9 Oh9 Xg11 Oh10 Xd12 Oh3 Xh2
+10,3
+TAKEBACK 10,3
+OK
+TAKEBACK 7,5
+MESSAGE depth 1-19 ev 71.9 n 3088 n/s 197613 tm 15 pv Xe7 Oa11 Xe6 Od5 Xg9 Og8 Xi9 Oh9 Xh10 Of8 Xi8 Oi10 Xj8 Ok7 Xf12 Og11 Xd12 Oj11
+OK
+INFO time_left 121190
+TURN 7,5
+MESSAGE depth 1-19 ev 27.1 n 3564 n/s 797 tm 4468 pv Od10 Xe7 Oa11 Xe6 Od5 Xg9 Og8 Xi9 Oh9 Xh10 Of8 Xi8 Og7 Xi10 Oj4 Xi5 Od12 Xd13
+10,3
+TAKEBACK 10,3
+OK
+TAKEBACK 7,5
+MESSAGE depth 1-21 ev 72.3 n 3506 n/s 112112 tm 31 pv Xe7 Oa11 Xe6 Od5 Xg9 Og8 Xi9 Oh9 Xh10 Of8 Xi8 Oi10 Xj8 Ok7 Xf12 Og11 Xd12 Oj11 Xk12 Oc12
+OK
+INFO time_left 121190
+TURN 7,5
+MESSAGE depth 1-19 ev 26.7 n 3722 n/s 835 tm 4452 pv Od10 Xe7 Oa11 Xe6 Od5 Xg9 Og8 Xi9 Oh9 Xh10 Of8 Xi8 Og7 Xi10 Oj4 Xi5 Od12 Xd13
+10,3
+TAKEBACK 10,3
+OK
+TAKEBACK 7,5
+MESSAGE depth 1-24 ev 70.9 n 9840 n/s 209813 tm 46 pv Xe7 Oa11 Xe6 Od5 Xg9 Og8 Xi9 Oh9 Xh10 Of8 Xi8 Od12 Xd13 Oi10 Xg13 Oe13 Xj8 Ok7 Xi11 Oj11 Xk12 Oj10 Xk10
+OK
+TAKEBACK 8,4
+OK
+TAKEBACK 10,4
+OK
+TAKEBACK 8,1
+OK
+TAKEBACK 10,1
+OK
+TAKEBACK 10,5
+OK
+TAKEBACK 8,3
+OK
+TAKEBACK 9,3
+OK
+TAKEBACK 9,4
+OK
+TAKEBACK 11,3
+OK
+TAKEBACK 9,1
+OK
+TAKEBACK 8,2
+OK
+TAKEBACK 9,2
+OK
+TAKEBACK 6,5
+OK
+TAKEBACK 7,7
+OK
+TAKEBACK 6,7
+OK
+TAKEBACK 10,2
+OK
+TAKEBACK 5,7
+OK
+TAKEBACK 12,4
+OK
+INFO time_left 171797
+TURN 12,4
+MESSAGE depth 1-12 ev 33.0 n 2424 n/s 373 tm 6484 pv Oh6 Xc10 Oh5 Xh7 Og5 Xb9 Od11 Xc9 Oc8 Xe9 Od9
+6,7
+INFO timeout_turn 600000
+INFO timeout_match 600000
+INFO time_left 585087
+INFO time_left 585087
+TURN 2,5
+MESSAGE depth 1-30 ev 53.1 n 7468 n/s 477202 tm 15 pv Xc9 Oh5 Xh7 Of6 Xc10 Oc8 Xb9 Od11 Xe9 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Oe11 Xb10 Oc11 Xb6 Oa5 Xe7 Oa11 Xb11 Ob8 Xg9 Of8 Xf9 Og8 Xi8
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 600000
+INFO timeout_turn 600000
+INFO game_type 0
+INFO rule 1
+INFO time_left 591743
+INFO folder C:\ProgramData
+BOARD
+7,2,2
+4,7,1
+12,4,2
+DONE
+MESSAGE depth 1-35 ev 33.3 n 8470 n/s 363 tm 23296 pv Oh5 Xc10 Oh6 Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xe10 Oe11 Xe7 Ob10 Xb7 Od7 Xb6 Oa5 Xd6 Ob5 Xe6 Oe8 Xc6 Oa6 Xe5 Of7 Xg6 Of8 Xf9
+5,7
+INFO timeout_turn 900000
+INFO timeout_match 900000
+INFO time_left 891743
+TAKEBACK 5,7
+OK
+TAKEBACK 12,4
+MESSAGE depth 1-43 ev 69.2 n 35298 n/s 2254977 tm 15 pv Xc10 Oh6 Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe7 Oe11 Xb6 Oa5 Xe4 Of5 Xb7 Of7 Xf4 Od4 Xe5 Ob8 Xg9 Of8 Xg8 Og7 Xi5 Oi6 Xe3 Oe6 Xg4 Og3 Xd2 Oc1
+OK
+INFO time_left 891797
+TURN 12,4
+MESSAGE depth 1-46 ev 29.7 n 39156 n/s 1109 tm 35280 pv Oh6 Xc10 Oh5 Xh7 Of6 Xc9 Oc8 Xb9 Od11 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Ob10 Xe7 Oe11 Xb6 Oa5 Xe4 Of5 Xb7 Of7 Xf4 Od4 Xe5 Ob8 Xg9 Of8 Xg8 Og7 Xi5 Oi6 Xe3 Oe6 Xg4 Og3 Xd2 Oc1 Xi9 Oh9
+6,7
+TAKEBACK 6,7
+OK
+TAKEBACK 12,4
+MESSAGE depth 1-58 ev 62.9 n 62188 n/s 1326535 tm 46 pv Xc10 Oh5 Xh7 Of6 Xb9 Od11 Xc9 Oc8 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Oe11 Xb10 Oc11 Xb11 Ob8 Xd12 Oc12 Xe7 Oa11 Xd4 Od5 Xb6 Oa5 Xe3 Of2 Xe4 Of11 Xg11 Of5 Xf4 Oc4 Xa7 Oc5 Xg3 Oi1 Xe6 Oe5 Xi9 Oh10 Xi7 Oi8 Xg7 Of7 Xj7 Ok7 Xj6 Og4 Xk5 Oh8 Xj4
+OK
+INFO time_left 891797
+TURN 12,4
+MESSAGE depth 1-56 ev 35.8 n 64915 n/s 1839 tm 35280 pv Oh5 Xc10 Oh6 Xh7 Of6 Xc9 Oc8 Xb9 Od11 Xe9 Oh3 Xh2 Od9 Xd8 Of10 Xe10 Oe8 Xg6 Oe11 Xb10 Oc11 Xb11 Ob8 Xd12 Oc12 Xe7 Oa11 Xd4 Od5 Xb6 Oa5 Xe3 Of2 Xe4 Of11 Xg11 Of5 Xf4 Oc4 Xa7 Oc5 Xg3 Oe5 Xg4 Og5 Xi9 Oh10 Xi7 Oi8 Xj10 Oj7 Xh9 Of9 Xf12 Ok9
+5,7
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 0
+INFO rule 1
+INFO time_left 898875
+INFO folder C:\ProgramData
+BOARD
+0,0,2
+2,2,1
+2,4,2
+DONE
+MESSAGE depth 1-19 ev 74.1 n 11706 n/s 329 tm 35577 pv Oe5 Xd5 Og4 Xf4 Og5 Xd3 Oc4 Xf3 Of2 Xf6 Og6 Xg3 Oe3 Xc6 Oe4 Xe7 Od4 Xc5
+5,4
+END
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 899629
+INFO folder C:\ProgramData
+BOARD
+0,0,1
+2,2,2
+2,4,1
+5,4,2
+DONE
+MESSAGE depth 1-20 ev 24.8 n 12453 n/s 349 tm 35592 pv Xd5 Og4 Xf4 Og5 Xd3 Oc4 Xg6 Of6 Xd4 Od6 Xe7 Oh3 Xf3 Of5 Xi2 Og2 Xi5 Oj4 Xh4
+5,3
+______Process started______
+START 15
+MESSAGE Detected following devices
+MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+OK
+INFO max_memory 2091909120
+INFO timeout_match 900000
+INFO timeout_turn 900000
+INFO game_type 1
+INFO rule 1
+INFO time_left 863118
+INFO folder C:\ProgramData
+BOARD
+0,0,2
+2,2,1
+2,4,2
+5,4,1
+5,3,2
+DONE
+MESSAGE depth 1-19 ev 74.1 n 7829 n/s 229 tm 34139 pv Og4 Xf4 Og5 Xg6 Of6 Xe7 Oi5 Xf5 Og7 Xh8 Oj4 Xh6 Oh4 Xi3 Oj6 Xg3 Oj5 Xh5
+4,6
+INFO time_left 863969
+TURN 4,6
+MESSAGE depth 1-27 ev 75.4 n 15263 n/s 977130 tm 15 pv Og4 Xe4 Of3 Xf7 Oe6 Xd7 Od6 Xe8 Oc6 Xf6 Oc7 Xf4 Of8 Xg6 Oh5 Xh7 Of5 Xi6 Oe7 Xc5 Oe9 Xd8 Oh6 Xg7 Oh3 Xi2
+MESSAGE depth 1-24 ev 22.5 n 21333 n/s 624 tm 34170 pv Xe4 Of3 Xd6 Od7 Xe6 Of7 Xc6 Ob6 Xe7 Of6 Xc5 Of5 Xf4 Of8 Xf9 Oc4 Xe10 Og7 Xb7 Oa8 Xe9 Oe8 Xh8
+4,4
+INFO time_left 828928
+TURN 4,4
+MESSAGE depth 1-23 ev 23.2 n 13899 n/s 444815 tm 31 pv Xe4 Of3 Xf7 Oe6 Xd7 Od6 Xg6 Oe8 Xe7 Og7 Xc7 Ob7 Xf6 Oh7 Xi5 Og5 Xh3 Oj6 Xi4 Oh5 Xj7 Ok6
+MESSAGE depth 1-26 ev 77.3 n 15726 n/s 479 tm 32795 pv Of3 Xf7 Oe6 Xd7 Od6 Xg6 Oc6 Xf6 Oc7 Xf4 Of5 Xe8 Oh5 Xi5 Oe3 Xg3 Ob6 Xa6 Oc5 Xd9 Oc10 Xd4 Ob4 Xe7 Ob5
+3,5
+INFO time_left 829704
+TURN 3,5
+MESSAGE depth 1-23 ev 77.9 n 20876 n/s 668133 tm 31 pv Of3 Xd6 Od7 Xe6 Of7 Xc6 Ob6 Xe7 Of6 Xc5 Of5 Xf4 Of8 Xf9 Oc4 Xe10 Og7 Xh8 Og5 Xe9 Oe8 Xb7
+END
+END

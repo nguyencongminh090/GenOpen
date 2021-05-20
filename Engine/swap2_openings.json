@@ -1,0 +1,7 @@
+[
+[{"row": 5, "col": 11, "sign": "CROSS"}, {"row": 6, "col": 11, "sign": "CIRCLE"}, {"row": 6, "col": 13, "sign": "CROSS"}],
+[{"row": 12, "col": 11, "sign": "CROSS"}, {"row": 13, "col": 13, "sign": "CIRCLE"}, {"row": 14, "col": 12, "sign": "CROSS"}],
+[{"row": 13, "col": 11, "sign": "CROSS"}, {"row": 12, "col": 10, "sign": "CIRCLE"}, {"row": 10, "col": 11, "sign": "CROSS"}],
+[{"row": 11, "col": 8, "sign": "CROSS"}, {"row": 10, "col": 9, "sign": "CIRCLE"}, {"row": 11, "col": 12, "sign": "CROSS"}],
+[{"row": 10, "col": 9, "sign": "CROSS"}, {"row": 12, "col": 8, "sign": "CIRCLE"}, {"row": 13, "col": 4, "sign": "CROSS"}]
+]

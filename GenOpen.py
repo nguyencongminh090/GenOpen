@@ -1,85 +1,70 @@
-# from connect import *
+from connect import *
+from Generate import generate
+import keyboard
+import json
+import os
 
 
-def generate():
-    pass
+init('Engine\\engine.exe')
 
 
-def evaluate():
-    pass
+def evaluate(time_set, ram_limits=2):
+    t = open('Generate\\Gen.txt', 'r')
+    k = open('Evaluate\\Final.txt', 'w')
+    proc = open('Processing\\Processing.txt', 'w+')
+    data = t.read().split('\n')
+    t.close()
+    for i in range(len(data)):
+        # Filter
+        print('ID:', i, '//', data[i])
+        opening = data[i].split(' - ')
+        evaluates = float(test_sw(opening, time_set, ram_limits, ))
+        print('-->', evaluates)
+        proc.write(data[i] + '\n')
+        if 30 <= evaluates <= 80:
+            k.write(data[i] + '\n')
+                    
+    k.close()
 
 
-def xline(a, b):
-    lst = []
-    match = []
-    # Case 1
-    for i in range(1, 5):
-        if a[1] + i <= 14:
-            lst.append([a[0], a[1] + i])
-        if a[1] - i >= 0:
-            lst.append([a[0], a[1] - i])
-        if a[0] + i <= 14:
-            lst.append([a[0] + i, a[1]])
-        if a[0] - i >= 0:
-            lst.append([a[0] - i, a[1]])
-        if a[0] + i <= 14 and a[1] + i <= 14:
-            lst.append([a[0] + i, a[1] + i])
-        if a[0] - i >= 0 and a[1] - i >= 0:
-            lst.append([a[0] - i, a[1] - i])
-        if a[0] - i >= 0 and a[1] + i <= 14:
-            lst.append([a[0] - i, a[1] + i])
-        if a[0] + i <= 14 and a[1] - i >= 0:
-            lst.append([a[0] + i, a[1] - i])
-    for i in range(1, 5):
-        if b[1] + i <= 14:
-            if [b[0], b[1] + i] in lst:
-                match.append([b[0], b[1] + i])
-        if b[1] - i >= 0:
-            if [b[0], b[1] - i] in lst:
-                match.append([b[0], b[1] - i])
-        if b[0] + i <= 14:
-            if [b[0] + i, b[1]] in lst:
-                match.append([b[0] + i, b[1]])
-        if b[0] - i >= 0:
-            if [b[0] - i, b[1]] in lst:
-                match.append([b[0] - i, b[1]])
-        if b[0] + i <= 14 and b[1] + i <= 14:
-            if [b[0] + i, b[1] + i] in lst:
-                match.append([b[0] + i, b[1] + i])
-        if b[0] - i >= 0 and b[1] - i >= 0:
-            if [b[0] - i, b[1] - i] in lst:
-                match.append([b[0] - i, b[1] - i])
-        if b[0] - i >= 0 and b[1] + i <= 14:
-            if [b[0] - i, b[1] + i] in lst:
-                match.append([b[0] - i, b[1] + i])
-        if b[0] + i <= 14 and b[1] - i >= 0:
-            if [b[0] + i, b[1] - i] in lst:
-                match.append([b[0] + i, b[1] - i])
-    # Filter
-    if a[0] == b[0]:
-        i = 0
-        while i <= len(match)-1:
-            if match[i][0] == min(a, b)[0] and abs(match[i][1] - min(a, b)[1]) <= 5:
-                match.pop(i)
-            else:
-                i += 1
-    elif a[1] == b[1]:
-        i = 0
-        while i <= len(match)-1:
-            if match[i][1] == min(a, b)[1] and abs(match[i][0] - min(a, b)[0]) <= 5:
-                match.pop(i)
-            else:
-                i += 1
-    i = 0
-    while i <= len(match)-1:
-        if abs(match[i][0] - a[0]) + 1 == 5 or abs(match[i][1] - a[1]) + 1 == 5:
-            match.remove(match[i])
-        elif abs(match[i][0] - b[0]) + 1 == 5 or abs(match[i][1] - b[1]) + 1 == 5:
-            match.remove(match[i])
-        else:
-            i += 1
-    return match
+f = open('config.json')
+config = json.load(f)
+board_size = config['board-size']
 
-
-def distance():
-    pass
+while True:
+    os.system('cls')
+    print('What do you want?')
+    print('[1] Generate opening (default)')
+    print('[2] Evaluate opening')
+    print('[3] About')
+    print('[4] Exit')
+    inp = int(input('Choice: '))
+    if inp == 4:
+        exit()
+    elif inp == 3:
+        os.system('cls')
+        print('ABOUT ME AND MY PROJECT:')
+        print("- My name Nguyen Cong Minh. I'm 15 years old. My project is about generate opening for Gomoku.")
+        print('NOTE: This project still in develop, if you found some bug you can send email to me.')
+        print('EMAIL: nguyencongminh050@gmail.com')
+        print('Github: nguyencongminh090')
+        print('\n\n(Press enter to continue)')
+        os.system('pause>nul')
+        continue
+    elif inp == 2:
+        os.system('cls')
+        print('EVALUATE')
+        print('------------')
+        times = input('Time (seconds): ')
+        print('Default value for Ram Limit is 2 GB')
+        ram_limit = int(input('Ram Limit (GB): '))
+        evaluate(times, ram_limit)
+        print('Status: DONE')
+        os.system('pause>nul')
+    elif inp == 1:
+        os.system('cls')
+        print('GENERATE')
+        print('------------')
+        generate(board_size)
+        print('Status: DONE')
+        os.system('pause>nul')

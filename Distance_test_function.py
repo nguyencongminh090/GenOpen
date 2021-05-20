@@ -48,7 +48,7 @@ def xline(a, b):
     if a[0] == b[0]:
         i = 0
         while i <= len(match)-1:
-            if match[i][0] == min(a,b)[0] and abs(match[i][1] - min(a,b)[1]) <= 5:
+            if match[i][0] == min(a, b)[0] and abs(match[i][1] - min(a,b)[1]) <= 5:
                 match.pop(i)
             else:
                 i += 1

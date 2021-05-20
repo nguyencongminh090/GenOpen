@@ -1,0 +1,36 @@
+{
+  "use_logging": true,
+  "always_ponder": true,
+  "swap2_openings_file": "swap2_openings.json",
+  "networks": {
+    "freestyle": "freestyle_6x64.bin",
+    "standard": "standard_6x64.bin",
+    "renju": "",
+    "caro": ""
+  },
+  "use_symmetries": true,
+  "threads": [
+    {
+      "device": "CPU"
+    }
+  ],
+  "search_options": {
+    "batch_size": 8,
+    "exploration_constant": 1.25,
+    "expansion_prior_treshold": 0.0001,
+    "max_children": 30,
+    "noise_weight": 0,
+    "use_endgame_solver": true,
+    "use_vcf_solver": true
+  },
+  "tree_options": {
+    "max_number_of_nodes": 800000000,
+    "bucket_size": 100000000
+  },
+  "cache_options": {
+    "min_cache_size": 4194304,
+    "max_cache_size": 6291456,
+    "update_from_search": false,
+    "update_visit_treshold": 1000
+  }
+}

@@ -1,0 +1,83 @@
+Compiled on May 17 2021 at 21:00:40
+Launched in Engine\
+Answered : MESSAGE Detected following devices
+Answered : MESSAGE CPU : GenuineIntel : 8 x AVX with 6091MB of memory
+Answered : OK
+Received : INFO max_memory 2147483648
+Received : INFO timeout_match 900000
+Received : INFO timeout_turn 900000
+Received : INFO game_type 1
+Received : INFO rule 1
+Received : INFO time_left 900000
+Received : BOARD
+Received : 0,0,2
+Received : 3,4,1
+Received : 0,1,2
+Received : DONE
+Initialized in 0.031228 seconds
+BEST
+CIRCLE ( 5, 4) : U : Q=0.992940 : 0.000539 : 0.006521 : P=0.101077 : Visits=1166 : Children=30
+CIRCLE ( 6, 5) : U : Q=0.992392 : 0.000668 : 0.006939 : P=0.092751 : Visits=1026 : Children=30
+CIRCLE ( 3, 4) : U : Q=0.995621 : 0.000445 : 0.003934 : P=0.064594 : Visits=957 : Children=30
+CIRCLE ( 4, 5) : U : Q=0.989482 : 0.000705 : 0.009813 : P=0.106127 : Visits=951 : Children=30
+CIRCLE ( 5, 6) : U : Q=0.992221 : 0.000681 : 0.007098 : P=0.079936 : Visits=873 : Children=30
+CIRCLE ( 6, 3) : U : Q=0.994314 : 0.000571 : 0.005116 : P=0.062303 : Visits=813 : Children=30
+CIRCLE ( 5, 5) : U : Q=0.992814 : 0.000570 : 0.006616 : P=0.069659 : Visits=804 : Children=30
+CIRCLE ( 6, 4) : U : Q=0.993225 : 0.000544 : 0.006231 : P=0.063347 : Visits=748 : Children=30
+CIRCLE ( 7, 6) : U : Q=0.994996 : 0.000665 : 0.004339 : P=0.046181 : Visits=648 : Children=30
+CIRCLE ( 4, 4) : U : Q=0.994682 : 0.000581 : 0.004736 : P=0.047420 : Visits=642 : Children=30
+  X   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  X   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _    4  _   _   _   _   _   _   _   _   _ 
+  _   _   _    6  80   8  11  _   _   _   _   _   _   _   _ 
+  _   _   _   O   53  79  38   3  _   _   _   _   _   _   _ 
+  _   _    4  22  97  67  73   5  _   _   _   _   _   _   _ 
+  _   _   _   68  62  86  35  10   1  _   _   _   _   _   _ 
+  _   _   _   18  51  30  54   7  _   _   _   _   _   _   _ 
+  _   _   _   _    3   6   4   1  _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+
+CROSS  ( 0, 0) : U : Q=0.006091 : 0.000617 : 0.993294 : P=0.000000 : Visits=11922 : Children=30
+CIRCLE ( 5, 4) : U : Q=0.992940 : 0.000539 : 0.006521 : P=0.101077 : Visits=1166 : Children=30
+CROSS  ( 6, 5) : U : Q=0.004250 : 0.000524 : 0.995227 : P=0.089840 : Visits=99 : Children=30
+CIRCLE ( 4, 4) : U : Q=0.995771 : 0.000342 : 0.003888 : P=0.187581 : Visits=20 : Children=30
+CROSS  ( 4, 5) : U : Q=0.003526 : 0.000370 : 0.996104 : P=0.209143 : Visits=6 : Children=30
+CIRCLE ( 3, 4) : U : Q=0.996205 : 0.000419 : 0.003376 : P=0.349096 : Visits=2 : Children=4
+CROSS  ( 6, 4) : U : Q=0.002704 : 0.000468 : 0.996828 : P=0.637885 : Visits=1 : Children=30
+CIRCLE ( 2, 5) : U : Q=0.000000 : 0.000000 : 0.000000 : P=0.493077 : Visits=0 : Children=0
+----EvaluationQueue----
+avg batch size = 7.994505
+network   = 33.983365s : 1274 : 26.674541 ms
+pack      = 0.000000s : 1274 : 0.000000 us
+unpack    = 0.000000s : 1274 : 0.000000 us
+
+----SearchStats----
+nb_duplicate_nodes = 1
+select     = 0.000000s : 11923 : 0.000000 us
+expand     = 0.890616s : 11922 : 74.703568 us
+vcf solver = 0.671866s : 11922 : 56.355117 us
+backup     = 0.031246s : 11922 : 2.620905 us
+evaluate   = 0.000000s : 10185 : 0.000000 us
+game rules = 0.000000s : 11923 : 0.000000 us
+
+----TreeStats----
+used nodes      = 331442
+allocated nodes = 100000000
+proven nodes    = 0 : 0 : 0 (win:draw:loss)
+memory = 10MB
+----CacheStats----
+hit rate = 14.500000%
+time_seek    = 0.000000s : 11922 : 0.000000 us
+time_insert  = 0.015625s : 10185 : 1.534119 us
+time_cleanup = 0.000000s : 1 : 0.000000 us
+entries = 10185 : 0 : 10185 (stored:buffered:allocated)
+memory = 37MB
+
+Answered : MESSAGE depth 1-8 ev 99.3 n 11922 n/s 334 tm 35623 pv Of4 Xg5 Oe4 Xe5 Od4 Xg4 Oc5
+Answered : 4,5
+Received : RESTART

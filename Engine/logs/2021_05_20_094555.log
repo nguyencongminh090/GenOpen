@@ -1,0 +1,140 @@
+Compiled on May 17 2021 at 21:00:40
+Launched in Engine\
+Received : INFO max_memory 5368709120
+Received : INFO timeout_match 900000
+Received : INFO timeout_turn 900000
+Received : INFO game_type 1
+Received : INFO rule 1
+Received : INFO time_left 900000
+Received : BOARD
+Received : 0,0,2
+Received : 6,5,1
+Received : 0,1,2
+Received : DONE
+BEST
+CROSS  ( 0, 2) : U : Q=0.030576 : 0.000730 : 0.968694 : P=0.037978 : Visits=174 : Children=30
+CROSS  ( 4, 6) : U : Q=0.004568 : 0.000466 : 0.994967 : P=0.046914 : Visits=60 : Children=30
+CROSS  ( 4, 4) : U : Q=0.004036 : 0.000328 : 0.995636 : P=0.044960 : Visits=56 : Children=30
+CROSS  ( 3, 5) : U : Q=0.004314 : 0.000367 : 0.995320 : P=0.040491 : Visits=51 : Children=30
+CROSS  ( 4, 5) : U : Q=0.004803 : 0.000490 : 0.994706 : P=0.037978 : Visits=49 : Children=30
+CROSS  ( 3, 6) : U : Q=0.003906 : 0.000363 : 0.995732 : P=0.039374 : Visits=49 : Children=30
+CROSS  ( 1,10) : U : Q=0.005684 : 0.000355 : 0.993962 : P=0.036023 : Visits=47 : Children=30
+CROSS  ( 6, 6) : U : Q=0.004005 : 0.000516 : 0.995480 : P=0.036582 : Visits=46 : Children=30
+CROSS  ( 3, 4) : U : Q=0.004387 : 0.000306 : 0.995308 : P=0.035744 : Visits=45 : Children=30
+CROSS  ( 3, 7) : U : Q=0.004189 : 0.000334 : 0.995476 : P=0.034906 : Visits=44 : Children=30
+  X   _  124  X   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   27  _   _   33  _   _   _   _ 
+  _   _   _   _   _   29  27  27  30  25  _   _   _   _   _ 
+  _   _   _   27  32  36  35  31  29  25  _   _   _   _   _ 
+  _   _   _   29  40  35  42  29  28  25  _   _   _   _   _ 
+  _   _   _   _   28  27  O   27  27  25  _   _   _   _   _ 
+  _   _   _   _   30  _   32  _   26  _   _   _   _   _   _ 
+  _   _   _   _   _   _   O   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+
+CIRCLE ( 0, 0) : U : Q=0.991705 : 0.000422 : 0.007873 : P=0.000000 : Visits=1400 : Children=30
+CROSS  ( 0, 2) : U : Q=0.030576 : 0.000730 : 0.968694 : P=0.037978 : Visits=174 : Children=30
+CIRCLE ( 0, 4) : U : Q=0.996650 : 0.000304 : 0.003046 : P=0.428346 : Visits=85 : Children=30
+CROSS  ( 4, 5) : U : Q=0.003612 : 0.000388 : 0.996001 : P=0.040578 : Visits=4 : Children=30
+CIRCLE ( 5, 8) : U : Q=0.996004 : 0.000386 : 0.003610 : P=0.088422 : Visits=1 : Children=30
+CROSS  ( 5, 5) : U : Q=0.000000 : 0.000000 : 0.000000 : P=0.156922 : Visits=0 : Children=0
+----EvaluationQueue----
+avg batch size = 7.993339
+network   = 1414.629970s : 46092 : 30.691443 ms
+pack      = 0.250003s : 46092 : 5.424007 us
+unpack    = 0.359364s : 46092 : 7.796663 us
+
+----SearchStats----
+nb_duplicate_nodes = 0
+select     = 0.000000s : 1400 : 0.000000 us
+expand     = 0.000000s : 1400 : 0.000000 us
+vcf solver = 0.015620s : 1400 : 11.157479 us
+backup     = 0.000000s : 1400 : 0.000000 us
+evaluate   = 0.000000s : 392 : 0.000000 us
+game rules = 0.000000s : 1400 : 0.000000 us
+
+----TreeStats----
+used nodes      = 39702
+allocated nodes = 100000000
+proven nodes    = 0 : 0 : 5 (win:draw:loss)
+memory = 1MB
+----CacheStats----
+hit rate = 72.000000%
+time_seek    = 0.015618s : 1400 : 11.155946 us
+time_insert  = 0.000000s : 392 : 0.000000 us
+time_cleanup = 0.015623s : 1 : 15.623331 ms
+entries = 1607 : 27702 : 29309 (stored:buffered:allocated)
+memory = 32MB
+
+Answered : MESSAGE depth 1-6 ev 0.8 n 1400 n/s 44767 tm 31 pv Xa2 Oa4 Xe5 Of8 Xf5
+BEST
+CIRCLE ( 6, 5) : U : Q=0.992443 : 0.000475 : 0.007081 : P=0.066980 : Visits=707 : Children=30
+CIRCLE ( 4, 5) : U : Q=0.993293 : 0.000523 : 0.006184 : P=0.060075 : Visits=683 : Children=30
+CIRCLE ( 7, 5) : U : Q=0.994822 : 0.000425 : 0.004752 : P=0.043377 : Visits=567 : Children=30
+CIRCLE ( 7, 6) : U : Q=0.992474 : 0.000430 : 0.007096 : P=0.051300 : Visits=566 : Children=30
+CIRCLE ( 8, 7) : U : Q=0.994684 : 0.000450 : 0.004866 : P=0.040838 : Visits=527 : Children=30
+CIRCLE ( 4, 7) : U : Q=0.992582 : 0.000460 : 0.006958 : P=0.048688 : Visits=519 : Children=30
+CIRCLE ( 7, 7) : U : Q=0.993073 : 0.000388 : 0.006538 : P=0.046692 : Visits=517 : Children=30
+CIRCLE ( 4, 6) : U : Q=0.993467 : 0.000496 : 0.006037 : P=0.040216 : Visits=463 : Children=30
+CIRCLE ( 6, 7) : U : Q=0.986346 : 0.000510 : 0.013144 : P=0.053936 : Visits=392 : Children=30
+CIRCLE ( 6, 4) : U : Q=0.992093 : 0.000473 : 0.007435 : P=0.036361 : Visits=385 : Children=30
+  X   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  X   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   17  _   34  _   _   _   _   _   _   _   _ 
+  _   _   _   _   29  64  43  48  31  18  _   _   _   _   _ 
+  _   _   _   _   21  23  O   18  31  21  _   _   _   _   _ 
+  _   _   _   _   36  66  29  36  33  29  _   _   _   _   _ 
+  _   _   _   _   26  53  53  48  14  16  _   _   _   _   _ 
+  _   _   _   _   _   29  33  49  26  13  _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ 
+
+CROSS  ( 0, 0) : U : Q=0.007046 : 0.000480 : 0.992474 : P=0.000000 : Visits=10648 : Children=30
+CIRCLE ( 6, 5) : U : Q=0.992443 : 0.000475 : 0.007081 : P=0.066980 : Visits=707 : Children=30
+CROSS  ( 2, 0) : U : Q=0.019577 : 0.000768 : 0.979654 : P=0.085534 : Visits=84 : Children=30
+CIRCLE ( 3, 0) : U : Q=0.997612 : 0.000370 : 0.002019 : P=0.312576 : Visits=35 : Children=30
+CROSS  ( 7, 4) : U : Q=0.002542 : 0.000400 : 0.997058 : P=0.044525 : Visits=2 : Children=30
+CIRCLE ( 5, 4) : U : Q=0.995736 : 0.000501 : 0.003763 : P=0.185436 : Visits=1 : Children=30
+CROSS  ( 7, 6) : U : Q=0.000000 : 0.000000 : 0.000000 : P=0.478453 : Visits=0 : Children=0
+----EvaluationQueue----
+avg batch size = 7.993361
+network   = 1449.613334s : 47298 : 30.648512 ms
+pack      = 0.250003s : 47298 : 5.285706 us
+unpack    = 0.359364s : 47298 : 7.597864 us
+
+----SearchStats----
+nb_duplicate_nodes = 1
+select     = 0.000000s : 10649 : 0.000000 us
+expand     = 0.140620s : 10648 : 13.206235 us
+vcf solver = 0.140641s : 10648 : 13.208206 us
+backup     = 0.015620s : 10648 : 1.466919 us
+evaluate   = 0.000000s : 9641 : 0.000000 us
+game rules = 0.000000s : 10649 : 0.000000 us
+
+----TreeStats----
+used nodes      = 300917
+allocated nodes = 100000000
+proven nodes    = 0 : 0 : 5 (win:draw:loss)
+memory = 9MB
+----CacheStats----
+hit rate = 9.400000%
+time_seek    = 0.000000s : 10648 : 0.000000 us
+time_insert  = 0.000000s : 9641 : 0.000000 us
+time_cleanup = 0.015622s : 1 : 15.622377 ms
+entries = 9646 : 19663 : 29309 (stored:buffered:allocated)
+memory = 37MB
+
+Answered : MESSAGE depth 1-7 ev 99.2 n 10648 n/s 298 tm 35623 pv Og5 Xc0 Od0 Xh4 Of4 Xh6
+Answered : 5,6
+Received : RESTART
