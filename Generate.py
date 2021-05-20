@@ -85,7 +85,7 @@ def check(a, b, c, n):
     t1 = 1
     t2 = 1
     t3 = 1
-    if 0 in (a[0], c[0]) or n in (a[1], c[1]):
+    if 0 in (a[0], c[0]) or n in (a[0], c[0]) or 0 in (a[1], c[1]) or n in (a[1], c[1]):
         pass
     else:
         if abs(a[0] - b[0]) + 1 < 4 or abs(a[1] - b[1]) + 1 < 4:
