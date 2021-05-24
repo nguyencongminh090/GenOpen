@@ -1,30 +1,27 @@
 from connect import *
-from Generate import generate
-import keyboard
+from Gen import generate
+from remove_duplicate import remove_duplicate
 import json
 import os
 
 
-init('Engine\\engine.exe')
-
-
 def evaluate(time_set, ram_limits=2):
-    t = open('Generate\\Gen.txt', 'r')
-    k = open('Evaluate\\Final.txt', 'w')
-    proc = open('Processing\\Processing.txt', 'w+')
+    t = open('Generate\\Gen.txt', 'r')    
     data = t.read().split('\n')
+    data = data[:-1]
     t.close()
+    
     for i in range(len(data)):
-        # Filter
-        print('ID:', i, '//', data[i])
+        # Filter        
+        print('ID:', i)
         opening = data[i].split(' - ')
-        evaluates = float(test_sw(opening, time_set, ram_limits, ))
-        print('-->', evaluates)
-        proc.write(data[i] + '\n')
+        evaluates = float(test_sw(opening, time_set, ram_limits))
         if 30 <= evaluates <= 80:
-            k.write(data[i] + '\n')
-                    
-    k.close()
+            write_output = open('Evaluate\\Final.txt', 'a+')
+            write_output.write('\n{} - [{}]'.format(data[i], evaluates))            
+            print('ID:', i, '//', data[i])
+            print('{} - [{}]'.format(data[i], evaluates))
+            write_output.close()
 
 
 f = open('config.json')
@@ -53,6 +50,7 @@ while True:
         continue
     elif inp == 2:
         os.system('cls')
+        init('Engine\\engine.exe')
         print('EVALUATE')
         print('------------')
         times = input('Time (seconds): ')
@@ -60,11 +58,15 @@ while True:
         ram_limit = int(input('Ram Limit (GB): '))
         evaluate(times, ram_limit)
         print('Status: DONE')
-        os.system('pause>nul')
+##        os.system('pause>nul')
+        exit_engine()
+        os.system('shutdown -s -t 00')
     elif inp == 1:
         os.system('cls')
         print('GENERATE')
         print('------------')
         generate(board_size)
+        print('REMOVE DUPLICATE')
+        remove_duplicate('Generate\\Gen.txt')
         print('Status: DONE')
         os.system('pause>nul')
