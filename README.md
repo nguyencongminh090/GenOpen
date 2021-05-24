@@ -3,6 +3,7 @@ Generate Opening for Gomoku
 
 This program base on my knowledge about Gomoku. It has some problems with corner opening.
 # Output
-- The default output is Opening.txt in the GenOpen directory
-# Need help.
-If you are interested in this project, you can contribute.  I hope someone will help me finish this project. Thanks!!
+- The output after Generate is in Generate folder. (Gen.txt)
+- The output after Evaluate is in Evaluate folder. (Final.txt)
+# BUG REPORT
+- If you found some bugs, please report to me via email: nguyencongminh050@gmail.com. THANKS!
